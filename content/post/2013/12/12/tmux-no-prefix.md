@@ -2,7 +2,7 @@
 title: "tmuxのプレフィックスに疲れたらbind -nオプションを使おう"
 date: 2013-12-12
 comments: true
-tags: tmux
+tags: [ "tmux" ]
 ---
 
 ターミナルマルチプレクサ[tmux](http://tmux.sourceforge.net/)はとても便利ですが、操作の際にプレフィックスが必要で、ペインの切り替えなど頻繁に行うのはちょっと面倒です。

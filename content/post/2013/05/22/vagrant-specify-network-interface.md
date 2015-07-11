@@ -2,7 +2,7 @@
 title: "Vagrantで起動時のネットワークインターフェースを指定するには"
 date: 2013-05-22
 comments: true
-tags: vagrant
+tags: [ "vagrant" ]
 ---
 
 VagrantのPublicNetwork(Bridged)ネットワーク構成のときに、ホストマシンのネットワークインターフェースが複数あると毎回の起動時に選択するのが面倒です。

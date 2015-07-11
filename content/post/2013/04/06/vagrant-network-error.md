@@ -2,7 +2,7 @@
 title: "Vagrantのネットワークが起動しないときは"
 date: 2013-04-06
 comments: true
-tags: vagrant
+tags: [ "vagrant" ]
 ---
 
 Vagrantでネットワーク構成を変更した場合など、こういうエラーが出てネットワークが起動しないことがあります。

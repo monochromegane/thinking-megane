@@ -2,7 +2,7 @@
 title: "半歩進むChef-Solo - definitionでtemplateを使うとき気をつけること"
 date: 2013-05-08
 comments: true
-tags: chef
+tags: [ "chef" ]
 ---
 
 # definitionでtemplateを使うとき気をつけること

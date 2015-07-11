@@ -2,7 +2,7 @@
 title: "Go Conference 2014 autumn に行ってきました"
 date: 2014-12-01
 comments: true
-tags: golang
+tags: [ "golang" ]
 ---
 
 11/30に開催された[Go Conference 2014 autumn](http://gocon.connpass.com/event/9748/)に行ってきました。所感メインですが忘れないうちにまとめておきます。
