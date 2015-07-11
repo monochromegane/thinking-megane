@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "agとUnite.vimで快適高速grep環境を手に入れる"
 date: 2013-09-18
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Android Studioを使うときに調べたこと、いくつか"
 date: 2013-07-08
 comments: true

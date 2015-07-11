@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "第2回ペパボテックカンファレンスで発表してきた #pbtech"
 date: 2015-07-05
 comments: true

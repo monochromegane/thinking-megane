@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Go Conference 2014 spring で発表してきた"
 date: 2014-06-08
 comments: true

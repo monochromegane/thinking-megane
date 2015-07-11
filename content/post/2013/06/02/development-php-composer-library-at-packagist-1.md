@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "ComposerとPackagistでPHPライブラリを開発、テスト、公開する(1/2)"
 date: 2013-06-02
 comments: true

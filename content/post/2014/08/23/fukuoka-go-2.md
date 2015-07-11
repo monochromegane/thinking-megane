@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fukuoka.go#2+Fukuoka.rbを開催しました。"
 date: 2014-08-23
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "CSVテキストをMarkdown形式のテーブルに変換するツールをつくった"
 date: 2015-05-17
 comments: true

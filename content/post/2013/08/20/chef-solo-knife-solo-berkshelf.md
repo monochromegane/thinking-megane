@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Chef-Solo + Knife-Solo + Berkshelf  環境のつくりかた"
 date: 2013-08-20
 comments: true

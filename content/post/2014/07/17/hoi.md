@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "「ほい、これ」ってファイルを渡せる Hoi というツールをつくった"
 date: 2014-07-17
 comments: true

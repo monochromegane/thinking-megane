@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Rails4でGemの資産がAssets Precomplieに含まれないときは"
 date: 2013-09-07
 comments: true

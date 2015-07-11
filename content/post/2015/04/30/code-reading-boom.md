@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "今日のコードリーディング: rakyll/boom"
 date: 2015-04-30
 comments: true

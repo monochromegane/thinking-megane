@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "すべてが╭( ･ㅂ･)و ̑̑ ｸﾞｯ ! になる - Jenkinsビルドパイプライン結果をプルリクエストに表示する"
 date: 2014-11-09
 comments: true

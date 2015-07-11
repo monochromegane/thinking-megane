@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Go言語でActiveRecordライクなORMをつくった"
 date: 2015-03-04
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "今日のコードリーティング: tsenart/vegeta"
 date: 2015-05-01
 comments: true

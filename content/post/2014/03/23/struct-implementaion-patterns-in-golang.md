@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Go言語での構造体実装パターン"
 date: 2014-03-23
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Vagrant起動時にChef-Soloの実行を省く"
 date: 2013-05-11
 comments: true

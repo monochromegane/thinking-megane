@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fukuoka.go#1を開催しました。"
 date: 2014-07-06
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "[Ruby] ThorでWebAPIサービスを立ち上げるGem\"トールハンマー\"をつくった"
 date: 2013-06-15
 comments: true

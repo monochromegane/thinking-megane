@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "pecoでVagrant操作を便利にする"
 date: 2014-09-08
 comments: true

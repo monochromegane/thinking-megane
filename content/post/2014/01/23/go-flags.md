@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Go言語でコマンドラインオプション使うなら。便利パッケージgo-flags。"
 date: 2014-01-23
 comments: true

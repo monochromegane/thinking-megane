@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "HoiとSlackで内緒話をする"
 date: 2015-03-01
 comments: true

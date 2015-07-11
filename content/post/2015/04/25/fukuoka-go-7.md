@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fukuoka.go#7 ソースコードリーディングvol.1を開催しました"
 date: 2015-04-25
 comments: true

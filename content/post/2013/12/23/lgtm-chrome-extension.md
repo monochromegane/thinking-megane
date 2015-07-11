@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "LGTMでめでたさを伝えるChrome拡張をつくった"
 date: 2013-12-23
 comments: true

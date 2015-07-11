@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Vagrantのネットワークが起動しないときは"
 date: 2013-04-06
 comments: true

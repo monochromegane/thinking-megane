@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Alfredと辞書.appで高速快適な英語環境を手に入れる"
 date: 2013-11-29
 comments: true

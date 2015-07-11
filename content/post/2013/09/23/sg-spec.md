@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "日本語圏特化型ag -白金- の配備が完了しました"
 date: 2013-09-23
 comments: true

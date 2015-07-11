@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "[Rails] Unite.vimでSettingsLogicの長いキー名を入力する(unite-yaml)"
 date: 2013-11-10
 comments: true

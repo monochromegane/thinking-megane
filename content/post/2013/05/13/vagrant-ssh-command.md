@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "ちょっと便利なvagrant sshのコマンドオプション"
 date: 2013-05-13
 comments: true

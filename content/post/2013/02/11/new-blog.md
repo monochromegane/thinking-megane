@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "ブログ移行してきました"
 date: 2013-02-11
 comments: true
