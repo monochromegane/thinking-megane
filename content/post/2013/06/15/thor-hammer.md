@@ -2,7 +2,7 @@
 title: "[Ruby] ThorでWebAPIサービスを立ち上げるGem\"トールハンマー\"をつくった"
 date: 2013-06-15
 comments: true
-tags: thor ruby rails gem
+tags: [ "thor", "ruby", "rails", "gem" ]
 ---
 
 コマンドラインツールをつくって、もっと多くのひとに気軽に利用してもらいたいとき、Webアプリとして作りなおすのが面倒だなーと思うことがあります。

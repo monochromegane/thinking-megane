@@ -2,7 +2,7 @@
 title: "HoiとSlackで内緒話をする"
 date: 2015-03-01
 comments: true
-tags: hoi golang slack takosan
+tags: [ "hoi", "golang", "slack", "takosan" ]
 ---
 
 社内のチャットツールをSlackに移行中です。Slack使いやすくて満足度高いのですが、クラウドサービスゆえにこれまで社内IRCサーバ上でやりとりしていた情報の一部を載せてはいけなくなりました。

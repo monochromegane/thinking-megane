@@ -2,7 +2,7 @@
 title: "[Rails] Unite.vimでSettingsLogicの長いキー名を入力する(unite-yaml)"
 date: 2013-11-10
 comments: true
-tags: unite.vim yaml rails settingslogic
+tags: [ "unite.vim", "yaml", "rails", "settingslogic" ]
 ---
 
 Railsで定数を管理する場合、[SettingsLogic](https://github.com/binarylogic/settingslogic)を使っていますが、プロジェクトが大きくなるとYAMLのキーが多くなったり、階層が深くなったりして入力が手間になってきます。
