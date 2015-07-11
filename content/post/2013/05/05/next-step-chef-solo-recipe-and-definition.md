@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "半歩進むChef-Solo - Cookbookの共通化（recipeとdefinition）"
-date: 2013-05-05 10:09
+date: 2013-05-05
 comments: true
 categories: vagrant chef
 ---

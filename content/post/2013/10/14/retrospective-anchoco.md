@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ふりかえりファシリテーターあんちょこを作ってみた"
-date: 2013-10-14 14:13
+date: 2013-10-14
 comments: true
 categories: ふりかえり あんちょこ ファシリテーター
 ---

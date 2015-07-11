@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "半歩進むChef-Solo - definitionでtemplateを使うとき気をつけること"
-date: 2013-05-08 21:03
+date: 2013-05-08
 comments: true
 categories: chef
 ---

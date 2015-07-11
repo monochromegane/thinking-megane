@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fukuoka.go#3を開催しました。"
-date: 2014-09-20 17:32
+date: 2014-09-20
 comments: true
 categories: golang fukuoka.go
 ---

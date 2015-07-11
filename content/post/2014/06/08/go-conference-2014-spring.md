@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Go Conference 2014 spring で発表してきた"
-date: 2014-06-08 23:45
+date: 2014-06-08
 comments: true
 categories: golang pt
 ---

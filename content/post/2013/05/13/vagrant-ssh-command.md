@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ちょっと便利なvagrant sshのコマンドオプション"
-date: 2013-05-13 22:23
+date: 2013-05-13
 comments: true
 categories: vagrant chef
 ---

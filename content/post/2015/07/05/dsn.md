@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Go言語のDB接続情報をRailsのdatabase.ymlから借用するライブラリをつくった"
-date: 2015-07-05 22:04
+date: 2015-07-05
 comments: true
 categories: golang rails database
 ---

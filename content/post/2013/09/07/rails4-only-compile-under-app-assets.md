@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rails4でGemの資産がAssets Precomplieに含まれないときは"
-date: 2013-09-07 12:59
+date: 2013-09-07
 comments: true
 categories: ruby rails assets precompile pipeline flatui-rails
 ---

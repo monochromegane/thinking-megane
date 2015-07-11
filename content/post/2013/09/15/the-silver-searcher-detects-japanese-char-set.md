@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ag(The Silver Searcher)でEUC-JP/Shift-JISのファイルも検索できるようにしてみた"
-date: 2013-09-15 14:37
+date: 2013-09-15
 comments: true
 categories: ag the-silver-searcher euc-jp shift-jis ack
 ---

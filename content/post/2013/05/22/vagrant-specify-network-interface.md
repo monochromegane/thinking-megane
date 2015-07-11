@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vagrantで起動時のネットワークインターフェースを指定するには"
-date: 2013-05-22 22:06
+date: 2013-05-22
 comments: true
 categories: vagrant
 ---

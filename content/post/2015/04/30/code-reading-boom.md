@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "今日のコードリーディング: rakyll/boom"
-date: 2015-04-30 01:37
+date: 2015-04-30
 comments: true
 categories: code-reading golang
 ---

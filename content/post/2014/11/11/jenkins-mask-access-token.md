@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jenkinsのジョブ定義でGitHub AccessTokenを隠す"
-date: 2014-11-11 00:33
+date: 2014-11-11
 comments: true
 categories: jenkins github
 ---

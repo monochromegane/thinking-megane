@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "tmuxのプレフィックスに疲れたらbind -nオプションを使おう"
-date: 2013-12-12 10:55
+date: 2013-12-12
 comments: true
 categories: tmux
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fukuoka.go#2+Fukuoka.rbを開催しました。"
-date: 2014-08-23 13:25
+date: 2014-08-23
 comments: true
 categories: golang fukuoka.go ruby
 ---

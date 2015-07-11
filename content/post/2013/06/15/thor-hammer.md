@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Ruby] ThorでWebAPIサービスを立ち上げるGem\"トールハンマー\"をつくった"
-date: 2013-06-15 14:25
+date: 2013-06-15
 comments: true
 categories: thor ruby rails gem
 ---

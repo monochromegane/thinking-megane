@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fukuoka.go#7 ソースコードリーディングvol.1を開催しました"
-date: 2015-04-25 00:12
+date: 2015-04-25
 comments: true
 categories: golang fukuoka.go
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Go言語でag(The Silver Searcher)ライクな高速検索ツールをつくった。EUC-JP/Shift-JISも検索できマス。"
-date: 2014-01-16 00:05
+date: 2014-01-16
 comments: true
 categories: ag ack grep the-silver-searcher unite.vim golang
 ---

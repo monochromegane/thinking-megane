@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "pecoでVagrant操作を便利にする"
-date: 2014-09-08 23:46
+date: 2014-09-08
 comments: true
 categories: peco vagrant golang
 ---

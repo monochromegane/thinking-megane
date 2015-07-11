@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HoiとSlackで内緒話をする"
-date: 2015-03-01 13:27
+date: 2015-03-01
 comments: true
 categories: hoi golang slack takosan
 ---

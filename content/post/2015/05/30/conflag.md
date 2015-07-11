@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Go言語でコマンドラインオプションをさくっと設定ファイル対応させるライブラリをつくった"
-date: 2015-05-30 21:45
+date: 2015-05-30
 comments: true
 categories: golang conflag
 ---

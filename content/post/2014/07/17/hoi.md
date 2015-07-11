@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "「ほい、これ」ってファイルを渡せる Hoi というツールをつくった"
-date: 2014-07-17 22:50
+date: 2014-07-17
 comments: true
 categories: hoi go golang
 ---

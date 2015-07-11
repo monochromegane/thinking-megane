@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LGTMでめでたさを伝えるChrome拡張をつくった"
-date: 2013-12-23 17:20
+date: 2013-12-23
 comments: true
 categories: lgtm chrome extension 拡張 github
 ---

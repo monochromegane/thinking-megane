@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Go言語でActiveRecordライクなORMをつくった"
-date: 2015-03-04 19:22
+date: 2015-03-04
 comments: true
 categories: golang activerecord argen generate
 ---

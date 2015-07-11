@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Android Studioを使うときに調べたこと、いくつか"
-date: 2013-07-08 23:11
+date: 2013-07-08
 comments: true
 categories: android studio java
 ---
