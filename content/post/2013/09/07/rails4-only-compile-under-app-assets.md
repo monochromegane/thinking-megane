@@ -2,7 +2,7 @@
 title: "Rails4でGemの資産がAssets Precomplieに含まれないときは"
 date: 2013-09-07
 comments: true
-tags: ruby rails assets precompile pipeline flatui-rails
+tags: [ "ruby", "rails", "assets", "precompile", "pipeline", "flatui-rails" ]
 ---
 
 
