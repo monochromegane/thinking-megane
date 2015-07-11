@@ -11,7 +11,7 @@ tags: [ "peco", "vagrant", "golang" ]
 
 こんな感じで利用します。
 
-```console
+```sh
 $ vagrant-peco up
 ```
 
@@ -30,7 +30,7 @@ $ vagrant-peco up
 
 Vagrant1.6以降でつくったVMと`vagrant-peco`、`vagrant-global-status`が必要です。
 
-```console
+```sh
 # vagrant-global-statusをインストール
 $ go get github.com/monochromegane/vagrant-global-status/...
 
@@ -49,7 +49,7 @@ Vagrantの1.6からglobal-statusプラグインが取り込まれ、一度起動
 
 IDは`vagrant global-status`コマンドで確認します。
 
-```console
+```sh
 $ vagrant global-status
 id       name          provider   state    directory
 -------------------------------------------------------------------------------
@@ -62,7 +62,7 @@ e0aa5e9  db            virtualbox poweroff /Users/miyakey/Documents/vm/dev
 
 このIDを使うことでVagrantfileのあるディレクトリに移動することなく任意のVMを操作できます。
 
-```console
+```sh
 $ vagrant up 14c9626
 ```
 
@@ -84,7 +84,7 @@ $ vagrant up 14c9626
 
 自分の環境だと、1秒弱短縮できました。さくさく起動します。
 
-```console
+```sh
 $ time vagrant global-status
 vagrant global-status  0.97s user 0.09s system 99% cpu 1.072 total
 

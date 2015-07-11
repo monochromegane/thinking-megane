@@ -17,7 +17,7 @@ vagrant ssh のコマンドオプションは`-c command`です。
 
 ### DHCPな仮想マシンのIPアドレスを知る
 
-```console
+```sh
 $ vagrant ssh -c ifconfig
 ```
 
@@ -29,7 +29,7 @@ grepなりで取得結果を整形すれば、仮想マシンのWebサーバへ�
 
 Vagrant + Chef-Solo環境であれば、以下のコマンドで個別にレシピを実行することができます
 
-```console
+```sh
 # Vagrantfileで定義したレシピを全て実行
 $ vagrant ssh -c "cd /tmp/vagrant-chef-1 && sudo chef-solo -c solo.rb -j dna.json"
 

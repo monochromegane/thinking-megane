@@ -7,7 +7,7 @@ tags: [ "vagrant" ]
 
 VagrantのPublicNetwork(Bridged)ネットワーク構成のときに、ホストマシンのネットワークインターフェースが複数あると毎回の起動時に選択するのが面倒です。
 
-```console
+```sh
 $ vagrant up
 -- 中略 --
 [default] Available bridged network interfaces:

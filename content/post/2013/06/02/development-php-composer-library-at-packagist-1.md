@@ -22,7 +22,7 @@ tags: [ "php", "composer", "packagist" ]
 
 プロジェクトのカレントディレクトリに`composer.phar`をダウンロードする。これだけ。
 
-```console
+```sh
 $ cd MyProject
 $ curl -s http://getcomposer.org/installer | php
 ```
@@ -44,7 +44,7 @@ $ curl -s http://getcomposer.org/installer | php
 
 ## ライブラリをダウンロードする
 
-```console
+```sh
 $ php composer.phar install
 ```
 
@@ -65,7 +65,7 @@ require_once("vendor/autoload.php");
 
 ## プロジェクトの準備
 
-```console
+```sh
 $ mkdir MyLibrary
 $ cd MyLibrary
 $ curl -s http://getcomposer.org/installer | php
@@ -147,7 +147,7 @@ class Query
 
 `require-dev`項にphpunitを記載していれば以下のコマンドでテスト環境が作成されます。
 
-```console
+```sh
 $ php composer.phar install --dev
 ```
 
@@ -199,7 +199,7 @@ class QueryTest extends \PHPUnit_Framework_TestCase
 
 ### テストを実行する
 
-```console
+```sh
 $ cd tests
 $ ../vendor/bin/phpunit
 ```

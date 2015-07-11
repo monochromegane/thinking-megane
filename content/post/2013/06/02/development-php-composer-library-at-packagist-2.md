@@ -39,7 +39,7 @@ composer.phar
 ライブラリが公開できるようになったら、資産をコミットします。
 このとき、タグも一緒につけてください。このタグがバージョン番号としてPackagistで使われます。
 
-```console
+```sh
 $ git tag 1.0.0
 ```
 
@@ -53,7 +53,7 @@ $ git tag 1.0.0
 
 ちなみに後述のServiceHookの仕組みを使う場合、タグがプッシュされたタイミングでPackagist側が更新されます。
 
-```console
+```sh
 $ git push origin master
 $ git push origin タグ名
 ```
@@ -68,7 +68,7 @@ $ git push origin タグ名
 
 公開情報に問題がないか以下のコマンドで検証します。
 
-```console
+```sh
 $ php composer.phar validate
 ./composer.json is valid
 ```

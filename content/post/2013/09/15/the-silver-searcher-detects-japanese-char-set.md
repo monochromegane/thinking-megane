@@ -16,7 +16,7 @@ tags: [ "ag", "the-silver-searcher", "euc-jp", "shift-jis", "ack" ]
 
 # インストール
 
-```console
+```sh
 $ git clone https://github.com/monochromegane/the_silver_searcher
 $ cd the_silver_searcher
 $ git checkout detect-japanese-char-set
@@ -33,7 +33,7 @@ $ make install
 
 通常の ag コマンドと同様です。
 
-```console
+```sh
 $ ag [options] PATTERN [PATH]
 ```
 

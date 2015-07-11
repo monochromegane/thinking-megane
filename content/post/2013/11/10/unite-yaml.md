@@ -27,7 +27,7 @@ Bundleの場合は、`.vimrc`に`Bundle "monochromegane/unite-yaml”`を定義�
 以下のコマンドでカレントディレクトリ以下の`*.yml`ファイルが検索され、Uniteのウィンドウに表示されます。
 
 
-```console
+```sh
 :Unite yaml-list
 ```
 

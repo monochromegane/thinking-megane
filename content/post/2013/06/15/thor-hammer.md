@@ -48,7 +48,7 @@ gem 'Your Thor CLI' # WebAPIとして公開するThorのCLI
 
 ThorHammerは、WebAPIを作成するためのジェネレータを提供します。
 
-```console
+```sh
 $ rails g thor_hammer:api ThorCliのクラス名 公開APIのパス
 ```
 
@@ -88,7 +88,7 @@ end
 以上で、あなたのThor CLI がWebAPIとして公開する準備が整いました。
 `rails server`でRailsアプリを起動し、アクセスしてください。
 
-```console
+```sh
 $ curl http://hostname/api/subcommand/arg1,arg2
 ```
 

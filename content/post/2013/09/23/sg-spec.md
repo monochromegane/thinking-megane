@@ -30,7 +30,7 @@ tags: [ "ag", "the-silver-searcher", "grep", "sg", "unite.vim" ]
 
 [白金専用Fomula](https://github.com/monochromegane/homebrew-sg)からHomeBrewにて配備を行う。
 
-```console
+```sh
 $ brew tap monochromegane/sg
 $ brew install sg
 ```
@@ -39,7 +39,7 @@ $ brew install sg
 
 基本的に換装前と操作は同じである。
 
-```console
+```sh
 $ sg [options] PATTERN [PATH]
 ```
 

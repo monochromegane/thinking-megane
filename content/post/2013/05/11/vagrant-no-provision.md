@@ -23,7 +23,7 @@ Vagrant起動時にChef-Soloの実行を省くには `vagrant up`時に`--no-pro
 
 特定のprovisionを実行させたい場合は、`vagrant up`時に`--provision-with x,y,z`として実行したいprovisionを指定するとよいです。
 
-```console
+```sh
 $ vagrant up --no-provision # すべてのprovisionが実行されない
 $ vagrant up --provision-with shell # :shell provisionだけが実行される
 ```

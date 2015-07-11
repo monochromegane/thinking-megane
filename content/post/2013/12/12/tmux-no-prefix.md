@@ -72,7 +72,7 @@ bind r source-file ~/.tmux.conf
 
 キーバインドはコンソールから`list-keys`で確認できます。
 
-```console
+```sh
 $ tmux list-keys
 
 bind-key -n     C-o select-pane -t :.+

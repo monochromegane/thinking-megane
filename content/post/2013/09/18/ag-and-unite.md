@@ -30,7 +30,7 @@ The Silver Searcherについてはこの辺が分かりやすいと思います�
 
 Macの場合、homebrewで提供されてます。
 
-```console
+```sh
 $ brew install the_silver_searcher
 ```
 
@@ -47,7 +47,7 @@ Bundle "git://github.com/Shougo/vimproc"
 
 インストール後、vimprocをコンパイルします。
 
-```console
+```sh
 $ cd ~/.vim/bundle/vimproc
 $ make # Macの場合
 ```
@@ -93,7 +93,7 @@ endif
 
 ノーマルモードで`,g`を入力するとVimのコマンドラインに
 
-```console
+```sh
 Pattern:  
 ```
 
@@ -142,7 +142,7 @@ The Silver SearcherはEUC-JP/Shift-JISのエンコードがされたファイル
 
 homebrewならインストールは簡単です。
 
-```console
+```sh
 brew install https://gist.github.com/morygonzalez/6588887/raw/b09a904e7ca9dd09abfef88b0e0e98a50a206d3b/the_legacy_searcher.rb
 ```
 

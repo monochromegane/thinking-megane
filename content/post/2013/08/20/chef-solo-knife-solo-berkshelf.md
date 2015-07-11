@@ -43,13 +43,13 @@ gem 'berkshelf'
 
 ## Chefのリポジトリをつくる
 
-```console
+```sh
 $ knife solo init chef-repo
 ```
 
 chef-repo内に以下の構成が生成されます。必要に応じてGit管理を行ってください。
 
-```console
+```sh
  $ tree chef-repo/
  chef-repo/
  ├── cookbooks
@@ -74,7 +74,7 @@ knife-soloでは`cookbooks`配下は`.gitignore`で除外対象となってお�
 
 今回は環境構築をメインにするので、雛形作成の手順のみ。
 
-```console
+```sh
 $ knife cookbook create xxx -o site-cookbooks/
 ``` 
 
@@ -108,7 +108,7 @@ cookbook "public_cookbook_name"
 
 ## リモート側でのChef-Solo実行準備
 
-```console
+```sh
 $ knife solo prepare username@servername
 ```
 
@@ -117,7 +117,7 @@ $ knife solo prepare username@servername
 
 ## リモート側でのChef-Solo実行
 
-```console
+```sh
 $ knife cook username@servername
 ```
 
