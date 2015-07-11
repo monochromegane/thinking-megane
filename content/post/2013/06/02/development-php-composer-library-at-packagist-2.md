@@ -12,7 +12,7 @@ categories: php composer packagist
 
 [Packagist](https://packagist.org/)はComposerのメインリポジトリとなるサイトです。
 
-![Packagist]({{ root_url }}/images/2013/06/01_packagist_submit_package.png)
+![Packagist](/images/2013/06/01_packagist_submit_package.png)
 
 ここで公開しておくことでcompser.jsonにリポジトリの指定をしなくてもライブラリを取得できるようになります。
 
@@ -93,17 +93,17 @@ $ php composer.phar validate
 
 ログイン後、画面上部に`Submit Package`ボタンがあるので押下します。
 
-![Submit Package]({{ root_url }}/images/2013/06/01_packagist_submit_package.png)
+![Submit Package](/images/2013/06/01_packagist_submit_package.png)
 
 
 画面下部の`Repository URL`欄に先ほどGithubで公開したリポジトリのURLを入力します。
 ライブラリ名が重複してなければSubmitボタンが出るので押下します。
 
-![Check Package]({{ root_url }}/images/2013/06/02_packagist_submit_package.png)
+![Check Package](/images/2013/06/02_packagist_submit_package.png)
 
 パッケージの公開が完了です！
 
-![Package Not Auto-update]({{ root_url }}/images/2013/06/03_packagist_not_autoupdate.png)
+![Package Not Auto-update](/images/2013/06/03_packagist_not_autoupdate.png)
 
 <br />
 <hr />
@@ -116,11 +116,11 @@ $ php composer.phar validate
 
 公開したリポジトリで`Settings`を押下します。
 
-![Settings]({{ root_url }}/images/2013/06/04_github_repository_settings.png)
+![Settings](/images/2013/06/04_github_repository_settings.png)
 
 再度メニューから`ServiceHook`を選択、一覧から`Packagist`を選びます。
 
-![ServiceHook]({{ root_url }}/images/2013/06/05_github_service_hook.png)
+![ServiceHook](/images/2013/06/05_github_service_hook.png)
 
 必要な情報を入力します
 
@@ -129,7 +129,7 @@ $ php composer.phar validate
 - Domain: `http://packagist.org`で問題無さそう
 - Active: チェックをいれる
 
-![Update Settings]({{ root_url }}/images/2013/06/06_github_service_hook.png)
+![Update Settings](/images/2013/06/06_github_service_hook.png)
 
 <br />
 
@@ -139,7 +139,7 @@ $ php composer.phar validate
 
 `Test Hook`ボタンが表示されているので押下します。
 
-![Test Hook]({{ root_url }}/images/2013/06/07_github_test_hook.png)
+![Test Hook](/images/2013/06/07_github_test_hook.png)
 
 Packagist側で`Not Auto-update`表記が消えていれば接続テスト成功です。
 

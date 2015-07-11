@@ -15,7 +15,7 @@ Jenkinsのジョブ結果をプルリクエストに表示するときは[GitHub
 
 今回のビルドパイプラインはこんな感じを想定しています。
 
-![jenkins-build-pipeline]({{ root_url }}/images/2014/11/jenkins-build-pipeline.png)
+![jenkins-build-pipeline](/images/2014/11/jenkins-build-pipeline.png)
 
 プルリクエストへの更新やコメントをトリガーにジョブが起動し、単体テスト、回帰テストを実行します。
 あわせて、実行中、失敗、成功の状態がプルリクエストに表示されます。
@@ -94,7 +94,7 @@ curl -X POST -H "Authorization: token ACCESS_TOKEN" \
 
 GitHubのプルリクエストに以下のように表示されれば実行成功です。
 
-![github-commit-statuses]({{ root_url }}/images/2014/11/commit-statuses.png)
+![github-commit-statuses](/images/2014/11/commit-statuses.png)
 
 
 <br />

@@ -105,7 +105,7 @@ Pattern:
 
 と表示されるので、検索したいパターンを入力、Enterでカレントディレクトリ以下のファイルに対して再帰的に検索が開始されます。
 
-![Unite Grep]({{ root_url }}/images/2013/09/unite-grep.png) 
+![Unite Grep](/images/2013/09/unite-grep.png) 
 
 こんな感じで候補が表示されるので、一番上のプロンプトで絞込語句を入力したり、`Ctrl+p` or `Ctrl+n`でカーソルを移動させることができます。
 

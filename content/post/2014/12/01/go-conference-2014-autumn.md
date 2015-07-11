@@ -25,8 +25,8 @@ categories: golang
 
 写真は、Rob Pike氏と、複雑になりすぎたGopherの図です。
 
-![rob\_pike]({{ root_url }}/images/2014/12/rob_pike.png)
-![gopher]({{ root_url }}/images/2014/12/gopher.png)
+![rob\_pike](/images/2014/12/rob_pike.png)
+![gopher](/images/2014/12/gopher.png)
 
 <br />
 ## Goに入ってはGoに従え

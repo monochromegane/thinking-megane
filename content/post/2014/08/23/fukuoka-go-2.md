@@ -72,7 +72,7 @@ Exampleも書けるのはいいですね。
 
 DockerでPuppet/Chefのテストをするにあたって頑張ったお話。
 
-[![udzura\_saikin]({{ root_url }}/images/2014/08/udzura_saikin.png)](http://www.storyboards.jp/viewer/64t76r)
+[![udzura\_saikin](/images/2014/08/udzura_saikin.png)](http://www.storyboards.jp/viewer/64t76r)
 
 現場で得られたノウハウが盛り込まれた便利情報でした。失敗したイメージはタグをつけてコミットしておくの使えそう。
 

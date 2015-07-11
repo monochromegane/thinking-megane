@@ -26,7 +26,7 @@ categories: thor ruby rails gem
 
 マイティー・ソーが武器のハンマーをつかって、雷を広げて攻撃するように、ThorでつくったCLI機能をWebに広げるGemです。※1
 
-![Thor Hammer]({{ root_url }}/images/2013/06/thor_hammer.png) 
+![Thor Hammer](/images/2013/06/thor_hammer.png) 
 
 <br />
 <hr />

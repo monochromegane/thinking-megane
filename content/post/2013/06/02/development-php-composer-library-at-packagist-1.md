@@ -12,7 +12,7 @@ categories: php composer packagist
 
 [Composer](http://getcomposer.org/)は、PHPのライブラリ依存管理ツールです。RubyのBundlerのように依存するライブラリを設定ファイルに書いてコマンドたたけばライブラリのインストールと利用準備が整います。
 
-![logo-composer-transparent]({{ root_url }}/images/2013/06/logo-composer-transparent.png)
+![logo-composer-transparent](/images/2013/06/logo-composer-transparent.png)
 
 また、Composer用のリポジトリだけでなく、PEARやGithubのリポジトリもComposer経由で取得できるので、とても便利です。
 

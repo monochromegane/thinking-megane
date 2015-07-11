@@ -19,7 +19,7 @@ LGTMは、**"looks good to me."**の略で、GitHubのプルリクに対するOK
 - 拡張を起動するとLGTM.inから取得したランダム画像を3件表示します。
 - 画像が気に入らないときは`More LGTM`ボタンをクリックして画像を再取得できます。
 
-![LGTM]({{ root_url }}/images/2013/12/LGTM_screenshot.png)
+![LGTM](/images/2013/12/LGTM_screenshot.png)
 
 <br />
 
@@ -28,7 +28,7 @@ LGTMは、**"looks good to me."**の略で、GitHubのプルリクに対するOK
 - 使用したいLGTMの画像をクリックするとURLをクリップボードにコピーします。
 - GitHubのプルリクページを開いていれば、選択した画像のURLをマークダウン形式でコメント欄に入力します。
 
-![LGTM]({{ root_url }}/images/2013/12/LGTM_comment.png)
+![LGTM](/images/2013/12/LGTM_comment.png)
 
 <br />
 

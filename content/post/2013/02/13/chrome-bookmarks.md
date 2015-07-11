@@ -29,7 +29,7 @@ Unite.vimでChromeのブックマークを表示するスクリプトを作り�
 Unite.vimのsourceとしてchrome_bookmarksスクリプトを作成しました。
 Unite-scriptから呼び出して使うことでUnite.vim上で以下のことができるようになります。
 
-![chrome_bookmarks.scpt]({{ root_url }}/images/2013/02/unite_script_chrome_bookmarks.png)
+![chrome_bookmarks.scpt](/images/2013/02/unite_script_chrome_bookmarks.png)
 
 - Unite.vimにChromeのブックマークを表示
 - ブックマークを検索

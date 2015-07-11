@@ -16,7 +16,7 @@ Jenkinsのジョブ定義にGitHubのAccessTokenを直接書きたくないと�
 
 `Name`と`Password`の組み合わせを追加すると、ビルドスクリプトのなかで`${Name}`として利用することができます。
 
-![jenkins-mask-access-token]({{ root_url }}/images/2014/11/jenkins-mask-access-token.png)
+![jenkins-mask-access-token](/images/2014/11/jenkins-mask-access-token.png)
 
 ## AccessTokenを使う
 

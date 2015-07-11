@@ -32,7 +32,7 @@ Alfredはもともと辞書.appを呼び出す機能がありますが、より�
 AlfredのPreferenceから、Featuresタブを選択し、サイドメニューからDictionaryを選択します。
 `Define a word`の欄にチェックが入っていることを確認して、`define`を`d`に変更します。
 
-![alfred-preference]({{ root_url }}/images/2013/11/alfred-preference.png) 
+![alfred-preference](/images/2013/11/alfred-preference.png) 
 
 <br />
 <hr />
@@ -45,7 +45,7 @@ Alfredを起動して、`d キーワード`を入力します。必要なもの�
 
 最初だけ、「すべて」タブになりますが、「英和和英」のタブを選択しておくと、次回以降、そちらが使われるようです。
 
-![alfred]({{ root_url }}/images/2013/11/alfred.png) 
+![alfred](/images/2013/11/alfred.png) 
 
 <br />
 
@@ -56,7 +56,7 @@ Alfredを起動して、`d キーワード`を入力します。必要なもの�
 サイドメニューに結果が表示され、上下キーで候補を選択することができます。
 動詞を検索したときに熟語もあわせて候補に出るので便利です。
 
-![dictionary]({{ root_url }}/images/2013/11/incremental_search.png) 
+![dictionary](/images/2013/11/incremental_search.png) 
 
 <br />
 <hr />

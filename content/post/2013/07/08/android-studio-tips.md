@@ -9,7 +9,7 @@ categories: android studio java
 
 Eclipseでの開発環境と違いなど、調べたことがいくつかあったのでまとめておきます。
 
-![Android Studio]({{ root_url }}/images/2013/07/android_studio.png) 
+![Android Studio](/images/2013/07/android_studio.png) 
 
 今回調べたのは以下の4つです。
 

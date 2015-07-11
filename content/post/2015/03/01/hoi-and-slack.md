@@ -47,7 +47,7 @@ $ hoi message @you
 
 こんな感じで通知されます。
 
-![hoi-notification]({{ root_url }}/images/2015/03/hoi-notification.png)
+![hoi-notification](/images/2015/03/hoi-notification.png)
 
 
 <br />

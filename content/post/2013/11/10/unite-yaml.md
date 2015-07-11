@@ -34,7 +34,7 @@ Bundleの場合は、`.vimrc`に`Bundle "monochromegane/unite-yaml”`を定義�
 :Unite yaml-list
 ```
 
-![unite yaml-list]({{ root_url }}/images/2013/11/unite-yaml-list.png) 
+![unite yaml-list](/images/2013/11/unite-yaml-list.png) 
 
 対象のYAMLファイルを選択し、`Enter`を押してください。  
 unite-yamlは`ERB enabled YAML`もサポートしています。
@@ -67,7 +67,7 @@ production:
 
 このように展開されます。
 
-![unite yaml]({{ root_url }}/images/2013/11/unite-yaml.png) 
+![unite yaml](/images/2013/11/unite-yaml.png) 
 
 入力したいキー名を選択して、`Enter`を押すと、カーソル位置にキー名が入力されます（値は含まれません）
 
