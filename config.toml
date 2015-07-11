@@ -1,3 +1,18 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+title        = "THINKING MEGANE"
+baseurl      = "http://blog.monochromegane.com"
+languageCode = "ja-jp"
+
+[author]
+  Name = "monochromegane"
+  Bio  = [
+    "@monochromegane（モノクロめがね）と申します。IT技術書が好物です。",
+    "本職ではPHP, RubyでWebサービス開発をメインにやっています。2014年はGoの年！"
+  ]
+
+[permalinks]
+  post = "/blog/:year/:month/:day/:filename/"
+
+[params]
+  Twitter = "monochromegane"
+  GitHub  = "monochromegane"
+
