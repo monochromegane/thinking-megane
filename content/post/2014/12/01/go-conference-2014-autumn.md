@@ -7,7 +7,6 @@ tags: [ "golang" ]
 
 11/30に開催された[Go Conference 2014 autumn](http://gocon.connpass.com/event/9748/)に行ってきました。所感メインですが忘れないうちにまとめておきます。
 
-<br />
 ---
 
 # キーノート
@@ -27,7 +26,6 @@ tags: [ "golang" ]
 ![rob\_pike](/images/2014/12/rob_pike.png)
 ![gopher](/images/2014/12/gopher.png)
 
-<br />
 ## Goに入ってはGoに従え
 
 鵜飼さんのキーノートは[Goに入ってはGoに従え](http://ukai-go-talks.appspot.com/2014/gocon.slide#1)ということで、Googleのreadability approverという役を通して得た、Goらしく書くノウハウを紹介してくれました。
@@ -37,7 +35,6 @@ tags: [ "golang" ]
 
 Goらしく書くことに関して各種ドキュメントやブログエントリがありますが、方針が同じでどれも納得しやすいというのもGo言語のコンセプトがそれを助けているのかなと感じています。
 
-<br />
 ---
 
 # 印象に残ったプレゼンテーション
@@ -46,7 +43,6 @@ Goらしく書くことに関して各種ドキュメントやブログエント
 
 それから、@methaneさんの[pprofの話](http://www.slideshare.net/InadaNaoki/gocon2014-pprof)も収穫がありました。[pt](https://github.com/monochromegane/the_platinum_searcher)をもっと速くするのに今度試してみようと思います。
 
-<br />
 ---
 
 # 楽しいカンファレンスでした！
@@ -60,7 +56,6 @@ Goらしく書くことに関して各種ドキュメントやブログエント
 
 今回は登壇するネタがなかったのが悔しいですが、刺激や収穫をもらったので福岡でまた次回に向けたGo研鑽を積んでいきます。
 
-<br />
 ---
 
 カンファレンス内容についてはこちらがよくまとめられているのであわせてご覧ください。

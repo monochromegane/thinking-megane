@@ -15,7 +15,6 @@ tags: [ "php", "composer", "packagist" ]
 
 ここで公開しておくことでcompser.jsonにリポジトリの指定をしなくてもライブラリを取得できるようになります。
 
-<br />
 <hr />
 
 # ライブラリのGit管理
@@ -34,7 +33,6 @@ composer.lock
 composer.phar
 ```
 
-<br />
 
 ## 資産のコミットとタグ付け
 
@@ -47,7 +45,6 @@ $ git tag 1.0.0
 
 タグ名(バージョン番号)はx.y.zの形式を使うようです。
 
-<br />
 
 ## Githubへの公開
 
@@ -61,7 +58,6 @@ $ git push origin master
 $ git push origin タグ名
 ```
 
-<br />
 <hr />
 
 # Packagistへの公開
@@ -79,14 +75,12 @@ $ php composer.phar validate
 
 上記のような結果が出ればOK。
 
-<br />
 
 ## アカウント取得
 
 まずは[Packagist](https://packagist.org/)にアクセスしてアカウント取得を行なってください。
 特に難しいことはないはずです。
 
-<br />
 
 ## ライブラリの登録
 
@@ -104,7 +98,6 @@ $ php composer.phar validate
 
 ![Package Not Auto-update](/images/2013/06/03_packagist_not_autoupdate.png)
 
-<br />
 <hr />
 
 # 自動更新を設定する
@@ -130,7 +123,6 @@ $ php composer.phar validate
 
 ![Update Settings](/images/2013/06/06_github_service_hook.png)
 
-<br />
 
 ## 接続テスト
 
@@ -142,7 +134,6 @@ $ php composer.phar validate
 
 Packagist側で`Not Auto-update`表記が消えていれば接続テスト成功です。
 
-<br />
 <hr />
 
 # 公開したライブラリを使う
@@ -159,7 +150,6 @@ Packagist側で`Not Auto-update`表記が消えていれば接続テスト成功
 
 `php composer.phar require monochromegane/query-builder:dev-master`コマンドを使うことで設定ファイルへの追記、インストールを一度にやってくれます。
 
-<br />
 <hr />
 ちょっと長かったですが、慣れてしまえば気にならない手順だと思います。
 

@@ -37,7 +37,6 @@ curl -X POST -H "Authorization: token ${access_token}" \
 + curl -X POST -H 'Authorization: token ********' https://api.github.com/repos/:owner/:repo/statuses/revision -d ...
 ```
 
-<br />
 ---
 
 その他、`Mask Passwords Plugin`は、ジョブごとのパスワード設定だけではなく、グローバルで使えるパスワードやマスキング対象を設定できるみたいです。

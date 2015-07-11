@@ -13,7 +13,6 @@ Rails4プロジェクトでGem内の画像ファイルやフォントファイ�
 - assets precompile に含まれるよう資産を移動する
 - assets precompile に含めたい資産を明示する
 
-<br />
 <hr />
 
 # 原因
@@ -27,7 +26,6 @@ Rails4では、パスにapp/assetsを含む資産のみをデフォルトのprec
 precompileのパスに置かれているREADME.mdのような"loose"なファイルを対象から外すこと、`app/`以下をオートロードするRailsの方針と合わせることなどが理由として挙げられています。(※1)
 
 
-<br />
 
 ## 対象ディレクトリはどうなったか
 
@@ -44,7 +42,6 @@ precompileのパスに置かれているREADME.mdのような"loose"なファイ
 
 もし、プロジェクトで利用しているGemが上記のディレクトリに js, css 以外のファイル（imageなど）をおいていた場合、本番配布時に頭を抱えることになります(※2)。
 
-<br />
 <hr />
 
 # 対策
@@ -63,7 +60,6 @@ precompileのパスに置かれているREADME.mdのような"loose"なファイ
 [pkurek/flatui-rails - Move assets to app/assets for Rails 4](https://github.com/pkurek/flatui-rails/pull/27)
 
 
-<br />
 
 ## assets precompile に含めたい資産を明示する
 
@@ -78,7 +74,6 @@ config.assets.precompile += %w(*.png *.jpg *.jpeg *.gif)
 読み込ませたい資産にあわせて配列内の拡張子を変更してください。
 
 
-<br />
 <hr />
 
 `Rails.application.config.assets.paths`に含まれているのにPrecomplieされない点で大いにハマりましたが、GithubのPullRequestやIssueで経緯や理由を把握できました。
@@ -88,7 +83,6 @@ Githubほんと便利。
 日本語の情報がまだ少ないのでまとめてみました。お役に立てばうれしいです。
 
 
-<br />
 <hr />
 
 - `※1`. Issue内容を見るとこの変更に困惑している意見も一部ありますが、DHHは、`This makes sense to me :+1:`な感じ

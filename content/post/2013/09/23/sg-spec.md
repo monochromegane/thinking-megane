@@ -7,7 +7,6 @@ tags: [ "ag", "the-silver-searcher", "grep", "sg", "unite.vim" ]
 
 かねてより開発を続けていたパターンマッチ検索sg (日本語圏特化型ag) の配備が完了したので、その経緯と仕様を以下に記す。
 
-<br />
 <hr />
 
 # 開発経緯
@@ -23,7 +22,6 @@ tags: [ "ag", "the-silver-searcher", "grep", "sg", "unite.vim" ]
 またこの特化型への換装以降、agとの誤用を避けるため、白金（しろがね）と呼称を変更、開発コードもsgに変更されている。[[開発コード sg-0.16.4]](https://github.com/monochromegane/the_silver_searcher/releases/tag/sg-0.16.4)
 
 
-<br />
 <hr />
 
 # 仕様
@@ -36,7 +34,6 @@ tags: [ "ag", "the-silver-searcher", "grep", "sg", "unite.vim" ]
 $ brew tap monochromegane/sg
 $ brew install sg
 ```
-<br />
 
 ## 実行
 
@@ -46,7 +43,6 @@ $ brew install sg
 $ sg [options] PATTERN [PATH]
 ```
 
-<br />
 
 ## 自動検出
 
@@ -54,7 +50,6 @@ ASCIIのみ、UTF-8、EUC-JP、Shift-JISでエンコードされたファイル�
 
 上記に該当しない場合の挙動については、換装前と同じく、バイナリと見なし特定のオプションを渡さない限りパターンマッチ対象外となる。
 
-<br />
 
 ## 入出力機構
 
@@ -63,7 +58,6 @@ ASCIIのみ、UTF-8、EUC-JP、Shift-JISでエンコードされたファイル�
 
 これにより、UTF-8環境でEUC-JP/Shift-JISのファイルを検索した場合にも、日本語パターンで合致させること(入力)、結果をコンソール上に文字化けせず表示させること(出力)が可能となった。
 
-<br />
 <hr />
 
 # 連携
@@ -86,7 +80,6 @@ endif
 ※オプションについては特に変更は不要。
 
 
-<br />
 <hr />
 
 
@@ -97,7 +90,6 @@ endif
 - [nDiki: ag やめて ack に戻す](http://www.naney.org/diki/d/2013-07-17-The-Silver-Searcher.html)
 - [ag(The Silver Searcher)でEUC-JP/Shift-JISのファイルも検索できるようにしてみた](http://blog.monochromegane.com/blog/2013/09/15/the-silver-searcher-detects-japanese-char-set/)
 
-<br />
 <hr />
 
 極東迷彩と相対する部門での積極的な活用を期待します。

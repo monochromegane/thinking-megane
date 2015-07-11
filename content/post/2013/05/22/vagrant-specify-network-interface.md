@@ -20,7 +20,6 @@ What interface should the network bridge to? 1
 
 Vagrantfileに設定を行うことで、これを回避することができます。
 
-<br />
 <hr />
 ### ネットワークインターフェースの指定
 
@@ -41,7 +40,6 @@ config.vm.network :bridged, :bridge => "en1: Thunderbolt Ethernet"
 
 ** 注：** `en1:`から必要
 
-<br />
 <hr />
 
 これで起動時の手間をちょっとだけ省くことができました。

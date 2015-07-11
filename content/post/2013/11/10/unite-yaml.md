@@ -12,7 +12,6 @@ Railsで定数を管理する場合、[SettingsLogic](https://github.com/binaryl
 
 unite-yamlを使うと、SettingsLogicで `Settings.somekey.subkey.subsubkey.subsubsubkey` のような長いキーをUniteの候補として選択、入力を行えます。
 
-<br />
 
 ## インストール
 
@@ -20,7 +19,6 @@ unite-yamlを使うと、SettingsLogicで `Settings.somekey.subkey.subsubkey.sub
 
 Bundleの場合は、`.vimrc`に`Bundle "monochromegane/unite-yaml”`を定義して、` :BundleInstall`です。
 
-<br />
 
 ## 使い方
 
@@ -71,7 +69,6 @@ production:
 入力したいキー名を選択して、`Enter`を押すと、カーソル位置にキー名が入力されます（値は含まれません）
 
 
-<br />
 
 ## キーバインド
 
@@ -84,12 +81,10 @@ nnoremap <silent> ,y  :<C-u>Unite yaml-list<CR>
 nnoremap <silent> ,Y  :<C-u>UniteResume yaml-buffer<CR>
 ```
  
-<br />
 
 - yaml-listから開いたYAMLのキー一覧は`yaml-buffer`という名前のbufferで開かれているので上記のように`UniteResume`を使ってYAMLの再パースなしに再度呼び出すことができます。
 - `g:unite_yaml_prefix`を定義すると、入力時のキー名の前に指定した語が追加されます。`Settings.`を指定することで入力の手間を省くことができます。
 
-<br />
 <hr />
 
 SettingsLogicは便利ですが、キーの打ち間違いや定義されているキーを見比べるためにファイル間を行ったり来たりして時間をムダにしがちです。

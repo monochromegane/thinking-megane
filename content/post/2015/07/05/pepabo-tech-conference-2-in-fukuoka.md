@@ -17,7 +17,6 @@ tags: [ "pepabo" ]
 
 無事、時間内に作れて一安心。懇親会でもGoに興味持ってもらえたようでよかったです。
 
-<br />
 ---
 
 全体の発表内容は @kimromi さんのブログがよくまとまっているのでご覧ください。
@@ -28,7 +27,6 @@ Youtubeでも公開しております。
 
 - [第2回ペパボテックカンファレンス #pbtech - YouTube](https://www.youtube.com/watch?v=SUuaugJ4p7o)
 
-<br />
 ---
 
 個人的な感想としては

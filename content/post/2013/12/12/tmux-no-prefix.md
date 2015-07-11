@@ -9,7 +9,6 @@ tags: [ "tmux" ]
 
 実はtmuxには、プレフィックスなしで操作できるステキすぎるオプションがあるので紹介しておきます。
 
-<br />
 <hr />
 
 # プレフィックス不要ってすばらしい
@@ -20,7 +19,6 @@ tags: [ "tmux" ]
 
 これで単独のキーにコマンドを割り当てることができます。
 
-<br />
 
 ## 設定
 
@@ -31,7 +29,6 @@ tags: [ "tmux" ]
 bind -n キー コマンド
 ```
 
-<br />
 
 ## プレフィックス不要なペイン移動
 
@@ -63,7 +60,6 @@ bind -n C-o select-pane -t :.+
 - [コマンド](https://bytebucket.org/ns9tks/tmux-ja/wiki/tmux-ja.html#id5)
 - [キーバインド](https://bytebucket.org/ns9tks/tmux-ja/wiki/tmux-ja.html#id11)
 
-<br />
 
 ## 設定の確認
 
@@ -87,7 +83,6 @@ bind-key -n  S-Left select-pane -L
 bind-key -n S-Right select-pane -R
 ```
 
-<br />
 
 ## 参考
 
@@ -95,7 +90,6 @@ bind-key -n S-Right select-pane -R
 
 [monochromegane/dotfiles - tmux.conf](https://github.com/monochromegane/dotfiles/blob/master/tmux.conf)
 
-<br />
 <hr />
 
 プレフィックス一回の違いですが、エンジニアであれば日に何十、何百と打っていることになるキーが省略できるというのは、かなり気持ち良いものです。

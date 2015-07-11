@@ -16,7 +16,6 @@ tags: [ "ふりかえり", "あんちょこ", "ファシリテーター" ]
 - [ふりかえりファシリテーターあんちょこ](http://blog.monochromegane.com/retrospective-anchoco/retrospective-anchoco.html)
 - [GitHub: monochromegane/retrospective-anchoco](https://github.com/monochromegane/retrospective-anchoco)
 
-<br />
 <hr />
 
 # ふりかえりファシリテーターあんちょこ
@@ -32,7 +31,6 @@ tags: [ "ふりかえり", "あんちょこ", "ファシリテーター" ]
 - GitHubで管理。Forkしてチーム向けにカスタマイズ
 
 
-<br />
 
 ## "あんちょこ"でできること、できないこと
 
@@ -42,7 +40,6 @@ tags: [ "ふりかえり", "あんちょこ", "ファシリテーター" ]
 
 反対に、ふりかえりを導入するための資料ではありません。ふりかえりの意義や効果を知りたい人、もっと突っ込んだふりかえりの手法が知りたい人は、各種参考文献を読むことをお勧めします。
 
-<br />
 
 ## "あんちょこ"の更新
 
@@ -62,7 +59,6 @@ $ cleaver retrospective-anchoco.md
 
 できあがったhtmlファイルをブラウザで開き、必要に応じて印刷して利用してください。
 
-<br />
 
 ## テンプレートの変更
 
@@ -70,7 +66,6 @@ $ cleaver retrospective-anchoco.md
 
 PCでスライドショー形式で表示しておきたいひとは、`retrospective-anchoco.md`の`template`行を削除してcleaverを実行してください。
 
-<br />
 <hr />
 
 # 参考

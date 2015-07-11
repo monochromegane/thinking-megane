@@ -17,7 +17,6 @@ $ vagrant-peco up
 
 ![](https://raw.githubusercontent.com/monochromegane/vagrant-peco/master/images/vagrant-peco-up.gif)
 
-<br />
 
 ## うれしさ
 
@@ -26,7 +25,6 @@ $ vagrant-peco up
 - 通常のvagrant global-statusよりも高速に表示
 - direnvとの連携
 
-<br />
 
 ## インストール
 
@@ -42,7 +40,6 @@ $ curl -O https://raw.githubusercontent.com/monochromegane/vagrant-peco/master/v
 $ chmod +x ./vagrant-peco
 ```
 
-<br />
 
 # 仕組み
 
@@ -69,7 +66,6 @@ e0aa5e9  db            virtualbox poweroff /Users/miyakey/Documents/vm/dev
 $ vagrant up 14c9626
 ```
 
-<br />
 
 ## pecoと連携する
 
@@ -105,7 +101,6 @@ Vagrant起動時に`direnv`を適用したかったのでつくりました。
 
 Vagrantfileはプロジェクト共通でマウントするソースファイルのディレクトリは個人ごとに環境変数で指定するような場合に都合がよいです。
 
-<br />
 
 ---
 

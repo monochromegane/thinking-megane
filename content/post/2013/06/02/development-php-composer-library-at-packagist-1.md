@@ -15,7 +15,6 @@ tags: [ "php", "composer", "packagist" ]
 
 また、Composer用のリポジトリだけでなく、PEARやGithubのリポジトリもComposer経由で取得できるので、とても便利です。
 
-<br />
 
 # 基本的な使い方
 
@@ -28,7 +27,6 @@ $ cd MyProject
 $ curl -s http://getcomposer.org/installer | php
 ```
 
-<br />
 
 ## 使いたいライブラリをcomposer.jsonに書く
 
@@ -43,7 +41,6 @@ $ curl -s http://getcomposer.org/installer | php
 }
 ```
 
-<br />
 
 ## ライブラリをダウンロードする
 
@@ -59,7 +56,6 @@ $ php composer.phar install
 require_once("vendor/autoload.php");
 ```
 
-<br />
 <hr />
 
 # Composerに対応したライブラリをつくる
@@ -74,7 +70,6 @@ $ mkdir MyLibrary
 $ cd MyLibrary
 $ curl -s http://getcomposer.org/installer | php
 ```
-<br />
 
 ## ライブラリの情報を定義する
 
@@ -118,7 +113,6 @@ $ curl -s http://getcomposer.org/installer | php
 * autoload
   * これからつくるライブラリがどのディレクトリにあって、名前空間がなんなのかを記載します。名前空間にもベンダー名をつけておきましょう。ちなみにここがないとうまくautoloadされないとおもいます。
 
-<br />
 
 ## ライブラリをつくる
 
@@ -128,7 +122,6 @@ $ curl -s http://getcomposer.org/installer | php
 
 `src/Monochromegane/QueryBuilder`(ライブラリ格納先/ベンダー名/ライブラリ名)
 
-<br />
 
 ### ファイル配置と名前空間
 
@@ -145,7 +138,6 @@ class Query
 ```
 ファイルの先頭に名前空間を定義します。名前空間はディレクトリ構成をバックスラッシュで区切った記述になります。
 
-<br />
 
 ## テストする
 

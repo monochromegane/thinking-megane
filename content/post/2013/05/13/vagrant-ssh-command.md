@@ -13,7 +13,7 @@ vagrant ssh のコマンドオプションは`-c command`です。
 `-c`オプションを使うことで、SSHコマンドを直接実行することができます。
 
 例えば、こんな使い方。
-<br/><hr/>
+<hr/>
 
 ### DHCPな仮想マシンのIPアドレスを知る
 
@@ -23,7 +23,7 @@ $ vagrant ssh -c ifconfig
 
 grepなりで取得結果を整形すれば、仮想マシンのWebサーバへのブラウザアクセスなどに利用できます。
 
-<br/><hr/>
+<hr/>
 
 ### Chef-Soloのレシピを個別に実行する
 
@@ -37,5 +37,5 @@ $ vagrant ssh -c "cd /tmp/vagrant-chef-1 && sudo chef-solo -c solo.rb -j dna.jso
 $ vagrant ssh -c "cd /tmp/vagrant-chef-1 && sudo chef-solo -c solo.rb -o cookbookName::recipeName"
 ```
 
-<br/><hr/>
+<hr/>
 ログインの手間を省けるので、ちょっとした確認などに便利ではないでしょうか。

@@ -18,7 +18,6 @@ tags: [ "ag", "ack", "grep", "the-silver-searcher", "unite.vim", "golang" ]
 
 せっかくなのでポストagを目指して、[プラチナサーチャー(The Platinum Searcher)](https://github.com/monochromegane/the_platinum_searcher)と名付けてます。
 
-<br />
 <hr />
 
 # The Platinum Searcher
@@ -43,7 +42,6 @@ pt go   1.05s user 1.03s system 195% cpu 1.066 total
 ディレクトリ検索、Grep処理、結果表示などをゴルーチンを使って並行化したりしていますが、今回のようなシンプルな実装でこれだけの速度を出せているGo言語、なかなかよさそうです。
 
 
-<br />
 
 ## インストール
 
@@ -58,7 +56,6 @@ pt go   1.05s user 1.03s system 195% cpu 1.066 total
 - [Linux(x86 64bit)](https://drone.io/github.com/monochromegane/the_platinum_searcher/files/artifacts/bin/linux_amd64/pt)
 - [Linux(x86 32bit)](https://drone.io/github.com/monochromegane/the_platinum_searcher/files/artifacts/bin/linux_i386/pt)
 
-<br />
 
 ## 使い方
 
@@ -70,7 +67,6 @@ $ pt [OPTIONS] PATTERN [PATH]
 
 コマンド名は`pt`です。プラチナなので。
 
-<br />
 
 ## Unite.vimとの連携
 
@@ -85,7 +81,6 @@ if executable('pt')
 endif
 ```
 
-<br />
 <hr />
 
 今後は、ポストag、プラチナの名に恥じないよう、agより速く検索できるようにしていきたいなと思ってます。

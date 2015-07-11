@@ -22,7 +22,6 @@ Fukuoka.goは福岡でGo言語に興味のあるひとが集まる場所を目�
 前回がLT大会だったのでもくもく多めで予定してましたが、結果的に半々ぐらいになりました。  
 また、今回の参加者は7名でした。
 
-<br />
 ---
 
 # LT
@@ -33,7 +32,6 @@ Fukuoka.goは福岡でGo言語に興味のあるひとが集まる場所を目�
 
 Go言語で設定ファイルを扱うのに便利なHCL/TOMLの紹介でした。
 
-<br />
 
 <div style="width: 65%">
 <script async class="speakerdeck-embed" data-id="1e83ca80210d01328c621a1ab62a9337" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
@@ -42,7 +40,6 @@ Go言語で設定ファイルを扱うのに便利なHCL/TOMLの紹介でした�
 HCL/TOMLはそれぞれJSONやYAMLライクですが、よりユーザフレンドリーな書き方ができるとのことで試してみようかなと思います。
 
 
-<br />
 
 ## Twelve Go Best Practices の解説 (@monochromegane)
 
@@ -52,7 +49,6 @@ HCL/TOMLはそれぞれJSONやYAMLライクですが、よりユーザフレン�
 
 ベストプラクティスとしてはGo言語に限らないものも含まれますが、FunctionAdapterやパッケージ構成などGoっぽく書くにはどうするかみたいなものをいろいろ話してみました。
 
-<br />
 ---
 
 # もくもく会
@@ -63,7 +59,6 @@ HCL/TOMLはそれぞれJSONやYAMLライクですが、よりユーザフレン�
 
 前回に比べ少人数だったこともあり、わいわいしながら楽しくもくもくできたと思います。
 
-<br />
 ---
 
 # 様子
@@ -72,7 +67,6 @@ HCL/TOMLはそれぞれJSONやYAMLライクですが、よりユーザフレン�
 
 - [Fukuoka.go#3 - Togetterまとめ](http://togetter.com/li/720886)
 
-<br />
 ---
 
 # 所感
@@ -81,7 +75,6 @@ HCL/TOMLはそれぞれJSONやYAMLライクですが、よりユーザフレン�
 
 福岡のGo言語人口はまだ少ないので、知り合う、質問しあう場所をつくる意味でもどんどん続けていきたいなと思っています。
 
-<br />
 ---
 
 楽しくも学びのある Fukuoka.go は月一回を目安に定期的に開催しています。  

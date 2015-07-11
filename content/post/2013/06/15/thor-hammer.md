@@ -9,14 +9,12 @@ tags: [ "thor", "ruby", "rails", "gem" ]
 
 コマンドラインツールをそのままWebアプリとして使えるようにする仕組みが欲しくて、そんな Gem、`ThorHammer`トールハンマーをつくりました。
 
-<br />
 <hr />
 
 # Thorって？
 
 [Thor](http://whatisthor.com/)（トール、ソー、雷神）はRubyでコマンドラインツールをかんたんにつくるためのGemです。
 
-<br />
 <hr />
 
 # ThorHammerって？
@@ -27,14 +25,12 @@ tags: [ "thor", "ruby", "rails", "gem" ]
 
 ![Thor Hammer](/images/2013/06/thor_hammer.png) 
 
-<br />
 <hr />
 
 # どう使うの？
 
 ThorHammerは、RailsアプリとしてWebAPIを公開します。
 
-<br />
 
 ## インストール
 
@@ -47,7 +43,6 @@ gem 'Your Thor CLI' # WebAPIとして公開するThorのCLI
 
 あとは`bundle install`でOKです。
 
-<br />
 
 ## ジェネレータ
 
@@ -87,7 +82,6 @@ end
 
 `rails g thor_hammer:api SampleThorCli::Runner api` => `http://hostname/api`
 
-<br />
 
 ## アクセス
 
@@ -110,12 +104,10 @@ CLIとして利用した場合と同じ結果をそのまま取得すること�
 サブコマンドに引数があれば、指定することができます。
 引数が複数の場合は、`,`を間に挟んで指定します。
 
-<br />
 <hr />
 
 今はThor限定ですが、Rakeタスクなんかもできるようにして、CIと組み合わせると面白くなるかも。
 
-<br />
 <hr />
 
 ※1. はい、もちろん後付けです。

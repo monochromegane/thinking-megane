@@ -10,7 +10,7 @@ tags: [ "chef", "vagrant" ]
 [前回エントリ](http://blog.monochromegane.com/blog/2013/05/05/next-step-chef-solo-recipe-and-definition/)ではrecipeとdefinitionを用いたCookbookの共通化の手順を紹介しました。
 今回はChefのもうひとつの共通化の仕組みである**library**を紹介します。
 
-<br/><hr/>
+<hr/>
 
 # libraryって
 
@@ -27,7 +27,7 @@ libraryの用途は以下の様なものがあります。
 - LDAPプロバイダとの接続
 - その他、Rubyでできることはなんでも
 
-<br/><hr/>
+<hr/>
 
 # libraryを使う
 
@@ -60,7 +60,6 @@ remote_file "#{cache_path}/sample.tar.gz" do
 end
 ```
 
-<br/>
 ## 名前空間
 
 libraryが大きくなるようであれば、名前空間の分割を考える必要があります。
@@ -85,7 +84,6 @@ end
 ```
 
 
-<br/>
 ## module構成
 
 名前空間の分割にはmoduleを利用することもできます。
@@ -112,17 +110,15 @@ remote_file "#{cache_path}/sample.tar.gz" do
 end
 ```
 
-<br/>
 ## attirubuteへのアクセス
 
 マニュアルにはChef::Recipeクラスの@node変数経由で取得する記述になっていますが、通常通り`node.attr`もしくは`node[attr]`の取得方法で取得することができます。
 
-<br/>
 ## resourceの利用
 
 library内でもresource類を使うことができます。
 
-<br/><hr/>
+<hr/>
 
 前回のrecipe, definitionに続き、共通化という観点でlibraryを紹介しました。
 

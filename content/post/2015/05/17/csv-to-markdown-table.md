@@ -9,7 +9,6 @@ Markdown形式のテーブル記法をいつまでたってもうろ覚えで、
 
 <iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fmonochromegane%2Fmdt" title="monochromegane/mdt" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;a href="https://github.com/monochromegane/mdt"&gt;monochromegane/mdt&lt;/a&gt;</iframe>
 
-<br />
 
 ## 使い方
 
@@ -22,7 +21,6 @@ $ mdt < hoge.csv
 | short   | very very long content |
 ```
 
-<br />
 ## 連携
 
 コマンドラインツールなので、`pbpaste`や`Automator`と組み合わせて好きなように使えます。
@@ -33,7 +31,6 @@ $ mdt < hoge.csv
 
 便利っぽい。
 
-<br />
 
 ## 機能
 
@@ -90,7 +87,6 @@ next content, next content
 
 [Examples](https://godoc.org/github.com/monochromegane/mdt#pkg-examples)もあわせてどうぞ
 
-<br />
 
 ## インストール
 
@@ -100,7 +96,6 @@ $ go get github.com/monochromegane/mdt/...
 
 です。
 
-<br />
 
 ## Automator
 
@@ -127,7 +122,6 @@ Automatorから新規サービスとして登録します。
 
 `システム環境設定` > `キーボード` > `ショートカット`タブ > `サービス` を選択し、登録したサービスにショートカットキーを割り当てます。
 
-<br />
 ---
 
 # まとめ

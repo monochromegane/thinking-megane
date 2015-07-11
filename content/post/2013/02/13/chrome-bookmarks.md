@@ -8,7 +8,6 @@ tags: [ "vim" ]
 Unite.vimでChromeのブックマークを表示するスクリプトを作りました。(Mac限定)
 
 [monochromegane/unite-script](https://github.com/monochromegane/unite-script) /examples/chrome_bookmarks.scpt
-<br />
 
 
 ## Unite.vimとUnite-script
@@ -37,7 +36,6 @@ Unite-scriptから呼び出して使うことでUnite.vim上で以下のこと�
 
 **Mac Only!**
 > chrome_bookmarksスクリプトはAppleScriptで書かれており、Macでのみ動作します。
-<br />
 
 
 ## chrome_bookmarksスクリプトのインストール
@@ -57,7 +55,6 @@ chrome_bookmarksの動作にはUnite.vimとUnite-scriptが必要です。
 
 vimrcに`Bundle "monochromegane/unite-script"`を記載し、`:BundleInstall`でインストールしてください。
 
-<br />
 
 
 ## chrome_bookmarksスクリプトの使い方
@@ -75,7 +72,6 @@ vimrcに`Bundle "monochromegane/unite-script"`を記載し、`:BundleInstall`で
 #### キーバインドを設定
 `nnoremap <slient> your_keybind :<C-u>Unite script:osascript:~/.vim/bundle/unite-script/examples/chrome_bookmarks.scpt`
 
-<br />
  
 ## まとめ
 ---

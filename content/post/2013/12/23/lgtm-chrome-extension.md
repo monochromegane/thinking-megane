@@ -20,7 +20,6 @@ LGTMは、**"looks good to me."**の略で、GitHubのプルリクに対するOK
 
 ![LGTM](/images/2013/12/LGTM_screenshot.png)
 
-<br />
 
 ## 使い方
 
@@ -29,13 +28,11 @@ LGTMは、**"looks good to me."**の略で、GitHubのプルリクに対するOK
 
 ![LGTM](/images/2013/12/LGTM_comment.png)
 
-<br />
 
 ## その他
 
 リポジトリはこちら。 [monochromegane/LGTM](https://github.com/monochromegane/LGTM)
 
-<br />
 <hr />
 
 LGTM.inはよいコンセプトだと思うのですが、プルリクのコメント書いているときに別のサイトを開いたり、提供されるBookmarkletがプレビューしづらかったりしてちょっと使いにくい。

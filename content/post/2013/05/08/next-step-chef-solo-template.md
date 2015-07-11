@@ -10,12 +10,10 @@ tags: [ "chef" ]
 Chefのdefinitionは、独自リソースを定義して、外部のCookbookからも呼び出せるため共通化に役立つ便利な仕組みです。
 しかし、definition内でtemplateリソースを利用すると`Chef::Exceptions::FileNotFound`エラーが出る場合があります。
 
-<br/>
 ## 現象
 
 templateリソースを利用したdefinitionを外部のCookbookから呼び出した場合に`Chef::Exceptions::FileNotFound`が発生します。
 
-<br/>
 ## 原因
 
 templateリソースは、現在のCookbookのtemplatesディレクトリからテンプレートファイルを探すためです。
@@ -39,7 +37,6 @@ end
 apache_setup
 ```
 
-<br/>
 ## 対策
 
 外部から呼ばれる可能性があるdefinition内のtemplateリソースには、検索対象となるCookbookを明示しておきます。
@@ -55,5 +52,4 @@ define :apache_setup do
 end
 ```
 
-<br/>
 以上です

@@ -7,7 +7,6 @@ tags: [ "ag", "ack", "unite.vim", "grep", "the-silver-searcher" ]
 
 今までVim内のgrepにはUnite.vimを使っていたんですが、ファイル数が多いときに遅く感じることがあったので、前回導入した [ag(The Silver Searcher)](https://github.com/ggreer/the_silver_searcher)と組み合わせて快適高速grep環境をつくりました。
 
-<br />
 <hr />
 
 # The Silver Searcher と Unite.vim
@@ -23,7 +22,6 @@ The Silver Searcherについてはこの辺が分かりやすいと思います�
 - [ackを捨てて、より高速なag(The Silver Searcher)に切り替えた](http://blog.glidenote.com/blog/2013/02/28/the-silver-searcher-better-than-ack/)
 
 
-<br />
 <hr />
 
 # インストール
@@ -36,7 +34,6 @@ Macの場合、homebrewで提供されてます。
 $ brew install the_silver_searcher
 ```
 
-<br />
 ## Unite.vim のインストール
 
 BundleやNeoBundleによるインストールがおすすめです。
@@ -57,7 +54,6 @@ $ make # Macの場合
 
 makeファイルはOSごとに違うので[公式のREADME](https://github.com/Shougo/vimproc.vim)を確認してください。
 
-<br />
 <hr />
 
 # 設定
@@ -89,7 +85,6 @@ if executable('ag')
 endif
 ```
 
-<br />
 <hr />
 
 # 使い方
@@ -110,7 +105,6 @@ Pattern:
 
 Enterで対象のファイルが新しいバッファで開きます。
 
-<br />
 ## カーソル位置の単語でパターン検索
 
 開いているファイル内に検索したい語句がある場合は、カーソルをそこまで持っていき、`,cg`でOKです。
@@ -118,7 +112,6 @@ Enterで対象のファイルが新しいバッファで開きます。
 さきほどの`Pattern:`のところにカーソル位置の単語が入力された状態になります。
 あとの使い方は同じです。
 
-<br />
 ## 検索結果の再呼び出し
 
 候補を選択したあと、再度パターン検索の結果を表示したいときは、`,r`を入力します。
@@ -127,7 +120,6 @@ Enterで対象のファイルが新しいバッファで開きます。
 
 別の検索を実行するとバッファは上書きされます。
 
-<br />
 <hr />
 # Tipsなど
 
@@ -139,7 +131,6 @@ Enterで対象のファイルが新しいバッファで開きます。
 
 `Pattern`プロンプトの前に、`Target:`が表示されるようになり、ここで起点ディレクトリを指定できるようになります。
 
-<br />
 ## EUC-JP/Shift-JISのファイルがパターン検索にひっかからない
 
 The Silver SearcherはEUC-JP/Shift-JISのエンコードがされたファイルをバイナリと見なして検索対象から除外します。
@@ -157,7 +148,6 @@ brew install https://gist.github.com/morygonzalez/6588887/raw/b09a904e7ca9dd09ab
 
 既存のコマンドは`brew uninstall the_silver_searcher`でアンインストールしておいてください。
 
-<br />
 <hr />
 
 Unite.vimは標準でもgrepが同梱されているのですが、agと組み合わせることでより高速な環境を手にいれることができます。

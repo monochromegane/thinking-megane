@@ -11,7 +11,6 @@ tags: [ "ag", "the-silver-searcher", "euc-jp", "shift-jis", "ack" ]
 
 業務ではまだEUC-JPやShift-JISのファイルを触る機会があるため、ag でEUC-JP/Shift-JISのファイルも検索できるようにしてみました。
 
-<br />
 <hr />
 
 
@@ -28,7 +27,6 @@ $ make install
 - ** 既にhomebrewなどでインストール済みの agコマンド がある場合はアンインストールしておいてください **
 - ** コンパイル前に`automake`とか`pcre-devel`を適宜インストールおねがいします **
 
-<br />
 <hr />
 
 # 利用方法
@@ -39,7 +37,6 @@ $ make install
 $ ag [options] PATTERN [PATH]
 ```
 
-<br />
 <hr />
 
 # 修正点など
@@ -75,7 +72,6 @@ if (buf_c[i] > 160 && buf_c[i] < 224) {
 性能に関しても特に劣化していないと思います。
 不具合などあれば、プルリクください。
 
-<br />
 <hr />
 
 # 今後

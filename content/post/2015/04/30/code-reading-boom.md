@@ -16,13 +16,11 @@ Goで書かれたのApacheBenchライクな負荷測定ツール。Python製の[
 $ boom -n 100 -c 10 https://google.com
 ```
 
-<br />
 
 ## バージョン
 
 2015/04/29時点の**master** (372ea3b0e6cb084657d1db7eacccdfae929af5b9)
 
-<br />
 
 ## コード
 
@@ -92,7 +90,6 @@ func (b *Boomer) worker(wg *sync.WaitGroup, ch chan *http.Request) {
 }
 ```
 
-<br />
 
 ## 雑感
 

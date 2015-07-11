@@ -9,7 +9,6 @@ Goで DataMapperじゃなく、ActiveRecordライクにDB操作したいと思�
 
 `go/parser`と`go/ast`でソースを解析、個々の構造体ごとにARなコードを生成します。
 
-<br />
 ---
 
 # argen
@@ -18,7 +17,6 @@ Goで DataMapperじゃなく、ActiveRecordライクにDB操作したいと思�
 
 <iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fmonochromegane%2Fargen" title="monochromegane/argen" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;a href="https://github.com/monochromegane/argen"&gt;monochromegane/argen&lt;/a&gt;</iframe>
 
-<br />
 
 ## クイックスタート
 
@@ -53,7 +51,6 @@ User{}.Where("name", "test").And("age", ">", 20).Query()
 //// SELECT users.id, users.name, users.age FROM users WHERE name = ? AND age > ?; [test 20]
 ```
 
-<br />
 
 ## アソシエーション
 
@@ -81,7 +78,6 @@ user.JoinsPosts()
 
 ```
 
-<br />
 
 ## バリデーション
 
@@ -107,7 +103,6 @@ if errs != nil {
 
 OnCreateなどの実行トリガー、独自バリデーションにも対応しています。
 
-<br />
 
 ## go generate
 
@@ -121,7 +116,6 @@ Go1.4から導入された`go generate`を使うことで複数ファイルに�
 
 あとは定義を変更したときに`go generate`コマンドを実行すればOK。
 
-<br />
 ---
 
 #### ジェネレーターか〜
@@ -136,7 +130,6 @@ Go1.4から導入された`go generate`を使うことで複数ファイルに�
 
 このあたり、よりよいやり方についてコメントもらえるとうれしいです。
 
-<br />
 ---
 
 `argen`、まだまだライブラリとしては不足がありますが、よければご利用ください。PRお待ちしております。

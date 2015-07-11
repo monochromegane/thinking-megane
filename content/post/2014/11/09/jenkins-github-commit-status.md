@@ -7,7 +7,6 @@ tags: [ "jenkins", "github" ]
 
 Jenkinsのジョブ結果をプルリクエストに表示するときは[GitHub pull request builder plugin](https://wiki.jenkins-ci.org/display/JENKINS/GitHub+pull+request+builder+plugin)を使ってますが、単体のジョブでしか利用できなかったので、複数ジョブ（ビルドパイプライン構成）のときに結果を表示する方法をまとめておきます。
 
-<br />
 ---
 
 # ビルドパイプラインの構成
@@ -27,7 +26,6 @@ Jenkinsのジョブ結果をプルリクエストに表示するときは[GitHub
 1. 複数のジョブをビルドパイプラインとして実行する
 1. GitHub pull request builder plugin をトリガーとして利用する
 
-<br />
 ---
 
 # 1. ジョブの結果をプルリクエストに表示する
@@ -96,7 +94,6 @@ GitHubのプルリクエストに以下のように表示されれば実行成�
 ![github-commit-statuses](/images/2014/11/commit-statuses.png)
 
 
-<br />
 ---
 
 # 2. 複数のジョブをビルドパイプラインとして実行する
@@ -253,7 +250,6 @@ regression-test
 `Stable`の場合に、stateを`success`で、
 `Unstable or Failed but not stable`の場合に、stateを`failure`で指定すればOKです。
 
-<br />
 ---
 
 # 3. GitHub pull request builder plugin をトリガーとして利用する
@@ -363,7 +359,6 @@ revision=${ghprbActualCommit}
 
 * 実際はトリガとなるGitHub Pull Request Builder がコミット状態を一度成功にしますが、下流プロジェクトで状態を上書きするという動作をします。
 
-<br />
 ---
 
 設定は以上です。Jenkinsの設定を書き出していったら想定以上に長くなってしまいました...

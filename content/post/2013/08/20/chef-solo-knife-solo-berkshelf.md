@@ -16,7 +16,6 @@ knife-solo のバージョンが古いと2回目以降の実行時にうまく�
 
 構築対象となるリモート側のサーバへはすでにSSHによるログインが可能であるものとします。
 
-<br />
 
 # 2. chef, knife-solo, berkshelf のインストール
 
@@ -39,7 +38,6 @@ gem 'berkshelf'
 
 [Hack like a rolling stone - knife-solo 0.2.0 で rsync エラーによって苦しまないためのたったひとつの方法](http://tk0miya.hatenablog.com/entry/2013/04/18/011339)
 
-<br />
 
 # 3. cookbookの準備
 
@@ -69,7 +67,6 @@ knife-soloでは`cookbooks`配下は`.gitignore`で除外対象となってお�
 
 ** knife-solo はsshコマンドのオプションが使えます。証明書の指定などがある場合に便利です。 **
 
-<br />
 
 # 4. Cookbookの作成
 
@@ -81,7 +78,6 @@ knife-soloでは`cookbooks`配下は`.gitignore`で除外対象となってお�
 $ knife cookbook create xxx -o site-cookbooks/
 ``` 
 
-<br />
 
 ## 公開Cookbookを利用する場合
 
@@ -92,7 +88,6 @@ site :opscode
 cookbook "public_cookbook_name"
 ```
 
-<br />
 
 # 5. リモート側でChef-Soloを実行する
 
@@ -110,7 +105,6 @@ cookbook "public_cookbook_name"
 
 ** 公開Cookbookも忘れずに追加しておきます **
 
-<br />
 
 ## リモート側でのChef-Solo実行準備
 
@@ -120,7 +114,6 @@ $ knife solo prepare username@servername
 
 これにより、リモート側にChefがインストールされます。
 
-<br />
 
 ## リモート側でのChef-Solo実行
 
@@ -131,7 +124,6 @@ $ knife cook username@servername
 これによりリモート側にCookbookが送信され、run_listで指定したレシピが実行されます。
 
 
-<br />
 
 # 6. Tipsなど
 
@@ -152,7 +144,6 @@ nodes/servername.jsonに追加
 
 この例ではrecipe内で`node.hoge.fuga`として値を利用できます。
 
-<br />
 ---
 
 Vagrant + Chef-Solo の環境構築は手軽にできますが、いざVagrant以外に適用しようとすると意外と面倒です。

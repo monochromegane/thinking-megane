@@ -15,13 +15,11 @@ tags: [ "code-reading", "golang" ]
 $ echo "GET http://google.com/" | vegeta attack -duration=2s | vegeta report
 ```
 
-<br />
 
 ## バージョン
 
 2015/4/30時点の**master** (3739d8a2090cd61f4fe018e00adde281d824d3c6)
 
-<br />
 
 ## コード
 
@@ -106,7 +104,6 @@ for {
 
 [gob](http://golang.org/pkg/encoding/gob/)はGoで使えるシリアライザ。送信側と受信側でフィールド名と型があっていればデシリアライズしてくれる。`vegeta attack | vegeta report` 間でシリアライズしたデータをやりとりしている。
 
-<br />
 
 ## 雑感
 

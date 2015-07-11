@@ -12,7 +12,6 @@ Cookbookをつくるうえでのノウハウがたまってきたので、まと
 
 今日はChefで行う「共通化」についてです。
 
-<br/>
 <hr/>
 
 # Cookbookの共通化（recipeとdefinition）
@@ -31,7 +30,6 @@ definitionはリソースを組み合わせた独自のリソースを定義で�
 recipeはChefに実行させる内容を定義する本体です。
 レシピは、外部のレシピからその単位で呼び出すことができるため、大きな範囲で処理を共通化するのに役立ちます。
 
-<br/>
 <hr/>
 
 # definitionによる共通化
@@ -82,7 +80,6 @@ definitionはクックブック外からも呼び出すことができます。
 apache_setup # apacheクックブックでで定義した独自リソースを呼び出す
 ```
 
-<br/>
 
 ## パラメタによる汎用的なdefinition
 
@@ -109,7 +106,6 @@ end
 Apacheの設定を行うdefinitionの場合、サーバ名、ドキュメントルートなどがパラメタ化の対象となるでしょう。
 
 
-<br/>
 <hr/>
 
 # recipeによる共通化
@@ -168,7 +164,6 @@ end
 include_recipe "apache::setup"
 ```
 
-<br/>
 ## パラメタによる汎用的なrecipe
 
 レシピに対して直接パラメタを渡すことはできません。
@@ -224,7 +219,6 @@ node.apache.attr1 #=> "attr1" jsonパラメタを指定しない場合は"defaul
 }
 ```
 
-<br/>
 <hr/>
 
 # definitionとrecipeの使い分け
@@ -239,7 +233,6 @@ node.apache.attr1 #=> "attr1" jsonパラメタを指定しない場合は"defaul
 
 自分でクックブックを作成するときは、**パラメタが必要ない処理はrecipeとして定義し、パラメタが必要となる処理はdefinitionを用いる**ことにしています。
 
-<br/>
 <hr/>
 
 長くなってきたので今回はこの辺で。

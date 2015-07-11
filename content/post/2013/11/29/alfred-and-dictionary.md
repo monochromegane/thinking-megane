@@ -7,7 +7,6 @@ tags: [ "alfred", "dictionary" ]
 
 今まで英語の辞書に[Weblio](http://ejje.weblio.jp/)を使ってコーディングや、PullRequestのときの参考にしていたのですが、ネットワーク越しということもあり、遅く感じることがあったので、AlfredとMac標準の辞書.appを組み合わせて快適高速な英語環境をつくりました。
 
-<br />
 <hr />
 
 # Alfredと辞書.app
@@ -19,7 +18,6 @@ tags: [ "alfred", "dictionary" ]
 ローカルアプリケーションなので**起動、検索が高速**、さらに**インクリメンタルサーチ**にも対応しています。
 特にコーディングのときは、webの検索をじっと待つ時間はリズムが崩れるのでローカルアプリケーションの反応のよさは心地よいです。
 
-<br />
 <hr />
 
 # 設定
@@ -33,7 +31,6 @@ AlfredのPreferenceから、Featuresタブを選択し、サイドメニュー�
 
 ![alfred-preference](/images/2013/11/alfred-preference.png) 
 
-<br />
 <hr />
 
 # 使い方
@@ -46,7 +43,6 @@ Alfredを起動して、`d キーワード`を入力します。必要なもの�
 
 ![alfred](/images/2013/11/alfred.png) 
 
-<br />
 
 ## インクリメンタルサーチを使う
 
@@ -57,7 +53,6 @@ Alfredを起動して、`d キーワード`を入力します。必要なもの�
 
 ![dictionary](/images/2013/11/incremental_search.png) 
 
-<br />
 <hr />
 
 # Tipsなど
@@ -66,14 +61,12 @@ Alfredを起動して、`d キーワード`を入力します。必要なもの�
 
 辞書アプリのウィンドウがわからなくなったら、Alfredから起動するようにすればウィンドウを探しまわらなくてよいです。
 
-<br />
 
 ## URLスキーム
 
 Macの辞書アプリは `dict://`というURLスキームで呼び出すことができるので、コマンドラインで`opne dict://キーワード`で辞書アプリを起動します。
 Alfred以外、コマンドラインやVimから辞書を起動したいときは便利かもしれません。
 
-<br />
 <hr />
 
 

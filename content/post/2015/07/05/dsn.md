@@ -11,7 +11,6 @@ tags: [ "golang", "rails", "database" ]
 
 Railsのdatabase.ymlからGoのsql.Openに渡すDataSourceNameを出力します。
 
-<br />
 ## 使い方
 
 database.ymlのパスと環境(productionやdevelopment)をパラメタとして渡してあげるだけです。
@@ -24,13 +23,11 @@ fmt.Printf("[%s] %s", name, dsn)
 
 DSN、書式覚えるの厳しいので分かりやすいフォーマットの設定ファイルから読み込めるようになるのもうれしい感じです。
 
-<br />
 
 ## 機能
 
 今のところ、MySQL, PostgreSql, Sqlite に対応しています。
 
-<br />
 ---
 
 # 実装と今後

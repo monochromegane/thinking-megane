@@ -19,7 +19,6 @@ Eclipseでの開発環境と違いなど、調べたことがいくつかあっ�
 
 なお、環境は2013/07/08時点での最新版、`Android Studio (I/O Preview) AI-130.729444`です。
 
-<br />
 <hr />
 
 # 1. assetsディレクトリが作成されない
@@ -38,7 +37,6 @@ Eclipseでの開発時はassetsディレクトリはプロジェクト直下に�
 <sourceFolder url="file://$MODULE_DIR$/src/main/assets" isTestSource="false" />
 ```
 
-<br />
 <hr />
 # 2. エミュレータでプロキシを使いたい
 
@@ -50,7 +48,6 @@ Eclipseでの開発時はassetsディレクトリはプロジェクト直下に�
 -http-proxy http://hostname:port
 ```
 
-<br />
 <hr />
 # 3. 日本語コメントを入れるとコンパイルできない
 
@@ -77,7 +74,6 @@ VMのオプションを設定ファイルに追記する必要があるようで
 [takatoshi blog / [AndroidStudio]この文字は、エンコーディングsjisにマップできません。コンパイルエラーへの対処](http://takatoshimaeda.github.io/blog/2013/05/20/android-studio-character-code-build-error/)
 
 
-<br />
 <hr />
 # 4. ライブラリ(jar)追加でコンパイルできない
 
@@ -104,7 +100,6 @@ dependencies {
 ```
 `dependencies`内にjarファイル名を追加します。
 
-<br />
 <hr />
 
 以上、いくつか調べることはありましたがAndroid Studio、なかなか快適です。

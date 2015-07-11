@@ -13,7 +13,6 @@ tags: [ "hoi", "golang", "slack", "takosan" ]
 
 面倒は解決しましょう。以下、Hoiのｿﾘｭｰｼｮﾝです。
 
-<br />
 
 ## メッセージをやりとりする
 
@@ -32,7 +31,6 @@ http://192.168.0.103:8082/uqhrip3fvy71x791s00mj2r24kb8yiwu/message.txt
 
 message.txtにメッセージが記載されています。引数を複数にしたり、`""`で囲んで改行込にしてもOKです。
 
-<br />
 
 ## URLを通知する
 
@@ -49,7 +47,6 @@ $ hoi message @you
 ![hoi-notification](/images/2015/03/hoi-notification.png)
 
 
-<br />
 
 ## 設定
 
@@ -70,7 +67,6 @@ $ hoi message @you
 
 - [Hoi Configuration](https://github.com/monochromegane/hoi#configuration)
 
-<br />
 ---
 
 これでクラウドサービスに載せたくない情報をさくっとこそっとやりとりできるようになりました。
