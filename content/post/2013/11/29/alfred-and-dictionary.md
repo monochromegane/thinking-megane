@@ -2,7 +2,7 @@
 title: "Alfredと辞書.appで高速快適な英語環境を手に入れる"
 date: 2013-11-29
 comments: true
-categories: alfred dictionary
+tags: alfred dictionary
 ---
 
 今まで英語の辞書に[Weblio](http://ejje.weblio.jp/)を使ってコーディングや、PullRequestのときの参考にしていたのですが、ネットワーク越しということもあり、遅く感じることがあったので、AlfredとMac標準の辞書.appを組み合わせて快適高速な英語環境をつくりました。

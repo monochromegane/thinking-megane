@@ -2,7 +2,7 @@
 title: "Go言語でActiveRecordライクなORMをつくった"
 date: 2015-03-04
 comments: true
-categories: golang activerecord argen generate
+tags: golang activerecord argen generate
 ---
 
 Goで DataMapperじゃなく、ActiveRecordライクにDB操作したいと思ってつくってみました。

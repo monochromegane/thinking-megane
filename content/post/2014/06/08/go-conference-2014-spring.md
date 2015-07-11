@@ -2,7 +2,7 @@
 title: "Go Conference 2014 spring で発表してきた"
 date: 2014-06-08
 comments: true
-categories: golang pt
+tags: golang pt
 ---
 
 5月31日に[GoConference 2014 spring](http://connpass.com/event/6370/)というイベントで `pt & Goroutine` というタイトルの発表をさせてもらいました。

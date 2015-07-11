@@ -2,7 +2,7 @@
 title: "CSVテキストをMarkdown形式のテーブルに変換するツールをつくった"
 date: 2015-05-17
 comments: true
-categories: golang markdown table csv automator
+tags: golang markdown table csv automator
 ---
 
 Markdown形式のテーブル記法をいつまでたってもうろ覚えで、毎回検索したり、変換サイトにアクセスするのが面倒だったのでツールをつくりました。**嘘です。Go書きたかっただけです。**

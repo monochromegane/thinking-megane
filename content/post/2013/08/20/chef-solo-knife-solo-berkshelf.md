@@ -2,7 +2,7 @@
 title: "Chef-Solo + Knife-Solo + Berkshelf  環境のつくりかた"
 date: 2013-08-20
 comments: true
-categories: chef chef-solo knife-solo berkshelf
+tags: chef chef-solo knife-solo berkshelf
 ---
 Chef-Solo + Knife-Solo + Berkshelf 環境を構築するときに少しはまったので、まとめておきます。
 

@@ -2,7 +2,7 @@
 title: "今日のコードリーティング: tsenart/vegeta"
 date: 2015-05-01
 comments: true
-categories: code-reading golang
+tags: code-reading golang
 ---
 
 [HTTP load testing tool and library. It's over 9000! - tsenart/vegeta](https://github.com/tsenart/vegeta)

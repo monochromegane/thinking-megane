@@ -2,7 +2,7 @@
 title: "Go言語でコマンドラインオプション使うなら。便利パッケージgo-flags。"
 date: 2014-01-23
 comments: true
-categories: golang
+tags: golang
 ---
 
 Go言語でコマンドラインオプションを使うときは標準のflagsパッケージを使うことが多いと思いますが、[go-flags](https://github.com/jessevdk/go-flags)を使うとオプションの仕様を定義するだけでうまいことやってくれるので便利です。

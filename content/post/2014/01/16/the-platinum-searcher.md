@@ -2,7 +2,7 @@
 title: "Go言語でag(The Silver Searcher)ライクな高速検索ツールをつくった。EUC-JP/Shift-JISも検索できマス。"
 date: 2014-01-16
 comments: true
-categories: ag ack grep the-silver-searcher unite.vim golang
+tags: ag ack grep the-silver-searcher unite.vim golang
 ---
 
 いまや高速パターン検索といえばag(The Silver Searcher)ですが、検索対象がUTF-8のテキストを前提としているため、EUC-JPやShift-JISといったファイルを検索するのに課題があります。

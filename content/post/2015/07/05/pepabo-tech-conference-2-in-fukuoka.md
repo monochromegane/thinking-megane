@@ -2,7 +2,7 @@
 title: "第2回ペパボテックカンファレンスで発表してきた #pbtech"
 date: 2015-07-05
 comments: true
-categories: pepabo
+tags: pepabo
 ---
 
 7/4(土)に福岡でペパボが開催したテックカンファレンスで発表してきました。

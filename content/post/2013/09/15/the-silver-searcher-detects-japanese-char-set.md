@@ -2,7 +2,7 @@
 title: "ag(The Silver Searcher)でEUC-JP/Shift-JISのファイルも検索できるようにしてみた"
 date: 2013-09-15
 comments: true
-categories: ag the-silver-searcher euc-jp shift-jis ack
+tags: ag the-silver-searcher euc-jp shift-jis ack
 ---
 
 [ag(The Silver Searcher)](https://github.com/ggreer/the_silver_searcher)は、高速なパターン検索が行えるため、ackから切り替える人も多いと思いますが、日本語文字セット（EUC-JPやShift-JIS）のファイルがバイナリファイルとして判定されて検索対象からスキップされてしまうという問題があります。

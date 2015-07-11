@@ -2,7 +2,7 @@
 title: "Unite.vimでChromeのブックマークを表示するスクリプトを作った"
 date: 2013-02-13
 comments: true
-categories: vim
+tags: vim
 ---
 
 Unite.vimでChromeのブックマークを表示するスクリプトを作りました。(Mac限定)

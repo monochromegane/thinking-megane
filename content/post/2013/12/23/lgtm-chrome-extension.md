@@ -2,7 +2,7 @@
 title: "LGTMでめでたさを伝えるChrome拡張をつくった"
 date: 2013-12-23
 comments: true
-categories: lgtm chrome extension 拡張 github
+tags: lgtm chrome extension 拡張 github
 ---
 
 先日、[高速にドッグフードを食べる方法](https://speakerdeck.com/hitode909/gao-su-nidotuguhudowoshi-berufang-fa)を見て、LGTMと[LGTM.in](http://www.lgtm.in/)というサービスを知りました。

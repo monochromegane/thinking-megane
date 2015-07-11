@@ -2,7 +2,7 @@
 title: "Fukuoka.go#7 ソースコードリーディングvol.1を開催しました"
 date: 2015-04-25
 comments: true
-categories: golang fukuoka.go
+tags: golang fukuoka.go
 ---
 
 今年入ってちょっと休憩していたFukuoka.goなんですが、[@nobkz](https://twitter.com/nobkz)さんがソースコードリーディングやろうという企画を持ちかけてくれたので久々に開催しました。

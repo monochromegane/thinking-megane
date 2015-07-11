@@ -2,7 +2,7 @@
 title: "すべてが╭( ･ㅂ･)و ̑̑ ｸﾞｯ ! になる - Jenkinsビルドパイプライン結果をプルリクエストに表示する"
 date: 2014-11-09
 comments: true
-categories: jenkins github
+tags: jenkins github
 ---
 
 Jenkinsのジョブ結果をプルリクエストに表示するときは[GitHub pull request builder plugin](https://wiki.jenkins-ci.org/display/JENKINS/GitHub+pull+request+builder+plugin)を使ってますが、単体のジョブでしか利用できなかったので、複数ジョブ（ビルドパイプライン構成）のときに結果を表示する方法をまとめておきます。

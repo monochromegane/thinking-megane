@@ -2,7 +2,7 @@
 title: "Go Conference 2015 summer で発表してきた"
 date: 2015-06-23
 comments: true
-categories: golang gocon
+tags: golang gocon
 ---
 
 6/21に[GoConference 2015 summer](http://gocon.connpass.com/event/14063/)というイベントで `Generative Programming in Go` というタイトルの発表をしてきました。

@@ -2,7 +2,7 @@
 title: "ComposerとPackagistでPHPライブラリを開発、テスト、公開する(1/2)"
 date: 2013-06-02
 comments: true
-categories: php composer packagist
+tags: php composer packagist
 ---
 
 [PHP: The Right Way](http://ja.phptherightway.com/)を読んで、そのコンセプトに共感したので、今回、ComposerとPackagistでライブラリを開発、テスト、公開する手順をまとめておこうと思います。

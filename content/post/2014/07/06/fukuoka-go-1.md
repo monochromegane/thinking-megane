@@ -2,7 +2,7 @@
 title: "Fukuoka.go#1を開催しました。"
 date: 2014-07-06
 comments: true
-categories: golang fukuoka.go
+tags: golang fukuoka.go
 ---
 
 7月4日に **Fukuoka.go#1** を開催しました。
