@@ -2,7 +2,7 @@
 title: "半歩進むChef-Solo - Cookbookの共通化（library）"
 date: 2013-05-06
 comments: true
-tags: chef vagrant
+tags: [ "chef", "vagrant" ]
 ---
 
 # Cookbookの共通化（library）

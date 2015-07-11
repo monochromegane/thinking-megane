@@ -2,7 +2,7 @@
 title: "Fukuoka.go#3を開催しました。"
 date: 2014-09-20
 comments: true
-tags: golang fukuoka.go
+tags: [ "golang", "fukuoka.go" ]
 ---
 
 **Fukuoka.go**の第三回を9/16に開催しました。

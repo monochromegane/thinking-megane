@@ -2,7 +2,7 @@
 title: "Jenkinsのジョブ定義でGitHub AccessTokenを隠す"
 date: 2014-11-11
 comments: true
-tags: jenkins github
+tags: [ "jenkins", "github" ]
 ---
 
 Jenkinsのジョブ定義にGitHubのAccessTokenを直接書きたくないときに使えるプラグインがあったのでメモしておきます。

@@ -2,7 +2,7 @@
 title: "Go言語での構造体実装パターン"
 date: 2014-03-23
 comments: true
-tags: go golang
+tags: [ "go", "golang" ]
 ---
 
 Go言語での構造体実装は、埋込や独自コンセプトのインターフェースといったGo言語独自の機能を理解して行う必要があります。

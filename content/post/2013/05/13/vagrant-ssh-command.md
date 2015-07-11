@@ -2,7 +2,7 @@
 title: "ちょっと便利なvagrant sshのコマンドオプション"
 date: 2013-05-13
 comments: true
-tags: vagrant chef
+tags: [ "vagrant", "chef" ]
 ---
 
 `vagrant ssh`にはコマンドオプションがあり、sshで仮想マシンにログインしなくても実行結果を取得することができます。

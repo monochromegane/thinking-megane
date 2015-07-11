@@ -2,7 +2,7 @@
 title: "Vagrant起動時にChef-Soloの実行を省く"
 date: 2013-05-11
 comments: true
-tags: vagrant chef
+tags: [ "vagrant", "chef" ]
 ---
 
 Vagrantの起動時にはChef-Soloが実行されますが、きちんと冪等性をもたせたレシピでもChef-Soloの実行には多少の待ちが発生してしまいます。

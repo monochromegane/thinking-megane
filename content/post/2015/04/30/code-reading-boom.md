@@ -2,7 +2,7 @@
 title: "今日のコードリーディング: rakyll/boom"
 date: 2015-04-30
 comments: true
-tags: code-reading golang
+tags: [ "code-reading", "golang" ]
 ---
 
 [HTTP(S) load generator, ApacheBench (ab) replacement, written in Go - rakyll/boom](https://github.com/rakyll/boom)

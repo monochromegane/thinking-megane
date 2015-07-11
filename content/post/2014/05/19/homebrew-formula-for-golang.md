@@ -2,7 +2,7 @@
 title: "Go言語でつくったツールをHomebrewで配布する"
 date: 2014-05-19
 comments: true
-tags: homebrew golang
+tags: [ "homebrew", "golang" ]
 ---
 
 
