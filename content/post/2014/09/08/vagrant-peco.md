@@ -2,7 +2,7 @@
 title: "pecoでVagrant操作を便利にする"
 date: 2014-09-08
 comments: true
-tags: peco vagrant golang
+tags: [ "peco", "vagrant", "golang" ]
 ---
 
 開発環境で利用するVagrantのVMの数が増えてきたのでpecoでVM選んで起動や停止をできるようにしてみました。

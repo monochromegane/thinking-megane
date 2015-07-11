@@ -2,7 +2,7 @@
 title: "「ほい、これ」ってファイルを渡せる Hoi というツールをつくった"
 date: 2014-07-17
 comments: true
-tags: hoi go golang
+tags: [ "hoi", "go", "golang" ]
 ---
 
 

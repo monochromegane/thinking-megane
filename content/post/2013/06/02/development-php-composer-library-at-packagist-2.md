@@ -2,7 +2,7 @@
 title: "ComposerとPackagistでPHPライブラリを開発、テスト、公開する(2/2)"
 date: 2013-06-02
 comments: true
-tags: php composer packagist
+tags: [ "php", "composer", "packagist" ]
 ---
 
 今回は、前回[ComposerとPackagistでPHPライブラリを開発、テスト、公開する(1/2)](http://blog.monochromegane.com/blog/2013/06/02/development-php-composer-library-at-packagist-1/)で作成したライブラリをPackagistに公開します。

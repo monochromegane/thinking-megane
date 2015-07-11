@@ -2,7 +2,7 @@
 title: "Android Studioを使うときに調べたこと、いくつか"
 date: 2013-07-08
 comments: true
-tags: android studio java
+tags: [ "android", "studio", "java" ]
 ---
 ひさびさにAndroidアプリをつくるのに、せっかくなので公開された[Android Studio](http://developer.android.com/sdk/installing/studio.html)を使ってみました。
 

@@ -2,7 +2,7 @@
 title: "Go言語のDB接続情報をRailsのdatabase.ymlから借用するライブラリをつくった"
 date: 2015-07-05
 comments: true
-tags: golang rails database
+tags: [ "golang", "rails", "database" ]
 ---
 
 最近、Rails資産のあるサーバーでGoツールを動かすことがあったので、DB接続情報を共通で使えるようにしたいと思い小さなライブラリをつくりました。
