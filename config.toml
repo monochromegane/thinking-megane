@@ -5,8 +5,8 @@ languageCode = "ja-jp"
 [author]
   Name = "monochromegane"
   Bio  = [
-    "@monochromegane（モノクロめがね）と申します。IT技術書が好物です。",
-    "本職ではPHP, RubyでWebサービス開発をメインにやっています。2014年はGoの年！"
+    "monochromegane (モノクロめがね) と申します。",
+    "最近はもっぱらGoに夢中です。普段はRuby/PHPでWebサービス開発をやっています。"
   ]
 
 [permalinks]
