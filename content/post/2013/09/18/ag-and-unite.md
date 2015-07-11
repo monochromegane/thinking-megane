@@ -2,7 +2,7 @@
 title: "agとUnite.vimで快適高速grep環境を手に入れる"
 date: 2013-09-18
 comments: true
-tags: ag ack unite.vim grep the-silver-searcher
+tags: [ "ag", "ack", "unite.vim", "grep", "the-silver-searcher" ]
 ---
 
 今までVim内のgrepにはUnite.vimを使っていたんですが、ファイル数が多いときに遅く感じることがあったので、前回導入した [ag(The Silver Searcher)](https://github.com/ggreer/the_silver_searcher)と組み合わせて快適高速grep環境をつくりました。
