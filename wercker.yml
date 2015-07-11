@@ -1,0 +1,11 @@
+box: wercker/default
+build:
+  steps:
+    - script:
+        name: download theme
+        code: |
+          git clone https://github.com/monochromegane/hugo-theme-thinking-megane themes/thinking-megane
+          rm -rf themes/thinking-megane/.git
+    - arjen/hugo-build:
+        version: "0.14"
+        theme: thinking-megane
