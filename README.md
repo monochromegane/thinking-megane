@@ -1,4 +1,4 @@
-# THINKING MEGANE
+# THINKING MEGANE [![wercker status](https://app.wercker.com/status/93e52aa93b59f08d1009b060773a7b29/s/master "wercker status")](https://app.wercker.com/project/bykey/93e52aa93b59f08d1009b060773a7b29)
 
 My blog contents for Hugo.
 
