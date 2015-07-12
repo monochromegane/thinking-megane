@@ -23,5 +23,6 @@ deploy:
           apt-get -y install git
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
+        repo: monochromegane/monochromegane.github.com
         domain: blog.monochromegane.com
         basedir: public
