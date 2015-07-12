@@ -14,6 +14,10 @@ build:
     - arjen/hugo-build:
         version: "0.14"
         theme: thinking-megane
+    - script:
+        name: create old RSS file
+        code: |
+          cp public/index.xml public/atom.xml
 deploy:
   steps:
     - script:
