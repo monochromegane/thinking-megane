@@ -4,6 +4,7 @@ build:
     - script:
         name: download theme
         code: |
+          apt-get -y install git
           git clone https://github.com/monochromegane/hugo-theme-thinking-megane themes/thinking-megane
           rm -rf themes/thinking-megane/.git
     - arjen/hugo-build:
