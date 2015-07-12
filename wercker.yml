@@ -2,10 +2,13 @@ box: debian
 build:
   steps:
     - script:
-        name: download theme
+        name: install git
         code: |
           apt-get update
           apt-get -y install git
+    - script:
+        name: download theme
+        code: |
           git clone https://github.com/monochromegane/hugo-theme-thinking-megane themes/thinking-megane
           rm -rf themes/thinking-megane/.git
     - arjen/hugo-build:
@@ -13,6 +16,11 @@ build:
         theme: thinking-megane
 deploy:
   steps:
+    - script:
+        name: install git
+        code: |
+          apt-get update
+          apt-get -y install git
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
         domain: blog.monochromegane.com
