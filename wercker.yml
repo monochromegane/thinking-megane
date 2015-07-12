@@ -11,9 +11,9 @@ build:
     - arjen/hugo-build:
         version: "0.14"
         theme: thinking-megane
-    - script:
-        name: check
-        code: |
-          ls
-          ls themes
-          ls public
+deploy:
+  steps:
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: blog.monochromegane.com
+        basedir: public
