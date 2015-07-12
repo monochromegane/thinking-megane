@@ -11,3 +11,9 @@ build:
     - arjen/hugo-build:
         version: "0.14"
         theme: thinking-megane
+    - script:
+        name: check
+        code: |
+          ls
+          ls themes
+          ls public
