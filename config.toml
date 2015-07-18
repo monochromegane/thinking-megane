@@ -13,6 +13,7 @@ languageCode = "ja-jp"
   post = "/blog/:year/:month/:day/:filename/"
 
 [params]
-  Twitter = "monochromegane"
-  GitHub  = "monochromegane"
+  Twitter   = "monochromegane"
+  GitHub    = "monochromegane"
+  Analytics = "UA-38374674-1"
 
