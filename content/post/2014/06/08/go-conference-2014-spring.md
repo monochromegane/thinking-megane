@@ -12,7 +12,7 @@ tags: [ "golang", "pt" ]
 内容的には、以下のスライドのとおり、同ツールの高速化の経緯をたどりながらGo言語の並行処理を実現する機構であるGoroutineの使い方を知ってもらうという構成でした。
 
 
-<div style="width: 65%">
+<div style="speakerdeck">
 <script async class="speakerdeck-embed" data-id="afff27e0cad2013176a162bf191fee83" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 

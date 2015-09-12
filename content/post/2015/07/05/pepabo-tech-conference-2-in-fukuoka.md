@@ -11,7 +11,7 @@ tags: [ "pepabo" ]
 
 今回はGoの布教活動と称し、15分のライブコーディングでWebSocketのチャットサーバーをつくりました。
 
-<div style="width: 65%">
+<div style="speakerdeck">
 <script async class="speakerdeck-embed" data-id="dc3e7e96920d4412b24786d48114bd15" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 

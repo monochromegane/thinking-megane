@@ -34,7 +34,7 @@ Fukuoka.goは福岡でGo言語に興味のあるひとが集まる場所を目�
 RubyとGoを比較しながらGoを学ぶ。
 
 
-<div style="width: 65%">
+<div style="speakerdeck">
 <script async class="speakerdeck-embed" data-id="244385d00bc4013224d21eb14f30e1c6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
@@ -80,7 +80,7 @@ Fukuoka.goで毎回やっているGo入門用LTです。
 
 前回は構文を学ぶ[速習Go](https://gist.github.com/monochromegane/8bb73390f2ebd9d325f4)をやったので今回は実践Goとして、簡単なツールをつくって配布する部分を紹介しました。
 
-<div style="width: 65%">
+<div style="speakerdeck">
 <script async class="speakerdeck-embed" data-id="943c17900bbf013224d21eb14f30e1c6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
@@ -97,7 +97,7 @@ Go書いたことない方にも雰囲気が伝わっていればうれしいで
 
 gyowitterというGo製のYo/Twitter連携サービスの紹介。
 
-<div style="width: 65%">
+<div style="speakerdeck">
 <script async class="speakerdeck-embed" data-id="ccf4a2000bc7013260fd7e2d2d4e67ff" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 

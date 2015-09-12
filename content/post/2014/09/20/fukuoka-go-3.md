@@ -33,7 +33,7 @@ Fukuoka.goは福岡でGo言語に興味のあるひとが集まる場所を目�
 Go言語で設定ファイルを扱うのに便利なHCL/TOMLの紹介でした。
 
 
-<div style="width: 65%">
+<div style="speakerdeck">
 <script async class="speakerdeck-embed" data-id="1e83ca80210d01328c621a1ab62a9337" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
