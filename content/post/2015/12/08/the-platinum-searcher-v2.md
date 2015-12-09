@@ -8,7 +8,7 @@ tags = [ "golang", "ag", "pt", "the_platinum_searcher" ]
 
 ---
 
-本日、Go言語製 高速検索ツール Tha Platinum Searcher(pt) のバージョン2をリリースしました。今回は検索速度の向上に主軸を置き、旧バージョンと比較して5倍の高速化を実現しています。
+本日、Go言語製 高速検索ツール The Platinum Searcher(pt) のバージョン2をリリースしました。今回は検索速度の向上に主軸を置き、旧バージョンと比較して5倍の高速化を実現しています。
 
 <iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fmonochromegane%2Fthe_platinum_searcher" title="monochromegane/the_platinum_searcher" class="embed-card embed-webcard" scrolling="no" frame border="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;">&lt;a href="https://github.com/monochromegane/the_platinum_searcher"&gt;monochromegane/the_platinum_searcher&lt;/a&gt;</iframe>
 
@@ -56,6 +56,7 @@ $ go get -u github.com/monochromegane/the_platinum_searcher/...
 
 ```sh
 $ brew tap monochromegane/pt
+$ brew tap-pin monochromegane/pt
 $ brew install pt
 ```
 
