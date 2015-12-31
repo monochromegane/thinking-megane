@@ -9,6 +9,8 @@ title = "2015年のふりかえり"
 
 ## 技術
 
+![](/images/2015/12/contributions_2015.png)
+
 2014年から引き続きGo言語一色の年になった。[Top Go GitHub developers in Japan](http://github-awards.com/users?country=japan&language=Go&type=country)で3位に位置付けられてるのは素直に喜びたい。当たるか当たらないかに関係なく自分が必要と思ったらOSS前提でつくるようになれたし、発表も特に臆することなくできるようになったと思う。
 
 今は、OSSや発表も個人ベースだったりGo言語界隈という感じで範囲や関係する人が限定的なので、来年はそのあたりをもっと広げて新しい世界を見たいと思っている。
