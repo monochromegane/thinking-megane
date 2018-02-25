@@ -38,6 +38,21 @@ SmartSifterは離散値ベクトルを排反な集合に分類したセルごと
 
 実装は論文に準じているが，`\overline{\mu}_i^{(t)}`と`\overline{\Lambda}_i^{(t)}`については論文中に初期値が与えられていなかったので，それぞれ`\mu_i^{(t)}`と`\Lambda_i^{(t)}`から求めた．また，`\Lambda_i^{(0)}`は単位行列とした．
 
+現状，Golangからは以下のように利用することができる．
+
+```go
+r := 0.1 // Discounting parameter.
+alpha := 1.5 // Hyper parameter for continuous variables.
+beta := 1.0 // Hyper parameter for categorical variables.
+cellNum := 0 // Only continuous variables.
+mixtureNum := 2 // Number of mixtures for GMM.
+dim := 2 // Number of dimentions for GMM.
+
+ss := smartsifter.NewSmartSifter(r, alpha, beta, cellNum, mixtureNum, dim)
+logLoss := ss.Input(nil, []float64{0.1, 0.2}, true)
+fmt.Println("Score using logLoss: %f\n", logLoss)
+```
+
 # まとめ
 
 こういった確率モデルに従うようなアルゴリズムの勉強のため，今回はSmartSifterを実装した．実運用ではハイパーパラメータの調整が必要になってくると思われるが，今回のような単純なデータであれば想定した結果を得られることがわかった．
