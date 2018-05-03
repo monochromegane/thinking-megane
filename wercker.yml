@@ -12,7 +12,7 @@ build:
           git clone https://github.com/monochromegane/hugo-theme-thinking-megane themes/thinking-megane
           rm -rf themes/thinking-megane/.git
     - arjen/hugo-build:
-        version: "0.14"
+        version: "0.39"
         theme: thinking-megane
     - script:
         name: create old RSS file
