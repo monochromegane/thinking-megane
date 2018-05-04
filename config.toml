@@ -2,13 +2,6 @@ title        = "THINKING MEGANE"
 baseurl      = "http://blog.monochromegane.com"
 languageCode = "ja-jp"
 
-[author]
-  Name = "monochromegane"
-  Bio  = [
-    "monochromegane (モノクロめがね) と申します。",
-    "最近はもっぱらGoに夢中です。普段はRuby/PHPでWebサービス開発をやっています。"
-  ]
-
 [permalinks]
   post = "/blog/:year/:month/:day/:filename/"
 
@@ -16,4 +9,8 @@ languageCode = "ja-jp"
   Twitter   = "monochromegane"
   GitHub    = "monochromegane"
   Analytics = "UA-38374674-1"
-
+  AuthorName = "monochromegane"
+  AuthorBio  = [
+    "monochromegane (モノクロめがね) と申します。",
+    "最近はもっぱらGoに夢中です。普段は研究開発をやっています。"
+  ]
