@@ -65,7 +65,7 @@ ASCIIのみ、UTF-8、EUC-JP、Shift-JISでエンコードされたファイル�
 Unite.vimとの連携により開発効率が向上する。
 基本的な連携手順については以下を参照すること。
 
-- [agとUnite.vimで快適高速grep環境を手に入れる](http://blog.monochromegane.com/blog/2013/09/18/ag-and-unite/)
+- [agとUnite.vimで快適高速grep環境を手に入れる](/blog/2013/09/18/ag-and-unite/)
 
 なお、検索コマンドをagからsgに変更する必要がある。
 
@@ -88,7 +88,7 @@ endif
 - [ag(The Silver Searcher)](https://github.com/ggreer/the_silver_searcher)
 - [ackを捨てて、より高速なag(The Silver Searcher)に切り替えた](http://blog.glidenote.com/blog/2013/02/28/the-silver-searcher-better-than-ack/)
 - [nDiki: ag やめて ack に戻す](http://www.naney.org/diki/d/2013-07-17-The-Silver-Searcher.html)
-- [ag(The Silver Searcher)でEUC-JP/Shift-JISのファイルも検索できるようにしてみた](http://blog.monochromegane.com/blog/2013/09/15/the-silver-searcher-detects-japanese-char-set/)
+- [ag(The Silver Searcher)でEUC-JP/Shift-JISのファイルも検索できるようにしてみた](/blog/2013/09/15/the-silver-searcher-detects-japanese-char-set/)
 
 <hr />
 

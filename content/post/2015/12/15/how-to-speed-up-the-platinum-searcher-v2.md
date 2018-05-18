@@ -8,7 +8,7 @@ tags = [ "golang", "pt", "the_platinum_searcher", "pprof" ]
 
 ---
 
-先日、5倍の高速化を実現した[高速検索ツールThe Platinum SearcherのV2をリリース](http://blog.monochromegane.com/blog/2015/12/08/the-platinum-searcher-v2/)しました。
+先日、5倍の高速化を実現した[高速検索ツールThe Platinum SearcherのV2をリリース](/blog/2015/12/08/the-platinum-searcher-v2/)しました。
 
 今回は、高速化にあたり工夫した点をまとめておこうと思います。
 

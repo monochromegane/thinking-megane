@@ -6,7 +6,7 @@ tags: [ "homebrew", "golang" ]
 ---
 
 
-先日、Go言語でつくった高速検索ツール([the_platinum_searcher](http://blog.monochromegane.com/blog/2014/01/16/the-platinum-searcher/))をHomebrewで配布できるようにしました。  
+先日、Go言語でつくった高速検索ツール([the_platinum_searcher](/blog/2014/01/16/the-platinum-searcher/))をHomebrewで配布できるようにしました。  
 意外とGo言語製ツールをHomebrew対応させる情報がなかったので、配布までの手順をまとめておきます。
 
 

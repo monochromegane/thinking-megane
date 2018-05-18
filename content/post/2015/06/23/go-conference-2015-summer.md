@@ -7,7 +7,7 @@ tags: [ "golang", "gocon" ]
 
 6/21に[GoConference 2015 summer](http://gocon.connpass.com/event/14063/)というイベントで `Generative Programming in Go` というタイトルの発表をしてきました。
 
-内容的には、今年に入ってつくった [argen](http://blog.monochromegane.com/blog/2015/03/04/argen/)の紹介を通して生成的なプログラミングの使いドコロやTipsなどを紹介するものでした。
+内容的には、今年に入ってつくった [argen](/blog/2015/03/04/argen/)の紹介を通して生成的なプログラミングの使いドコロやTipsなどを紹介するものでした。
 
 <div style="speakerdeck">
 <script async class="speakerdeck-embed" data-id="baea21c51cb9413992b74786804e9109" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

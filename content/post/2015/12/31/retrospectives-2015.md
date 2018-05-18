@@ -19,23 +19,23 @@ title = "2015年のふりかえり"
 
 Go楽しい〜の一年だった。[argen](https://github.com/monochromegane/argen)とかの大きめのプロダクトもつくれたし、[The Platinum Searcher](https://github.com/monochromegane/the_platinum_searcher)の高速化も達成できたのはよかった。
 
-- [hoi](https://github.com/monochromegane/hoi)([HoiとSlackで内緒話をする](http://blog.monochromegane.com/blog/2015/03/01/hoi-and-slack/))
-- [argen](https://github.com/monochromegane/argen)([Go言語でActiveRecordライクなORMをつくった](http://blog.monochromegane.com/blog/2015/03/04/argen/))
-- [mdt](https://github.com/monochromegane/mdt)([CSVテキストをMarkdown形式のテーブルに変換するツールをつくった](http://blog.monochromegane.com/blog/2015/05/17/csv-to-markdown-table/))
-- [conflag](https://github.com/monochromegane/conflag)([Go言語でコマンドラインオプションをさくっと設定ファイル対応させるライブラリをつくった](http://blog.monochromegane.com/blog/2015/05/30/conflag/))
-- [Torokko](https://github.com/monochromegane/torokko)([Goのデプロイを「もっと」簡単にする。ビルドプロキシCargo。改めTorokko。](http://blog.monochromegane.com/blog/2015/08/16/deploy-golang-by-cargo/))
+- [hoi](https://github.com/monochromegane/hoi)([HoiとSlackで内緒話をする](/blog/2015/03/01/hoi-and-slack/))
+- [argen](https://github.com/monochromegane/argen)([Go言語でActiveRecordライクなORMをつくった](/blog/2015/03/04/argen/))
+- [mdt](https://github.com/monochromegane/mdt)([CSVテキストをMarkdown形式のテーブルに変換するツールをつくった](/blog/2015/05/17/csv-to-markdown-table/))
+- [conflag](https://github.com/monochromegane/conflag)([Go言語でコマンドラインオプションをさくっと設定ファイル対応させるライブラリをつくった](/blog/2015/05/30/conflag/))
+- [Torokko](https://github.com/monochromegane/torokko)([Goのデプロイを「もっと」簡単にする。ビルドプロキシCargo。改めTorokko。](/blog/2015/08/16/deploy-golang-by-cargo/))
 - [mackerel-plugin-delayed-job-count](https://github.com/monochromegane/mackerel-plugin-delayed-job-count)
 - [dsn](https://github.com/monochromegane/dsn)
-- [go-bincode](https://github.com/monochromegane/go-bincode)([野良バイナリになっても大丈夫。Goのバイナリにソースコードを添付するツールをつくった。](http://blog.monochromegane.com/blog/2015/08/23/go-bincode/))
+- [go-bincode](https://github.com/monochromegane/go-bincode)([野良バイナリになっても大丈夫。Goのバイナリにソースコードを添付するツールをつくった。](/blog/2015/08/23/go-bincode/))
 - [slack-incoming-webhooks](https://github.com/monochromegane/slack-incoming-webhooks)
 - [memcache_key](https://github.com/monochromegane/memcache_key)
-- [mysql_dump_slow](https://github.com/monochromegane/mysql_dump_slow)([MySQLのslow_logテーブルをサマライズするGemをつくった](http://blog.monochromegane.com/blog/2015/07/20/mysql-dump-slow/))
+- [mysql_dump_slow](https://github.com/monochromegane/mysql_dump_slow)([MySQLのslow_logテーブルをサマライズするGemをつくった](/blog/2015/07/20/mysql-dump-slow/))
 - [be_strong](https://github.com/monochromegane/be_strong)([
 さくっとStrongParametersへ移行するbe_strongというgemをつくりました](http://tech.pepabo.com/2015/12/18/upgrade-to-strong-parameters/))
-- [dragon-imports](https://github.com/monochromegane/dragon-imports)([goimportsを高速化するdragon-importsコマンドをつくった](http://blog.monochromegane.com/blog/2015/12/23/dragon-imports/))
+- [dragon-imports](https://github.com/monochromegane/dragon-imports)([goimportsを高速化するdragon-importsコマンドをつくった](/blog/2015/12/23/dragon-imports/))
 
-- [V2! V2! Go言語製 高速検索ツールThe Platinum Searcherのv2をリリースしました](http://blog.monochromegane.com/blog/2015/12/08/the-platinum-searcher-v2/)
-- [The Platinum Searcherを5倍高速化するためにやったこと](http://blog.monochromegane.com/blog/2015/12/15/how-to-speed-up-the-platinum-searcher-v2/)
+- [V2! V2! Go言語製 高速検索ツールThe Platinum Searcherのv2をリリースしました](/blog/2015/12/08/the-platinum-searcher-v2/)
+- [The Platinum Searcherを5倍高速化するためにやったこと](/blog/2015/12/15/how-to-speed-up-the-platinum-searcher-v2/)
 
 ### 発表
 
@@ -44,20 +44,20 @@ Go楽しい〜の一年だった。[argen](https://github.com/monochromegane/arg
 
 <iframe src="http://www.storyboards.jp/widget/7xay4r" width="640" height="480"></iframe>
 
-[Fukuoka.go#7 ソースコードリーディングvol.1を開催しました](http://blog.monochromegane.com/blog/2015/04/25/fukuoka-go-7/)
+[Fukuoka.go#7 ソースコードリーディングvol.1を開催しました](/blog/2015/04/25/fukuoka-go-7/)
 
 
 <script async class="speakerdeck-embed" data-id="baea21c51cb9413992b74786804e9109" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-[Go Conference 2015 summer で発表してきた](http://blog.monochromegane.com/blog/2015/06/23/go-conference-2015-summer/)
+[Go Conference 2015 summer で発表してきた](/blog/2015/06/23/go-conference-2015-summer/)
 
 <script async class="speakerdeck-embed" data-id="dc3e7e96920d4412b24786d48114bd15" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-[第2回ペパボテックカンファレンスで発表してきた #pbtech](http://blog.monochromegane.com/blog/2015/07/05/pepabo-tech-conference-2-in-fukuoka/)
+[第2回ペパボテックカンファレンスで発表してきた #pbtech](/blog/2015/07/05/pepabo-tech-conference-2-in-fukuoka/)
 
 <script async class="speakerdeck-embed" data-id="ae6a096447944303a65456f6ef7af717" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-[「minne」技術戦略カンファレンスで発表してきた](http://blog.monochromegane.com/blog/2015/10/24/minne-tech-conference/)
+[「minne」技術戦略カンファレンスで発表してきた](/blog/2015/10/24/minne-tech-conference/)
 
 ## まとめ
 

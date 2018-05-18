@@ -19,7 +19,7 @@ Jenkinsのジョブ定義にGitHubのAccessTokenを直接書きたくないと�
 
 ## AccessTokenを使う
 
-[前回のエントリ](http://blog.monochromegane.com/blog/2014/11/09/jenkins-github-commit-status/)の例だと
+[前回のエントリ](/blog/2014/11/09/jenkins-github-commit-status/)の例だと
 `access_token`という名前でトークンを保存して、シェル内で以下のように使えます。
 
 ```sh

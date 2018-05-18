@@ -76,7 +76,7 @@ func main() {
 }
 ```
 
-go-flagsを使っている[プラチナサーチャー](http://blog.monochromegane.com/blog/2014/01/16/the-platinum-searcher/)の場合、以下のようなヘルプが自動で表示されてます。便利！
+go-flagsを使っている[プラチナサーチャー](/blog/2014/01/16/the-platinum-searcher/)の場合、以下のようなヘルプが自動で表示されてます。便利！
 
 ```
 Usage:

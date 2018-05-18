@@ -14,7 +14,7 @@ tags = [ "golang", "ag", "pt", "the_platinum_searcher" ]
 
 # v2
 
-[約2年前にGo言語の勉強のためつくったThe Platinum Searcher(pt)](http://blog.monochromegane.com/blog/2014/01/16/the-platinum-searcher/) ですが、おかげ様でたくさんのPRをもらいながら随分と高機能になりました。反面、速度面についてはまだチューニングの余地を残した状態が続いていたため、今回のバージョンアップにあたって全面書き換えを行い高速化を図りました。
+[約2年前にGo言語の勉強のためつくったThe Platinum Searcher(pt)](/blog/2014/01/16/the-platinum-searcher/) ですが、おかげ様でたくさんのPRをもらいながら随分と高機能になりました。反面、速度面についてはまだチューニングの余地を残した状態が続いていたため、今回のバージョンアップにあたって全面書き換えを行い高速化を図りました。
 
 ## Benchmark
 

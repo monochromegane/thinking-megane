@@ -7,7 +7,7 @@ tags: [ "golang", "pt" ]
 
 5月31日に[GoConference 2014 spring](http://connpass.com/event/6370/)というイベントで `pt & Goroutine` というタイトルの発表をさせてもらいました。
 
-今年に入ってから Go言語をさわるようになって、[pt(The Platinum Seacher)](http://blog.monochromegane.com/blog/2014/01/16/the-platinum-searcher/)というGoでつくったagライクな高速検索ツールを公開しており、そこからのつながりで今回の発表となりました。
+今年に入ってから Go言語をさわるようになって、[pt(The Platinum Seacher)](/blog/2014/01/16/the-platinum-searcher/)というGoでつくったagライクな高速検索ツールを公開しており、そこからのつながりで今回の発表となりました。
 
 内容的には、以下のスライドのとおり、同ツールの高速化の経緯をたどりながらGo言語の並行処理を実現する機構であるGoroutineの使い方を知ってもらうという構成でした。
 

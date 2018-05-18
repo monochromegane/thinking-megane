@@ -13,14 +13,14 @@ tags: [ "ふりかえり", "あんちょこ", "ファシリテーター" ]
 
 なので、今回、ファシリテーター役が各工程で行うこと、気をつけることを箇条書きでまとめた、「ふりかえりファシリテーターあんちょこ」を作ってみました。
 
-- [ふりかえりファシリテーターあんちょこ](http://blog.monochromegane.com/retrospective-anchoco/retrospective-anchoco.html)
+- [ふりかえりファシリテーターあんちょこ](/retrospective-anchoco/retrospective-anchoco.html)
 - [GitHub: monochromegane/retrospective-anchoco](https://github.com/monochromegane/retrospective-anchoco)
 
 <hr />
 
 # ふりかえりファシリテーターあんちょこ
 
-[ふりかえりファシリテーターあんちょこ](http://blog.monochromegane.com/retrospective-anchoco/retrospective-anchoco.html)は、ふりかえりのファシリテーターを行うときに使える"あんちょこ"です。
+[ふりかえりファシリテーターあんちょこ](/retrospective-anchoco/retrospective-anchoco.html)は、ふりかえりのファシリテーターを行うときに使える"あんちょこ"です。
 
 各工程のタイムテーブルと工程ごとに行うこと、気をつけることを箇条書きでまとめてみました。
 

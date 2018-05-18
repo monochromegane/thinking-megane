@@ -138,7 +138,7 @@ The Silver SearcherはEUC-JP/Shift-JISのエンコードがされたファイル
 
 詳細はこちら
 
-- [ag(The Silver Searcher)でEUC-JP/Shift-JISのファイルも検索できるようにしてみた](http://blog.monochromegane.com/blog/2013/09/15/the-silver-searcher-detects-japanese-char-set/)
+- [ag(The Silver Searcher)でEUC-JP/Shift-JISのファイルも検索できるようにしてみた](/blog/2013/09/15/the-silver-searcher-detects-japanese-char-set/)
 
 homebrewならインストールは簡単です。
 

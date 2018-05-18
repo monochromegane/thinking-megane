@@ -76,7 +76,7 @@ wercker.ymlで指定した、WERCKER\_TOKENとWERCKER\_APP\_IDもここの `Depl
 ## ビルド
 
 あとは、テーマのリポジトリにpushするとブログのほうで設定したGitHub Pagesへの公開するビルドが実行されます。
-ブログコンテンツ側のビルド設定は、[前回のエントリ](http://blog.monochromegane.com/blog/2015/07/12/octopress-to-hugo/)を参考にしてください。
+ブログコンテンツ側のビルド設定は、[前回のエントリ](/blog/2015/07/12/octopress-to-hugo/)を参考にしてください。
 
 ---
 

@@ -9,8 +9,8 @@ tags: [ "ag", "ack", "grep", "the-silver-searcher", "unite.vim", "golang" ]
 
 これまで、それらの日本語文字セットを検索できるようにするため、色々とagの改造、公開を行っていました。
 
-- [ag(The Silver Searcher)でEUC-JP/Shift-JISのファイルも検索できるようにしてみた](http://blog.monochromegane.com/blog/2013/09/15/the-silver-searcher-detects-japanese-char-set/)
-- [日本語圏特化型ag -白金- の配備が完了しました](http://blog.monochromegane.com/blog/2013/09/23/sg-spec/)
+- [ag(The Silver Searcher)でEUC-JP/Shift-JISのファイルも検索できるようにしてみた](/blog/2013/09/15/the-silver-searcher-detects-japanese-char-set/)
+- [日本語圏特化型ag -白金- の配備が完了しました](/blog/2013/09/23/sg-spec/)
 
 しかし、特定の国の文字コードだけに特化した修正というのをmasterに取り込んでもらうわけにもいかず、派生ブランチとして追随するのも、やはり面倒...
 
@@ -70,7 +70,7 @@ $ pt [OPTIONS] PATTERN [PATH]
 
 ## Unite.vimとの連携
 
-[agとUnite.vimで快適高速grep環境を手に入れる](http://blog.monochromegane.com/blog/2013/09/18/ag-and-unite/) で紹介したのと同じようにプラチナもUnite.vimと連携できます。
+[agとUnite.vimで快適高速grep環境を手に入れる](/blog/2013/09/18/ag-and-unite/) で紹介したのと同じようにプラチナもUnite.vimと連携できます。
 
 ```vim
 nnoremap <silent> ,g :<C-u>Unite grep:. -buffer-name=search-buffer<CR>

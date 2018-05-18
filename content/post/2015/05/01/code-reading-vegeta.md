@@ -9,7 +9,7 @@ tags: [ "code-reading", "golang" ]
 
 ## 概要
 
-[前回](http://blog.monochromegane.com/blog/2015/04/30/code-reading-boom/)読んだ `rakyll/boom`と同じ負荷測定ツール。
+[前回](/blog/2015/04/30/code-reading-boom/)読んだ `rakyll/boom`と同じ負荷測定ツール。
 
 ```
 $ echo "GET http://google.com/" | vegeta attack -duration=2s | vegeta report

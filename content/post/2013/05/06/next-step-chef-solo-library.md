@@ -7,7 +7,7 @@ tags: [ "chef", "vagrant" ]
 
 # Cookbookの共通化（library）
 
-[前回エントリ](http://blog.monochromegane.com/blog/2013/05/05/next-step-chef-solo-recipe-and-definition/)ではrecipeとdefinitionを用いたCookbookの共通化の手順を紹介しました。
+[前回エントリ](/blog/2013/05/05/next-step-chef-solo-recipe-and-definition/)ではrecipeとdefinitionを用いたCookbookの共通化の手順を紹介しました。
 今回はChefのもうひとつの共通化の仕組みである**library**を紹介します。
 
 <hr/>

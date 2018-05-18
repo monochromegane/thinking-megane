@@ -207,7 +207,7 @@ $ ../vendor/bin/phpunit
 あとはライブラリとテストを整備していけばOKです。
 長くなってきたので公開編は、別エントリにわけたいと思います。
 
-[ComposerとPackagistでPHPライブラリを開発、テスト、公開する(2/2)](http://blog.monochromegane.com/blog/2013/06/02/development-php-composer-library-at-packagist-2/)
+[ComposerとPackagistでPHPライブラリを開発、テスト、公開する(2/2)](/blog/2013/06/02/development-php-composer-library-at-packagist-2/)
 
 PHP: The Right Way !
 
