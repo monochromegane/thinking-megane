@@ -1,5 +1,5 @@
 title        = "THINKING MEGANE"
-baseurl      = "http://blog.monochromegane.com"
+baseurl      = "https://blog.monochromegane.com"
 languageCode = "ja-jp"
 
 [permalinks]

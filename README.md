@@ -2,7 +2,7 @@
 
 My blog contents for Hugo.
 
-- [THINKING MEGANE](http://blog.monochromegane.com)
+- [THINKING MEGANE](https://blog.monochromegane.com)
 
 ## Getting start
 
