@@ -122,6 +122,8 @@ title = "自己紹介"
 
 ### 2019年
 
+1. 三宅 悠介, [AI（機械学習）ワーキンググループ 成果報告](https://speakerdeck.com/monochromegane/pepacon-night-ai-wg), [ペパコンナイト](https://pepabo.connpass.com/event/128486/), 2019年5月.
+1. 三宅 悠介, [Ebira: アクセス負荷に応じて継続的にスケーリング基準を最適化する汎用オートスケーリング機構](https://speakerdeck.com/monochromegane/wsa-4-ebira), [第四回 Webシステムアーキテクチャ研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月.
 1. 三宅 悠介, [Go language serverを理解する](https://speakerdeck.com/monochromegane/understanding-go-language-server), [Go 1.12 Release Party in Fukuoka](https://fukuokago.connpass.com/event/118377/), 2019年2月. [[動画]](https://crash.academy/video/722/2051)
 1. 三宅 悠介, [dragon-importsで爆速goimports生活 - プロジェクト Go modules](https://speakerdeck.com/monochromegane/dragon-imports), [Fukuoka.go#13+Okayama.go](https://fukuokago.connpass.com/event/112073/), 2019年2月.
 
