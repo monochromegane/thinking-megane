@@ -54,6 +54,8 @@ title = "自己紹介"
 
 ### 2019年
 
+1. 三宅 悠介, 松本 亮介, [利用者の文脈に応じて継続的に推薦手法の選択を最適化する推薦システム](http://id.nii.ac.jp/1001/00195696/), 研究報告インターネットと運用技術（IOT）,2019-IOT-45(13),1-7 (2019-05-16) , 2188-8787.  [[論文]](https://rand.pepabo.com/papers/iot45-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/iot45-synapse)
+
 ### 2018年
 
 1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, [アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング](https://www.ipsj.or.jp/event/fit/fit2018/FIT2018_program_web/data/html/abstract/CL-002.html), FIT 2018 第17回情報科学技術フォーラム, CL-002, Sep 2018. [[論文]](https://rand.pepabo.com/papers/fit2018-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/scheduled-autoscaling-of-virtual-servers-by-access-frequency-prediction-fit2018)
@@ -122,7 +124,7 @@ title = "自己紹介"
 
 ### 2019年
 
-1. 三宅 悠介, [AI（機械学習）ワーキンググループ 成果報告](https://speakerdeck.com/monochromegane/pepacon-night-ai-wg), [ペパコンナイト](https://pepabo.connpass.com/event/128486/), 2019年5月.
+1. 三宅 悠介, [AI（機械学習）ワーキンググループ 成果報告](https://speakerdeck.com/monochromegane/pepacon-night-ai-wg), [ペパコンナイト](https://pepabo.connpass.com/event/128486/), 2019年5月. [[動画]](https://youtu.be/KKxHu5o01zw?t=4420)
 1. 三宅 悠介, [Ebira: アクセス負荷に応じて継続的にスケーリング基準を最適化する汎用オートスケーリング機構](https://speakerdeck.com/monochromegane/wsa-4-ebira), [第四回 Webシステムアーキテクチャ研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月.
 1. 三宅 悠介, [Go language serverを理解する](https://speakerdeck.com/monochromegane/understanding-go-language-server), [Go 1.12 Release Party in Fukuoka](https://fukuokago.connpass.com/event/118377/), 2019年2月. [[動画]](https://crash.academy/video/722/2051)
 1. 三宅 悠介, [dragon-importsで爆速goimports生活 - プロジェクト Go modules](https://speakerdeck.com/monochromegane/dragon-imports), [Fukuoka.go#13+Okayama.go](https://fukuokago.connpass.com/event/112073/), 2019年2月.
