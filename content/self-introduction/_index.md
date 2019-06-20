@@ -54,7 +54,7 @@ title = "自己紹介"
 
 ### 2019年
 
-1. 三宅 悠介, 松本 亮介, [利用者の文脈に応じて継続的に推薦手法の選択を最適化する推薦システム](http://id.nii.ac.jp/1001/00195696/), 研究報告インターネットと運用技術（IOT）,2019-IOT-45(13),1-7 (2019-05-16) , 2188-8787.  [[論文]](https://rand.pepabo.com/papers/iot45-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/iot45-synapse)
+1. 三宅 悠介, 松本 亮介, [利用者の文脈に応じて継続的に推薦手法の選択を最適化する推薦システム](http://id.nii.ac.jp/1001/00195696/), 研究報告インターネットと運用技術（IOT）, Vol.2019-IOT-45, pp.1-7, May 2019. [[論文]](https://rand.pepabo.com/papers/iot45-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/iot45-synapse)
 
 ### 2018年
 
