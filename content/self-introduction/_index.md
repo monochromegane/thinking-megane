@@ -110,6 +110,7 @@ title = "自己紹介"
 
 ## Webメディア
 
+- 三宅 悠介, [「ペパボ研究所」の研究員が、プログラミング言語Goの国際会議『GopherCon 2019』で研究成果を発表](https://pepabo.com/news/press/201906181300), GMOペパボ株式会社, 2019年6月.
 - 内村 元樹,近藤 宇智朗,小田 知央,山下 和彦,三宅 悠介, [突撃！隣のDevOps 【GMOペパボ編】](https://dev.classmethod.jp/devops/dev-ops-gmo-pepabo/), Developers.IO produced by Classmethod, 2018年11月.
 - 三宅 悠介,小田 知央,大谷祐司 [「場やコミュニティは実在しないので。定期的にやることが大事です」 小田知央・三宅悠介・大谷祐司（Fukuoka.go） 〜Community lovers by Forkwell](https://press.forkwell.com/entry/2018/10/01/community_lovers), forkwell press, 2018年10月.
 - 三宅 悠介, [ソフトウェアが持つべき機能と仕事の粒度を見極める〜The Platinum Searcherの作者に聞いてみた](https://employment.en-japan.com/engineerhub/entry/2018/07/24/110000), エンジニアHUB, 2018年7月.
@@ -124,6 +125,7 @@ title = "自己紹介"
 
 ### 2019年
 
+1. 三宅 悠介, [「エンジニアコミュニティの運営について」パネルディスカッション](https://www.facebook.com/events/454332078445860/), [Engineer Friendly Space](https://www.facebook.com/events/454332078445860/), 2019年7月.
 1. 三宅 悠介, [AI（機械学習）ワーキンググループ 成果報告](https://speakerdeck.com/monochromegane/pepacon-night-ai-wg), [ペパコンナイト](https://pepabo.connpass.com/event/128486/), 2019年5月. [[動画]](https://youtu.be/KKxHu5o01zw?t=4420)
 1. 三宅 悠介, [Ebira: アクセス負荷に応じて継続的にスケーリング基準を最適化する汎用オートスケーリング機構](https://speakerdeck.com/monochromegane/wsa-4-ebira), [第四回 Webシステムアーキテクチャ研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月.
 1. 三宅 悠介, [Go language serverを理解する](https://speakerdeck.com/monochromegane/understanding-go-language-server), [Go 1.12 Release Party in Fukuoka](https://fukuokago.connpass.com/event/118377/), 2019年2月. [[動画]](https://crash.academy/video/722/2051)
