@@ -110,5 +110,9 @@ Fukuoka.goの主催の一人としてGoConの福岡開催は是非ともやり�
 ![gocon_07](/images/2019/08/gocon_07.jpg)
 ![gocon_08](/images/2019/08/gocon_08.jpg)
 
+Photo by [@atani](https://twitter.com/atani)
+
+---
+
 𝝣Go
 
