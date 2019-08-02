@@ -62,6 +62,8 @@ Fukuoka.goの主催の一人としてGoConの福岡開催は是非ともやり�
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">経費精算用エビデンスはこちら <a href="https://twitter.com/hashtag/gocon?src=hash&amp;ref_src=twsrc%5Etfw">#gocon</a> <a href="https://t.co/zCsDLKBXJW">pic.twitter.com/zCsDLKBXJW</a></p>&mdash; L I N Y O W S 🤡 (@linyows) <a href="https://twitter.com/linyows/status/1150059130633068544?ref_src=twsrc%5Etfw">July 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+僕たちのソフトウェアの仕事は作った後に動く期間が長いので、こういった半年以上の準備とわずか1日のイベントという形式の経験はなかなか貴重だったし、大変ながらも充実した時間を過ごせて楽しかった。
+
 # スピーカーディナー
 
 カンファレンス後のスピーカーディナーでは豪華なメンバと素敵な料理に囲まれてこれまた楽しいひと時であったものの、各種支払いや幹事的な動きをしていたらあっという間に終わってしまったので、ちょっと残念だった。
@@ -77,9 +79,7 @@ Fukuoka.goの主催の一人としてGoConの福岡開催は是非ともやり�
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/monochromegane?ref_src=twsrc%5Etfw">@monochromegane</a> さん、<a href="https://twitter.com/linyows?ref_src=twsrc%5Etfw">@linyows</a> さん、スタッフの皆様、スポンサーの皆様、発表者の皆様、参加者の皆様、お疲れ様でした＆ありがとうGoざいました！q@w@p <a href="https://twitter.com/hashtag/gocon?src=hash&amp;ref_src=twsrc%5Etfw">#gocon</a> <a href="https://twitter.com/hashtag/fukuokago?src=hash&amp;ref_src=twsrc%5Etfw">#fukuokago</a> <a href="https://t.co/hzSWpgZ4ij">pic.twitter.com/hzSWpgZ4ij</a></p>&mdash; Ryuji Iwata (@qt_luigi) <a href="https://twitter.com/qt_luigi/status/1150069073427886080?ref_src=twsrc%5Etfw">July 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-そして，改めてスタッフの皆様，スポンサーの皆様，発表者の皆様，参加者の皆様に感謝を伝えたいです．ありがとうございます！
-
-僕たちのソフトウェアの仕事は作った後に動く期間が長いので，こういった半年以上の準備とわずか1日のイベントという形式の経験はなかなか貴重だったし，大変ながらも充実した時間を過ごせて楽しかった。
+そして、改めてスタッフの皆様、スポンサーの皆様、発表者の皆様、参加者の皆様に感謝を伝えたいです。ありがとうございます！
 
 # カンファレンスへの想い
 
@@ -95,7 +95,7 @@ Fukuoka.goの主催の一人としてGoConの福岡開催は是非ともやり�
 何より、カンファレンス運営を通して、スタッフみんながエキサイティングな経験を楽しんでいたことがとても嬉しい。
 なぜなら、僕たちが楽しみ続けることがまず大事だから〜〜。お疲れ様でした！！！
 
-そしてオフィシャルのイベントレポートが非常によくまとまっています．こちらも是非ご覧ください！
+そしてオフィシャルのイベントレポートが非常によくまとまっています。こちらも是非ご覧ください！
 
 - [The Official event report of Go Conference '19 Summer in Fukuoka](https://fukuoka.gocon.jp/report/)
 
