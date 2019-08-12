@@ -106,20 +106,21 @@ title = "自己紹介"
 
 ## 書籍査読
 
+- スマートニュース株式会社　立石 賢吾, やさしく学ぶ ディープラーニングがわかる数学のきほん ~アヤノ＆ミオと学ぶ ディープラーニングの理論と数学、実装~, マイナビ出版, 2019年07月31日. [ISBN：978-4-8399-6837-3](https://book.mynavi.jp/ec/products/detail/id=104970)
 - LINE Fukuoka株式会社 立石 賢吾, やさしく学ぶ 機械学習を理解するための数学のきほん ~アヤノ&ミオと一緒に学ぶ 機械学習の理論と数学、実装まで~, マイナビ出版, 2017年09月20日. [ISBN：978-4-8399-6352-1](https://book.mynavi.jp/ec/products/detail/id=77270)
 
 ## Webメディア
 
 - 三宅 悠介, [「ペパボ研究所」の研究員が、プログラミング言語Goの国際会議『GopherCon 2019』で研究成果を発表](https://pepabo.com/news/press/201906181300), GMOペパボ株式会社, 2019年6月.
 - 内村 元樹,近藤 宇智朗,小田 知央,山下 和彦,三宅 悠介, [突撃！隣のDevOps 【GMOペパボ編】](https://dev.classmethod.jp/devops/dev-ops-gmo-pepabo/), Developers.IO produced by Classmethod, 2018年11月.
-- 三宅 悠介,小田 知央,大谷祐司 [「場やコミュニティは実在しないので。定期的にやることが大事です」 小田知央・三宅悠介・大谷祐司（Fukuoka.go） 〜Community lovers by Forkwell](https://press.forkwell.com/entry/2018/10/01/community_lovers), forkwell press, 2018年10月.
+- 三宅 悠介,小田 知央,大谷祐司 [「場やコミュニティは実在しないので。定期的にやることが大事です」 小田知央・三宅悠介・大谷祐司（Fukuoka.go） 〜Community lovers by Forkwell](https://pr.forkwell.com/2018-10-01-community_lovers/), forkwell press, 2018年10月.
 - 三宅 悠介, [ソフトウェアが持つべき機能と仕事の粒度を見極める〜The Platinum Searcherの作者に聞いてみた](https://employment.en-japan.com/engineerhub/entry/2018/07/24/110000), エンジニアHUB, 2018年7月.
 
 ## 口頭発表(国外)
 
 ### 2019年
 
-- Yusuke Miyake, [Optimization for Number of goroutines Using Feedback Control](https://www.gophercon.com/agenda/session/49010), [GopherCon Marriott Marquis San Diego Marina, California](https://www.gophercon.com/), July 2019.
+- Yusuke Miyake, [Optimization for Number of goroutines Using Feedback Control](https://www.gophercon.com/agenda/session/49010), [GopherCon Marriott Marquis San Diego Marina, California](https://www.gophercon.com/), July 2019. [[資料](https://speakerdeck.com/monochromegane/optimization-for-number-of-goroutines-using-feedback-control)] [[スピーカーノート](https://blog.monochromegane.com/blog/2019/07/25/gophercon_2019_kaburaya/)]
 
 ## 口頭発表(国内)
 
