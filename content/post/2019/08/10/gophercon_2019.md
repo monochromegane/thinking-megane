@@ -9,7 +9,7 @@ tags = [ "golang", "gophercon" ]
 GopherConはGo関連で最大級の国際カンファレンスです。
 6年目となる今年は世界中から1,800名のGopherが参加し、200名以上の応募の中から選ばれた36名がスピーカーとして登壇しました。
 今回のGopherConではPre-Conference Workshopと呼ばれるカンファレンス前日に終日行われるワークショップと、カンファレンス期間中に行われる25分のキーノートセッション、そして45分のチュートリアルセッションがありました。
-その中で、僕は「Optimazation for Number of goroutines Using Feedback Control」というタイトルで45分の[チュートリアルセッション](https://www.gophercon.com/agenda/speakers/442434)を務めました。
+その中で、僕は「Optimization for Number of goroutines Using Feedback Control」というタイトルで45分の[チュートリアルセッション](https://www.gophercon.com/agenda/speakers/442434)を務めました。
 
 # スライド
 

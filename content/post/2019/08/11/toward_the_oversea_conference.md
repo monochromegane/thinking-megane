@@ -8,7 +8,7 @@ tags = [ "gophercon" ]
 7/24から27にかけてアメリカ、サンディエゴで開催されたGopherCon 2019で人生初となる海外カンファレンスに登壇してきました（発表の様子は[こちら](https://blog.monochromegane.com/blog/2019/08/10/gophercon_2019/)にまとめました）。
 GopherConはGo関連で最大級の国際カンファレンスです。
 6年目となる今年は世界中から1,800名のGopherが参加し、200名以上の応募の中から選ばれた36名がスピーカーとして登壇しました。
-その中で、僕は「Optimazation for Number of goroutines Using Feedback Control」というタイトルで45分の[チュートリアルセッション](https://www.gophercon.com/agenda/speakers/442434)を務めました。
+その中で、僕は「Optimization for Number of goroutines Using Feedback Control」というタイトルで45分の[チュートリアルセッション](https://www.gophercon.com/agenda/speakers/442434)を務めました。
 
 これまで海外カンファレンス登壇経験はなく、英語にも不慣れであるものの、現在の自分にとって非常に重要な位置付けのイベントであり、1月のCfPから7月の発表に至るまでの長丁場を非常に高い優先度で取り組んできました。
 これらの取り組みについて、自分自身の次の登壇への振り返りとして、何より今後、僕と同じように海外カンファレンス登壇を目指す方にとって何かしら参考になればと思いまとめておきます。
