@@ -45,7 +45,9 @@ GopherConはGo関連で最大級の国際カンファレンスです。
 
 ### 会場と発表の様子
 
-<iframe class="embed_iframe" src="https://s.insta360.com/p/28b6fbdd988f775d97328c5179e8061a?e=true&locale=en-us" frameborder="0" width="666" height="413"></iframe>
+<div class="parent_iframe" style="position:relative;width:75%;height:0;padding-top:75%;">
+  <iframe class="embed_iframe" src="https://s.insta360.com/p/28b6fbdd988f775d97328c5179e8061a?e=true&locale=en-us" frameborder="0" width="666" height="413" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/monochromegane?ref_src=twsrc%5Etfw">@monochromegane</a> is giving talk about Go&#39;s concurrency mechanism and his proposal to optimize the number of goroutine. <a href="https://twitter.com/hashtag/gophercon?src=hash&amp;ref_src=twsrc%5Etfw">#gophercon</a> <a href="https://t.co/LXnnx5vQ6D">pic.twitter.com/LXnnx5vQ6D</a></p>&mdash; Yoshi Yamaguchi 🇯🇵 (@ymotongpoo) <a href="https://twitter.com/ymotongpoo/status/1154500168181379072?ref_src=twsrc%5Etfw">July 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
