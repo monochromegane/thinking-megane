@@ -98,7 +98,7 @@ title = "自己紹介"
 - 三宅 悠介,小田 知央,大谷 祐司, [Go Conference '19 Summer in Fukuoka主催](https://fukuoka.gocon.jp/ja/), 2019年7月13日.
 - 三宅 悠介, [Rails Girls Fukuokaコーチ,VirtualBox+Ubuntu環境構築手順作成](http://railsgirls.com/fukuoka), 2015年7月24日-25日.
 
-# 執筆・発表
+# 執筆・発表・受賞
 
 ## 商業誌
 
@@ -116,6 +116,10 @@ title = "自己紹介"
 - 内村 元樹,近藤 宇智朗,小田 知央,山下 和彦,三宅 悠介, [突撃！隣のDevOps 【GMOペパボ編】](https://dev.classmethod.jp/devops/dev-ops-gmo-pepabo/), Developers.IO produced by Classmethod, 2018年11月.
 - 三宅 悠介,小田 知央,大谷祐司 [「場やコミュニティは実在しないので。定期的にやることが大事です」 小田知央・三宅悠介・大谷祐司（Fukuoka.go） 〜Community lovers by Forkwell](https://pr.forkwell.com/2018-10-01-community_lovers/), forkwell press, 2018年10月.
 - 三宅 悠介, [ソフトウェアが持つべき機能と仕事の粒度を見極める〜The Platinum Searcherの作者に聞いてみた](https://employment.en-japan.com/engineerhub/entry/2018/07/24/110000), エンジニアHUB, 2018年7月.
+
+## 受賞
+
+- GMOインターネットグループアワード 2016年度 エンジニア賞（個人賞 エンジニア部門）第二位, 三宅 悠介, 2017年1月
 
 ## 口頭発表(国外)
 
