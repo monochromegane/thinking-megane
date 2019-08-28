@@ -125,7 +125,7 @@ title = "自己紹介"
 
 ### 2019年
 
-- Yusuke Miyake, [Optimization for Number of goroutines Using Feedback Control](https://www.gophercon.com/agenda/session/49010), [GopherCon Marriott Marquis San Diego Marina, California](https://www.gophercon.com/), July 2019. [[資料](https://speakerdeck.com/monochromegane/optimization-for-number-of-goroutines-using-feedback-control)] [[スピーカーノート](https://blog.monochromegane.com/blog/2019/07/25/gophercon_2019_kaburaya/)]
+- Yusuke Miyake, [Optimization for Number of goroutines Using Feedback Control](https://www.gophercon.com/agenda/session/49010), [GopherCon Marriott Marquis San Diego Marina, California](https://www.gophercon.com/), July 2019. [[資料](https://speakerdeck.com/monochromegane/optimization-for-number-of-goroutines-using-feedback-control)] [[スピーカーノート](https://blog.monochromegane.com/blog/2019/07/25/gophercon_2019_kaburaya/)] [[動画](https://youtu.be/O_R7Nwsix1c)]
 
 ## 口頭発表(国内)
 

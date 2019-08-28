@@ -11,6 +11,10 @@ GopherConはGo関連で最大級の国際カンファレンスです。
 今回のGopherConではPre-Conference Workshopと呼ばれるカンファレンス前日に終日行われるワークショップと、カンファレンス期間中に行われる25分のキーノートセッション、そして45分のチュートリアルセッションがありました。
 その中で、僕は「Optimization for Number of goroutines Using Feedback Control」というタイトルで45分の[チュートリアルセッション](https://www.gophercon.com/agenda/speakers/442434)を務めました。
 
+# 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_R7Nwsix1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # スライド
 
 <script async class="speakerdeck-embed" data-id="aa53e4353d9b4efc9064eefba40e13b7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
