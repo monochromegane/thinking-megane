@@ -54,6 +54,7 @@ title = "自己紹介"
 
 ### 2019年
 
+1. 三宅 悠介, 阿部 博, 栗林 健太郎, [なめらかなセキュリティを目指して](http://id.nii.ac.jp/1001/00199414/), 研究報告インターネットと運用技術（IOT）, Vol.2019-IOT-47, pp.1-7, Sep 2019. [[論文]](https://rand.pepabo.com/papers/iot47-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/toward-the-coherently-fittable-security)
 1. 三宅 悠介, 松本 亮介, [利用者の文脈に応じて継続的に推薦手法の選択を最適化する推薦システム](http://id.nii.ac.jp/1001/00195696/), 研究報告インターネットと運用技術（IOT）, Vol.2019-IOT-45, pp.1-7, May 2019. [[論文]](https://rand.pepabo.com/papers/iot45-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/iot45-synapse)
 
 ### 2018年
@@ -131,6 +132,7 @@ title = "自己紹介"
 
 ### 2019年
 
+1. 三宅 悠介, [Kaburaya AutoScaler: 多環境での運用性を考慮した自律適応型オートスケーリング制御系](https://blog.monochromegane.com/blog/2019/10/04/wsa5_kaburaya_autoscaler/), [第五回 Webシステムアーキテクチャ研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/07/30/172650), 2019年9月.
 1. 三宅 悠介, [「エンジニアコミュニティの運営について」パネルディスカッション](https://www.facebook.com/events/454332078445860/), [Engineer Friendly Space](https://www.facebook.com/events/454332078445860/), 2019年7月.
 1. 三宅 悠介, [AI（機械学習）ワーキンググループ 成果報告](https://speakerdeck.com/monochromegane/pepacon-night-ai-wg), [ペパコンナイト](https://pepabo.connpass.com/event/128486/), 2019年5月. [[動画]](https://youtu.be/KKxHu5o01zw?t=4420)
 1. 三宅 悠介, [Ebira: アクセス負荷に応じて継続的にスケーリング基準を最適化する汎用オートスケーリング機構](https://speakerdeck.com/monochromegane/wsa-4-ebira), [第四回 Webシステムアーキテクチャ研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月.
