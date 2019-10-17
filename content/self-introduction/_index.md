@@ -59,7 +59,7 @@ title = "自己紹介"
 
 ### 2018年
 
-1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, [アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング](https://www.ipsj.or.jp/event/fit/fit2018/FIT2018_program_web/data/html/abstract/CL-002.html), FIT 2018 第17回情報科学技術フォーラム, CL-002, Sep 2018. [[論文]](https://rand.pepabo.com/papers/fit2018-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/scheduled-autoscaling-of-virtual-servers-by-access-frequency-prediction-fit2018)
+1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, [アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング](https://www.ipsj.or.jp/event/fit/fit2018/FIT2018_program_web/data/html/abstract/CL-002.html), 情報科学技術フォーラム講演論文集, Vol.17, No.4, pp.7-12, Sep 2018. [[論文]](https://rand.pepabo.com/papers/fit2018-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/scheduled-autoscaling-of-virtual-servers-by-access-frequency-prediction-fit2018)
 1. 三宅 悠介, 松本 亮介, [Sanny: 大規模ECサイトのための精度と速度を両立した分散可能な近似近傍探索エンジン](http://id.nii.ac.jp/1001/00190207/), 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018. [[論文]](https://rand.pepabo.com/papers/iot42-proceeding-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/iot42-sanny)
 
 ### 2017年
