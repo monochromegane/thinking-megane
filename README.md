@@ -21,6 +21,13 @@ $ hugo new post/`date '+%Y'`/`date '+%m'`/`date '+%d'`/NEW_POST_NAME.md
 $ vi content/!$
 ```
 
+or
+
+```sh
+$ hugo new diary/`date '+%Y%m%d'`.md
+$ vi content/!$
+```
+
 ## Publish
 
 ```sh
