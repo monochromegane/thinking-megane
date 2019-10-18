@@ -4,6 +4,7 @@ languageCode = "ja-jp"
 
 [permalinks]
   post = "/blog/:year/:month/:day/:filename/"
+  diary = "/diary/:filename/"
 
 [params]
   Twitter   = "monochromegane"
