@@ -50,6 +50,12 @@ title = "自己紹介"
 
 第一著者のものを掲載。共著他については[ペパボ研究所のサイト](http://rand.pepabo.com/archive/)を参照のこと。
 
+## 査読付きポスター発表
+
+### 2019年
+
+1. 三宅 悠介, 栗林 健太郎, Kaburaya AutoScaler: 多環境での運用性を考慮した自律適応型オートスケーリング制御系, インターネットと運用技術シンポジウム2019論文集. (to appear)
+
 ## 査読無し論文
 
 ### 2019年
@@ -132,6 +138,7 @@ title = "自己紹介"
 
 ### 2019年
 
+1. 三宅 悠介, [コマンドラインオプションをパースするコードをコマンドラインオプションから生成するツールをつくった](https://speakerdeck.com/monochromegane/fukuokago14-flagen), [Fukuoka.go#14+Umeda.go](https://fukuokago.connpass.com/event/146447/), 2019年10月.
 1. 三宅 悠介, [Kaburaya AutoScaler: 多環境での運用性を考慮した自律適応型オートスケーリング制御系](https://blog.monochromegane.com/blog/2019/10/04/wsa5_kaburaya_autoscaler/), [第五回 Webシステムアーキテクチャ研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/07/30/172650), 2019年9月.
 1. 三宅 悠介, [「エンジニアコミュニティの運営について」パネルディスカッション](https://www.facebook.com/events/454332078445860/), [Engineer Friendly Space](https://www.facebook.com/events/454332078445860/), 2019年7月.
 1. 三宅 悠介, [AI（機械学習）ワーキンググループ 成果報告](https://speakerdeck.com/monochromegane/pepacon-night-ai-wg), [ペパコンナイト](https://pepabo.connpass.com/event/128486/), 2019年5月. [[動画]](https://youtu.be/KKxHu5o01zw?t=4420)
