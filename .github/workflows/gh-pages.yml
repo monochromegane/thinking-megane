@@ -15,7 +15,7 @@ jobs:
       with:
         repository: 'monochromegane/hugo-theme-thinking-megane'
         ref: 'refs/heads/master'
-        path: 'themes/thinking-megane'
+        path: 'thinking-megane/themes/thinking-megane'
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.2.0
