@@ -28,5 +28,9 @@ jobs:
     - name: Create old RSS file
       run: cp public/index.xml public/atom.xml
 
+    - name: CNAME
+      run: echo blog.monochromegane.com > public/CNAME
+
     - name: List files
-      run: ls -l public
+      run: |
+        ls -l public
