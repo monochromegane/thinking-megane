@@ -1,0 +1,28 @@
+name: github pages
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@master
+
+    - uses: actions/checkout@master
+      with:
+        repository: 'github.com/monochromegane/hugo-theme-thinking-megane'
+        path: 'themes/thinking-megane'
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.2.0
+      with:
+        hugo-version: '0.59.0'
+
+    - name: Build
+      run: hugo --gc --minify --cleanDestinationDir
+
+    - name: Create old RSS file
+      run: cp public/index.xml public/atom.xml
