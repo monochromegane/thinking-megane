@@ -27,3 +27,6 @@ jobs:
 
     - name: Create old RSS file
       run: cp public/index.xml public/atom.xml
+
+    - name: List files
+      run: ls -l
