@@ -22,6 +22,12 @@ jobs:
       with:
         hugo-version: '0.59.0'
 
+    - name: List files
+      run: |
+        pwd
+        ls -l
+        ls -l themes
+
     - name: Build
       run: hugo --gc --minify --cleanDestinationDir --theme=thinking-megane
 
