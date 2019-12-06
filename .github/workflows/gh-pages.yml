@@ -22,11 +22,6 @@ jobs:
       with:
         hugo-version: '0.59.0'
 
-    - name: List files
-      run: |
-        pwd
-        ls -l
-
     - name: Build
       run: hugo --gc --minify --cleanDestinationDir --theme=thinking-megane
 
@@ -35,10 +30,6 @@ jobs:
 
     - name: CNAME
       run: echo blog.monochromegane.com > public/CNAME
-
-    - name: List files
-      run: |
-        ls -l public
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.5.0
