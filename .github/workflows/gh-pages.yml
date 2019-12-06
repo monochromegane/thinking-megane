@@ -26,7 +26,7 @@ jobs:
       run: |
         pwd
         ls -l
-        ls -l themes
+        ls -l thinking-megane
 
     - name: Build
       run: hugo --gc --minify --cleanDestinationDir --theme=thinking-megane
