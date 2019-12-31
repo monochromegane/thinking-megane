@@ -54,7 +54,7 @@ title = "自己紹介"
 
 ### 2019年
 
-1. 三宅 悠介, 栗林 健太郎, Kaburaya AutoScaler: 多環境での運用性を考慮した自律適応型オートスケーリング制御系, インターネットと運用技術シンポジウム2019論文集. (to appear)
+1. 三宅 悠介, 栗林 健太郎, Kaburaya AutoScaler: 多環境での運用性を考慮した自律適応型オートスケーリング制御系, インターネットと運用技術シンポジウム論文集, 2019, pp.114-115, Nov 2019. [[論文]](https://rand.pepabo.com/papers/iots2019-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/iots2019-kaburaya-autoscaler)
 
 ## 査読無し論文
 
