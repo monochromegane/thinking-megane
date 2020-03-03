@@ -118,6 +118,7 @@ title = "自己紹介"
 
 ## Webメディア
 
+- 三宅 悠介,小田 知央 [エンジニアの技術向上に取り組むコミュニティ･企業を表彰 エンジニアフレンドリーシティ福岡アワード](https://dayori.city.fukuoka.lg.jp/129892/), [福岡市政だより](https://dayori.city.fukuoka.lg.jp/), 2020年3月.
 - 三宅 悠介,野村 孔命, [「事業を差別化する技術」を世界へ。国際会議に登壇する2人に聞く! 「ペパボ研究所」の活動](https://hr.pepabo.com/interview/2019/07/12/2328), [ペパボHRブログ](https://hr.pepabo.com/), 2019年7月.
 - 三宅 悠介, [「ペパボ研究所」の研究員が、プログラミング言語Goの国際会議『GopherCon 2019』で研究成果を発表](https://pepabo.com/news/press/201906181300), GMOペパボ株式会社, 2019年6月.
 - 内村 元樹,近藤 宇智朗,小田 知央,山下 和彦,三宅 悠介, [突撃！隣のDevOps 【GMOペパボ編】](https://dev.classmethod.jp/devops/dev-ops-gmo-pepabo/), Developers.IO produced by Classmethod, 2018年11月.
@@ -126,6 +127,7 @@ title = "自己紹介"
 
 ## 受賞
 
+- [エンジニアフレンドリーシティ福岡アワード コミュニティ部門](https://efc.fukuoka.jp/information/3116), 三宅 悠介,小田 知央, Fukuoka.go, 2020年1月.
 - GMOインターネットグループアワード 2016年度 エンジニア賞（個人賞 エンジニア部門）第二位, 三宅 悠介, 2017年1月
 
 ## 口頭発表(国外)
@@ -135,6 +137,11 @@ title = "自己紹介"
 - Yusuke Miyake, [Optimization for Number of goroutines Using Feedback Control](https://www.gophercon.com/agenda/session/49010), [GopherCon Marriott Marquis San Diego Marina, California](https://www.gophercon.com/), July 2019. [[資料](https://speakerdeck.com/monochromegane/optimization-for-number-of-goroutines-using-feedback-control)] [[スピーカーノート](https://blog.monochromegane.com/blog/2019/07/25/gophercon_2019_kaburaya/)] [[動画](https://youtu.be/O_R7Nwsix1c)]
 
 ## 口頭発表(国内)
+
+### 2020年
+
+1. 三宅 悠介 [Adaptiveなウィンドウを求めて 〜サーベイと実装 Go言語編〜](https://speakerdeck.com/monochromegane/fukuokago15-adwin-exphist), [Fukuoka.go#15 + 鹿児島Gophers(オンライン開催)](https://fukuokago.connpass.com/event/164350/), 2020年3月.
+1. 三宅 悠介, 田中 孝明, 白石 憲正, 浜崎 陽一郎, 松口 健司 [トークセッション / エンジニアと企業が描く未来のかたち](https://efc.fukuoka.jp/information/2562#day2_7), [エンジニアフレンドリーシティ福岡フェスティバル](https://efc.fukuoka.jp/information/2562), 2020年2月.
 
 ### 2019年
 
