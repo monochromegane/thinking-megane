@@ -140,6 +140,7 @@ title = "自己紹介"
 
 ### 2020年
 
+1. 三宅 悠介 [軽量なインデックス機構を用いた全文検索ツールの高速化の検討](https://speakerdeck.com/monochromegane/wsa6-sifter), [Web System Architecture 研究会 (WSA研) #6](https://websystemarchitecture.hatenablog.jp/entry/2019/12/11/165624), 2020年4月.
 1. 三宅 悠介 [Adaptiveなウィンドウを求めて 〜サーベイと実装 Go言語編〜](https://speakerdeck.com/monochromegane/fukuokago15-adwin-exphist), [Fukuoka.go#15 + 鹿児島Gophers(オンライン開催)](https://fukuokago.connpass.com/event/164350/), 2020年3月.
 1. 三宅 悠介, 田中 孝明, 白石 憲正, 浜崎 陽一郎, 松口 健司 [トークセッション / エンジニアと企業が描く未来のかたち](https://efc.fukuoka.jp/information/2562#day2_7), [エンジニアフレンドリーシティ福岡フェスティバル](https://efc.fukuoka.jp/information/2562), 2020年2月.
 
