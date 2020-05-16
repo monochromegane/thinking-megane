@@ -124,13 +124,13 @@ UCB1方策では、ヘフディングの不等式\eqref{eq-8}を用いて、腕$
 Pr \left[x^\*\_j \geq \overline{x}\_j + u\right] \leq \exp\left(-2n\_ju^2\right)\tag{9}\label{eq-9}
 \\]
 
-\eqref{eq-9}は真の期待値を過小評価している確率の上限であり、これを試行回数$n$が進むごとに小さくしたいと考えます。そこで右辺を$n^{-m}=\frac{1}{n^m}$とすると、
+\eqref{eq-9}は真の期待値を過小評価している確率の上限であり、これを試行回数$n$が進むごとに小さくしたいと考える。そこで右辺を$n^{-m}=\frac{1}{n^m}$とすると、
 
 \begin{align}
 \exp\left(-2n\_ju^2\right) &= \frac{1}{n^m} \notag \\\\ -2n\_ju^2 &= \ln{\frac{1}{n^m}} \notag \\\\ &= \ln{1} - \ln{n^m} \notag \\\\ &= 0 - m\ln{n} \notag \\\\ 2n\_ju^2 &= m\ln{n} \notag \\\\ u^2 &= \frac{m\ln{n}}{2n\_j} \notag \\\\ u &= \sqrt{\frac{m\ln{n}}{2n\_j}} \notag
 \end{align}
 
-が得られます。理論限界より$n$回目の試行において$1/n$の確率で各腕が選択する必要があるとされており、これに従えば$m=1$ですが、論文では$m=4$としています（すなわち$u = \sqrt{\frac{2\ln{n}}{n\_j}}$）。
+が得られる。理論限界より$n$回目の試行において$1/n$の確率で各腕が選択する必要があるとされており、これに従えば$m=1$だが、論文では$m=4$としている（すなわち$u = \sqrt{\frac{2\ln{n}}{n\_j}}$）。
 
 これを\eqref{eq-9}に代入し
 
@@ -153,3 +153,4 @@ Pr \left[x^\*\_j \geq \overline{x}\_j + \sqrt{\frac{2\ln{n}}{n\_j}}\right] \leq 
 - [バンディットアルゴリズムで最適な介入を見つける（基本編）](https://qiita.com/usaito/items/ad15394547bd5daf8937)
 - [バンディットアルゴリズムの続き](https://research.miidas.jp/2020/02/%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E7%B6%9A%E3%81%8D/)
 - [強化学習その1](https://www.slideshare.net/nishio/1-70974083)
+- [バンディット問題の理論とアルゴリズム (機械学習プロフェッショナルシリーズ)](https://www.amazon.co.jp/dp/406152917X/)
