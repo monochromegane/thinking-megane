@@ -50,6 +50,12 @@ title = "自己紹介"
 
 第一著者のものを掲載。共著他については[ペパボ研究所のサイト](http://rand.pepabo.com/archive/)を参照のこと。
 
+## ジャーナル論文
+
+### 2020年
+
+1. 三宅 悠介, 峯 恒憲, [Synapse: 文脈に応じて継続的に推薦手法の選択を最適化する推薦システム](), 電子情報通信学会論文誌D, Vol.J103-D,No.11,pp.-,Nov. 2020. (to appear)
+
 ## 査読付きポスター発表
 
 ### 2019年
@@ -57,6 +63,10 @@ title = "自己紹介"
 1. 三宅 悠介, 栗林 健太郎, [Kaburaya AutoScaler: 多環境での運用性を考慮した自律適応型オートスケーリング制御系](http://id.nii.ac.jp/1001/00200779/), インターネットと運用技術シンポジウム論文集, 2019, pp.114-115, Nov 2019. [[論文]](https://rand.pepabo.com/papers/iots2019-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/iots2019-kaburaya-autoscaler)
 
 ## 査読無し論文
+
+### 2020年
+
+1. 三宅 悠介, 栗林 健太郎, [非定常な多腕バンディット問題における変化検出アプローチの線形モデルへの拡張](http://id.nii.ac.jp/1001/00206029/), 研究報告インターネットと運用技術（IOT）, Vol.2020-IOT-50, pp.1-8, July 2020.[[論文]](http://localhost:4567/papers/iot50-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/extension-of-change-detection-method-for-non-stationary-linear-multi-armed-bandit)
 
 ### 2019年
 
@@ -140,6 +150,7 @@ title = "自己紹介"
 
 ### 2020年
 
+1. 三宅 悠介 [Go言語でシミュレーション用のシンプルなフレームワークStageをつくった](https://speakerdeck.com/monochromegane/fukuokago-stage), [Fukuoka.go#16(オンライン開催)](https://fukuokago.connpass.com/event/180414/), 2020年7月.
 1. 三宅 悠介 [軽量なインデックス機構を用いた全文検索ツールの高速化の検討](https://speakerdeck.com/monochromegane/wsa6-sifter), [Web System Architecture 研究会 (WSA研) #6](https://websystemarchitecture.hatenablog.jp/entry/2019/12/11/165624), 2020年4月.
 1. 三宅 悠介 [Adaptiveなウィンドウを求めて 〜サーベイと実装 Go言語編〜](https://speakerdeck.com/monochromegane/fukuokago15-adwin-exphist), [Fukuoka.go#15 + 鹿児島Gophers(オンライン開催)](https://fukuokago.connpass.com/event/164350/), 2020年3月.
 1. 三宅 悠介, 田中 孝明, 白石 憲正, 浜崎 陽一郎, 松口 健司 [トークセッション / エンジニアと企業が描く未来のかたち](https://efc.fukuoka.jp/information/2562#day2_7), [エンジニアフレンドリーシティ福岡フェスティバル](https://efc.fukuoka.jp/information/2562), 2020年2月.
