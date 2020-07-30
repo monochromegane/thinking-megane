@@ -150,6 +150,7 @@ title = "自己紹介"
 
 ### 2020年
 
+1. 三宅 悠介 [なめらかなシステムの実現に向けて](https://speakerdeck.com/monochromegane/coherently-fittable-system), [GMO Developers Day 2020](https://www.gmo.jp/developersday/), 2020年7月.
 1. 三宅 悠介 [Go言語でシミュレーション用のシンプルなフレームワークStageをつくった](https://speakerdeck.com/monochromegane/fukuokago-stage), [Fukuoka.go#16(オンライン開催)](https://fukuokago.connpass.com/event/180414/), 2020年7月.
 1. 三宅 悠介 [軽量なインデックス機構を用いた全文検索ツールの高速化の検討](https://speakerdeck.com/monochromegane/wsa6-sifter), [Web System Architecture 研究会 (WSA研) #6](https://websystemarchitecture.hatenablog.jp/entry/2019/12/11/165624), 2020年4月.
 1. 三宅 悠介 [Adaptiveなウィンドウを求めて 〜サーベイと実装 Go言語編〜](https://speakerdeck.com/monochromegane/fukuokago15-adwin-exphist), [Fukuoka.go#15 + 鹿児島Gophers(オンライン開催)](https://fukuokago.connpass.com/event/164350/), 2020年3月.
