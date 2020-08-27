@@ -13,7 +13,7 @@ title = "自己紹介"
 
 # 略歴
 
-大学卒業後、地元福岡のSIer勤務を経て、2012年より株式会社paperboy&co.(現GMOペパボ株式会社)に勤務。サービスの運用開発の傍ら、[ログ活用基盤 Bigfoot](https://speakerdeck.com/monochromegane/pepabo-log-infrastructure-bigfoot)の構築に取り組み、サービスを動的に改善していくための仕組みづくりと機械学習に興味を持つ。2017年より同社の研究職へ従事、推薦システムやコンピューティング・リソースの最適化に取り組む。
+大学卒業後、地元福岡のSIer勤務を経て、2012年より株式会社paperboy&co.(現GMOペパボ株式会社)に勤務。サービスの運用開発の傍ら、[ログ活用基盤 Bigfoot](https://speakerdeck.com/monochromegane/pepabo-log-infrastructure-bigfoot)の構築に取り組み、サービスを動的に改善していくための仕組みづくりと機械学習に興味を持つ。2017年より同社の研究職へ従事、情報システムの自律適応等の研究に取り組む。
 
 技術者としては多種のOSSを公開し現在も継続的に開発に取り組む。主な開発言語はGo、Ruby。代表プロダクトとして高速grepツールである[the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher)がある。
 2019年4月現在、GitHubスター数による[Go GitHub developers in Japan 3位](http://git-awards.com/users/search?login=monochromegane)。
@@ -128,6 +128,7 @@ title = "自己紹介"
 
 ## Webメディア
 
+- 小田 知央,三宅 悠介,清家 史郎 [勉強会はパーティーだ! ビール片手に楽しくGo言語を学ぶコミュニティ「Fukuoka.go」](https://efc.fukuoka.jp/interview/3704), [ENGINEER INTERVIEW - Engineer Friendly City Fukuoka](https://efc.fukuoka.jp/interview), 2020年8月.
 - 三宅 悠介,小田 知央 [エンジニアの技術向上に取り組むコミュニティ･企業を表彰 エンジニアフレンドリーシティ福岡アワード](https://dayori.city.fukuoka.lg.jp/129892/), [福岡市政だより](https://dayori.city.fukuoka.lg.jp/), 2020年3月.
 - 三宅 悠介,野村 孔命, [「事業を差別化する技術」を世界へ。国際会議に登壇する2人に聞く! 「ペパボ研究所」の活動](https://hr.pepabo.com/interview/2019/07/12/2328), [ペパボHRブログ](https://hr.pepabo.com/), 2019年7月.
 - 三宅 悠介, [「ペパボ研究所」の研究員が、プログラミング言語Goの国際会議『GopherCon 2019』で研究成果を発表](https://pepabo.com/news/press/201906181300), GMOペパボ株式会社, 2019年6月.
@@ -150,7 +151,7 @@ title = "自己紹介"
 
 ### 2020年
 
-1. 三宅 悠介 [なめらかなシステムの実現に向けて](https://speakerdeck.com/monochromegane/coherently-fittable-system), [GMO Developers Day 2020](https://www.gmo.jp/developersday/), 2020年7月.
+1. 三宅 悠介 [なめらかなシステムの実現に向けて](https://speakerdeck.com/monochromegane/coherently-fittable-system), [GMO Developers Day 2020](https://www.gmo.jp/developersday/), 2020年7月. [[動画](https://youtu.be/KW-YKuM1ndI)]
 1. 三宅 悠介 [Go言語でシミュレーション用のシンプルなフレームワークStageをつくった](https://speakerdeck.com/monochromegane/fukuokago-stage), [Fukuoka.go#16(オンライン開催)](https://fukuokago.connpass.com/event/180414/), 2020年7月.
 1. 三宅 悠介 [軽量なインデックス機構を用いた全文検索ツールの高速化の検討](https://speakerdeck.com/monochromegane/wsa6-sifter), [Web System Architecture 研究会 (WSA研) #6](https://websystemarchitecture.hatenablog.jp/entry/2019/12/11/165624), 2020年4月.
 1. 三宅 悠介 [Adaptiveなウィンドウを求めて 〜サーベイと実装 Go言語編〜](https://speakerdeck.com/monochromegane/fukuokago15-adwin-exphist), [Fukuoka.go#15 + 鹿児島Gophers(オンライン開催)](https://fukuokago.connpass.com/event/164350/), 2020年3月.
