@@ -159,6 +159,7 @@ title = "自己紹介"
 
 ### 2020年
 
+1. 三宅 悠介 [嗜好伝達コミュニケーションの効率化を目指した伝達方式の検討](https://blog.monochromegane.com/blog/2020/11/17/wsa7-local-preference/), [Web System Architecture 研究会 (WSA研) #7](https://wsa.connpass.com/event/187128/), 2020年11月.
 1. 三宅 悠介 [なめらかなシステムの実現に向けて](https://speakerdeck.com/monochromegane/coherently-fittable-system), [GMO Developers Day 2020](https://www.gmo.jp/developersday/), 2020年7月. [[動画](https://youtu.be/KW-YKuM1ndI)]
 1. 三宅 悠介 [Go言語でシミュレーション用のシンプルなフレームワークStageをつくった](https://speakerdeck.com/monochromegane/fukuokago-stage), [Fukuoka.go#16(オンライン開催)](https://fukuokago.connpass.com/event/180414/), 2020年7月.
 1. 三宅 悠介 [軽量なインデックス機構を用いた全文検索ツールの高速化の検討](https://speakerdeck.com/monochromegane/wsa6-sifter), [Web System Architecture 研究会 (WSA研) #6](https://websystemarchitecture.hatenablog.jp/entry/2019/12/11/165624), 2020年4月.
