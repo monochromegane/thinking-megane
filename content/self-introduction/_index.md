@@ -140,6 +140,7 @@ title = "自己紹介"
 
 ## Webメディア
 
+- 栗林 健太郎,三宅 悠介,黒瀧 悠太 [学び続けることで、新しい視野と価値を生み出す。ペパボ社会人学生インタビュー](https://hr.pepabo.com/interview/2021/04/16/5510), [ペパボHRブログ](https://hr.pepabo.com/), 2021年4月.
 - 小田 知央,三宅 悠介,清家 史郎 [勉強会はパーティーだ! ビール片手に楽しくGo言語を学ぶコミュニティ「Fukuoka.go」](https://efc.fukuoka.jp/interview/3704), [ENGINEER INTERVIEW - Engineer Friendly City Fukuoka](https://efc.fukuoka.jp/interview), 2020年8月.
 - 三宅 悠介,小田 知央 [エンジニアの技術向上に取り組むコミュニティ･企業を表彰 エンジニアフレンドリーシティ福岡アワード](https://dayori.city.fukuoka.lg.jp/129892/), [福岡市政だより](https://dayori.city.fukuoka.lg.jp/), 2020年3月.
 - 三宅 悠介,野村 孔命, [「事業を差別化する技術」を世界へ。国際会議に登壇する2人に聞く! 「ペパボ研究所」の活動](https://hr.pepabo.com/interview/2019/07/12/2328), [ペパボHRブログ](https://hr.pepabo.com/), 2019年7月.
