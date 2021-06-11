@@ -163,6 +163,11 @@ title = "自己紹介"
 
 ## 口頭発表(国内)
 
+### 2021年
+
+1. 三宅 悠介 [go:embedでExplainable Binaryを作る](https://speakerdeck.com/monochromegane/fukoukago17-go-code-embedding), [Fukuoka.go#17(オンライン開催)](https://fukuokago.connpass.com/event/202570/), 2021年6月.
+1. 三宅 悠介 [非定常な多腕バンディット問題において効率的に変化を察知する方式の検討](https://blog.monochromegane.com/blog/2021/06/08/wsa8-predictive-exploratory-model/), [Web System Architecture 研究会 (WSA研) #8](https://wsa.connpass.com/event/207143/), 2021年6月.
+
 ### 2020年
 
 1. 三宅 悠介 [嗜好伝達コミュニケーションの効率化を目指した伝達方式の検討](https://blog.monochromegane.com/blog/2020/11/17/wsa7-local-preference/), [Web System Architecture 研究会 (WSA研) #7](https://wsa.connpass.com/event/187128/), 2020年11月.
