@@ -66,6 +66,8 @@ title = "自己紹介"
 
 ## 査読付き論文
 
+### 2020年
+
 1. 三宅 悠介, 栗林 健太郎, [変化検出と要約データ構造を用いた利用者の嗜好の変化に迅速に追従する多腕バンディット手法](http://id.nii.ac.jp/1001/00208105/), インターネットと運用技術シンポジウム論文集, 2020, pp.1-8, Nov 2020. [[発表資料]](https://speakerdeck.com/monochromegane/iots2020-adaptive-linear-mab)
 
 ## 査読付きポスター発表
@@ -76,9 +78,13 @@ title = "自己紹介"
 
 ## 査読無し論文
 
+### 2021年
+
+1. 三宅 悠介, 栗林 健太郎, [(招待講演) なめらかなシステムと運用維持の未来](https://tsys.jp/dicomo/2021/program/program_abst.html#8A-1), マルチメディア，分散，協調とモバイル（DICOMO2021）シンポジウム論文集, 2021, p.1509, Jun-Jul 2021.[[論文]](https://rand.pepabo.com/papers/dicomo2021-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/dicomo2021-coherently-fittable-system)
+
 ### 2020年
 
-1. 三宅 悠介, 栗林 健太郎, [非定常な多腕バンディット問題における変化検出アプローチの線形モデルへの拡張](http://id.nii.ac.jp/1001/00206029/), 研究報告インターネットと運用技術（IOT）, Vol.2020-IOT-50, pp.1-8, July 2020.[[論文]](http://localhost:4567/papers/iot50-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/extension-of-change-detection-method-for-non-stationary-linear-multi-armed-bandit)
+1. 三宅 悠介, 栗林 健太郎, [非定常な多腕バンディット問題における変化検出アプローチの線形モデルへの拡張](http://id.nii.ac.jp/1001/00206029/), 研究報告インターネットと運用技術（IOT）, Vol.2020-IOT-50, pp.1-8, July 2020.[[論文]](https://rand.pepabo.com/papers/iot50-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/extension-of-change-detection-method-for-non-stationary-linear-multi-armed-bandit)
 
 ### 2019年
 
