@@ -80,6 +80,7 @@ title = "自己紹介"
 
 ### 2021年
 
+1. 三宅 悠介, 峯 恒憲, [Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム](http://id.nii.ac.jp/1001/00212709/), 研究報告知能システム（ICS）, Vol.2021-ICS-204, No.9, pp.1-8, Sep 2021.
 1. 三宅 悠介, 栗林 健太郎, [(招待講演) なめらかなシステムと運用維持の未来](https://tsys.jp/dicomo/2021/program/program_abst.html#8A-1), マルチメディア，分散，協調とモバイル（DICOMO2021）シンポジウム論文集, 2021, p.1509, Jun-Jul 2021.[[論文]](https://rand.pepabo.com/papers/dicomo2021-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/dicomo2021-coherently-fittable-system)
 
 ### 2020年
@@ -157,6 +158,8 @@ title = "自己紹介"
 
 ## 受賞
 
+- [SMASH21 Summer Symposium 優秀賞](https://sites.google.com/view/sig-macc/smash/smash21-summer-symposium), 三宅 悠介, 峯 恒憲, Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム, 2021年9月.
+- [SMASH21 Summer Symposium 奨励賞](https://sites.google.com/view/sig-macc/smash/smash21-summer-symposium), 三宅 悠介, 峯 恒憲, Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム, 2021年9月.
 - [IOTS2020 優秀プレゼンテーション賞](https://www.iot.ipsj.or.jp/awards/symposium/), 三宅 悠介, 栗林 健太郎, 変化検出と要約データ構造を用いた利用者の嗜好の変化に迅速に追従する多腕バンディット手法, 2020年12月.
 - [エンジニアフレンドリーシティ福岡アワード コミュニティ部門](https://efc.fukuoka.jp/information/3116), 三宅 悠介,小田 知央, Fukuoka.go, 2020年1月.
 - GMOインターネットグループアワード 2016年度 エンジニア賞（個人賞 エンジニア部門）第二位, 三宅 悠介, 2017年1月
