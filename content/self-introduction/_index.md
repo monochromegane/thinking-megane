@@ -80,7 +80,8 @@ title = "自己紹介"
 
 ### 2021年
 
-1. 三宅 悠介, 峯 恒憲, [Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム](http://id.nii.ac.jp/1001/00212709/), 研究報告知能システム（ICS）, Vol.2021-ICS-204, No.9, pp.1-8, Sep 2021.
+1. 三宅 悠介, 峯 恒憲, [仮想的な探索を用いて文脈や時間の経過による番狂わせにも迅速に追従する多腕バンディット手法](https://www.sigwi2.org/d_library), ARG Webインテリジェンスとインタラクション研究会 第17回研究会予稿集, No.17, pp.19-24, Dec 2021. [[論文]](https://rand.pepabo.com/papers/wi2-17-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/wi2-lkf-bandits)
+1. 三宅 悠介, 峯 恒憲, [Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム](http://id.nii.ac.jp/1001/00212709/), 研究報告知能システム（ICS）, Vol.2021-ICS-204, No.9, pp.1-8, Sep 2021. [[論文]](https://rand.pepabo.com/papers/smash21-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/smash21-synapse)
 1. 三宅 悠介, 栗林 健太郎, [(招待講演) なめらかなシステムと運用維持の未来](https://tsys.jp/dicomo/2021/program/program_abst.html#8A-1), マルチメディア，分散，協調とモバイル（DICOMO2021）シンポジウム論文集, 2021, p.1509, Jun-Jul 2021.[[論文]](https://rand.pepabo.com/papers/dicomo2021-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/dicomo2021-coherently-fittable-system)
 
 ### 2020年
@@ -158,6 +159,7 @@ title = "自己紹介"
 
 ## 受賞
 
+- [ARG 第17回Webインテリジェンスとインタラクション研究会 優秀研究賞](https://www.sigwi2.org/prev-awardlist), 三宅 悠介, 峯 恒憲, 仮想的な探索を用いて文脈や時間の経過による番狂わせにも迅速に追従する多腕バンディット手法, 2021年12月.
 - [SMASH21 Summer Symposium 優秀賞](https://sites.google.com/view/sig-macc/smash/smash21-summer-symposium), 三宅 悠介, 峯 恒憲, Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム, 2021年9月.
 - [SMASH21 Summer Symposium 奨励賞](https://sites.google.com/view/sig-macc/smash/smash21-summer-symposium), 三宅 悠介, 峯 恒憲, Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム, 2021年9月.
 - [IOTS2020 優秀プレゼンテーション賞](https://www.iot.ipsj.or.jp/awards/symposium/), 三宅 悠介, 栗林 健太郎, 変化検出と要約データ構造を用いた利用者の嗜好の変化に迅速に追従する多腕バンディット手法, 2020年12月.
