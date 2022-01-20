@@ -15,7 +15,7 @@ title = "自己紹介"
 
 # 略歴
 
-大学卒業後、地元福岡のSIer勤務を経て、2012年より株式会社paperboy&co.(現GMOペパボ株式会社)に勤務。サービスの運用開発の傍ら、[ログ活用基盤 Bigfoot](https://speakerdeck.com/monochromegane/pepabo-log-infrastructure-bigfoot)の構築に取り組み、サービスを動的に改善していくための仕組みづくりと機械学習に興味を持つ。2017年より同社の研究職へ従事、情報システムの自律適応等の研究に取り組む。
+大学卒業後、地元福岡のSIer勤務を経て、2012年より株式会社paperboy&co.(現GMOペパボ株式会社)に勤務。サービスの運用開発の傍ら、[ログ活用基盤 Bigfoot](https://speakerdeck.com/monochromegane/pepabo-log-infrastructure-bigfoot)の構築に取り組み、サービスを動的に改善していくための仕組みづくりと機械学習に興味を持つ。2017年より同社の研究職へ従事、情報システムの自律適応等の研究に取り組む。2020年10月からは九州大学大学院システム情報科学府博士後期課程に社会人学生として在学中。
 
 技術者としては多種のOSSを公開し現在も継続的に開発に取り組む。主な開発言語はGo、Ruby。代表プロダクトとして高速grepツールである[the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher)がある。
 2019年4月現在、GitHubスター数による[Go GitHub developers in Japan 3位](http://git-awards.com/users/search?login=monochromegane)。
