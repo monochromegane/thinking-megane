@@ -159,6 +159,7 @@ title = "自己紹介"
 
 ## 受賞
 
+- [システム情報3MT(Minutes Thesis) 2位](https://www.isee.kyushu-u.ac.jp/3mt.html), 三宅 悠介, Towards an Adaptive Recommender System, 2022年3月.
 - [ARG 第17回Webインテリジェンスとインタラクション研究会 優秀研究賞](https://www.sigwi2.org/prev-awardlist), 三宅 悠介, 峯 恒憲, 仮想的な探索を用いて文脈や時間の経過による番狂わせにも迅速に追従する多腕バンディット手法, 2021年12月.
 - [SMASH21 Summer Symposium 優秀賞](https://sites.google.com/view/sig-macc/smash/smash21-summer-symposium), 三宅 悠介, 峯 恒憲, Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム, 2021年9月.
 - [SMASH21 Summer Symposium 奨励賞](https://sites.google.com/view/sig-macc/smash/smash21-summer-symposium), 三宅 悠介, 峯 恒憲, Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム, 2021年9月.
@@ -173,6 +174,10 @@ title = "自己紹介"
 - Yusuke Miyake, [Optimization for Number of goroutines Using Feedback Control](https://www.gophercon.com/agenda/session/49010), [GopherCon Marriott Marquis San Diego Marina, California](https://www.gophercon.com/), July 2019. [[資料](https://speakerdeck.com/monochromegane/optimization-for-number-of-goroutines-using-feedback-control)] [[スピーカーノート](https://blog.monochromegane.com/blog/2019/07/25/gophercon_2019_kaburaya/)] [[動画](https://youtu.be/O_R7Nwsix1c)]
 
 ## 口頭発表(国内)
+
+### 2022年
+
+1. 三宅 悠介 Towards an Adaptive Recommender System, [システム情報3MT(Minutes Thesis)](https://www.isee.kyushu-u.ac.jp/3mt.html), 2022年3月.
 
 ### 2021年
 
