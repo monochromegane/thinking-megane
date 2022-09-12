@@ -266,7 +266,7 @@ k(\boldsymbol{p}, \boldsymbol{q}) &= \exp(-\frac{\\| \boldsymbol{p} - \boldsymbo
 
 **Random Fourier Features**は、ある確率分布からのサンプリング結果でカーネル関数とグラム行列を近似することで、上述の課題を解決する、高速化のための手法である。
 
-この手法では、$\mathbb{R}^D$上のカーネル関数$k(\boldsymbol{p},\boldsymbol{q})$が$\boldsymbol{p}-\boldsymbol{q}$の形で表せるとき、このカーネル関数が、ある確率密度関数$p(\boldsymbol{\omega})$のフーリエ変換で表せることを利用する。
+この手法では、$\mathbb{R}^D$上のカーネル関数$k(\boldsymbol{p},\boldsymbol{q})$が$\boldsymbol{p}$と$\boldsymbol{q}$の差の形（$k(\boldsymbol{p}-\boldsymbol{q})$）で表せるとき、このカーネル関数が、ある確率密度関数$p(\boldsymbol{\omega})$のフーリエ変換で表せることを利用する。
 
 \begin{align}
 \begin{split}
