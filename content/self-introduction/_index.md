@@ -59,11 +59,17 @@ title = "自己紹介"
 
 第一著者のものを掲載。共著他については[ペパボ研究所のサイト](http://rand.pepabo.com/archive/)を参照のこと。
 
+## 国際会議論文
+
+### 2023年
+
+1. Yusuke Miyake, Tsunenori Mine, Contextual and Nonstationary Multi-armed Bandits Using the Linear Gaussian State Space Model for the Meta-Recommender System, IEEE SMC 2023, pp.3138-3145, Oct 2023. [[発表資料]](https://speakerdeck.com/monochromegane/contextual-and-nonstationary-multi-armed-bandits-using-the-linear-gaussian-state-space-model-for-the-meta-recommender-system)
+
 ## ジャーナル論文
 
 ### 2022年
 
-1. 三宅 悠介, 峯 恒憲, Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム, 電子情報通信学会論文誌D, Vol.J105-D, No.11, pp.-, Nov. 2022. (to appear)
+1. 三宅 悠介, 峯 恒憲, [Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム](https://search.ieice.org/bin/summary.php?id=j105-d_11_641), 電子情報通信学会論文誌D, Vol.J105-D, No.11, pp.641-652, Nov. 2022.
 
 ### 2020年
 
@@ -82,6 +88,10 @@ title = "自己紹介"
 1. 三宅 悠介, 栗林 健太郎, [Kaburaya AutoScaler: 多環境での運用性を考慮した自律適応型オートスケーリング制御系](http://id.nii.ac.jp/1001/00200779/), インターネットと運用技術シンポジウム論文集, 2019, pp.114-115, Nov 2019. [[論文]](https://rand.pepabo.com/papers/iots2019-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/iots2019-kaburaya-autoscaler)
 
 ## 査読無し論文
+
+### 2022年
+
+1. 三宅 悠介, 峯 恒憲, [迅速な学習機構を用いて逐次適応性を損なうことなく非線形性を扱う文脈付き多腕バンディット手法](https://ken.ieice.org/ken/paper/20220915aCMk/), 信学技報, vol. 122, no. 186, AI2022-22, pp. 25-30, 2022年9月. [[発表資料]](https://speakerdeck.com/monochromegane/extreme-neural-linear-bandits)
 
 ### 2021年
 
@@ -164,6 +174,8 @@ title = "自己紹介"
 
 ## 受賞
 
+- [SMASH22 Summer Symposium 優秀賞](https://sites.google.com/view/sig-macc/smash/smash22-summer-symposium/awards), 三宅 悠介, 峯 恒憲, 迅速な学習機構を用いて逐次適応性を損なうことなく非線形性を扱う文脈付き多腕バンディット手法, 2022年9月.
+- [SMASH22 Summer Symposium 奨励賞](https://sites.google.com/view/sig-macc/smash/smash22-summer-symposium/awards), 三宅 悠介, 峯 恒憲, 迅速な学習機構を用いて逐次適応性を損なうことなく非線形性を扱う文脈付き多腕バンディット手法, 2022年9月.
 - [システム情報3MT(Minutes Thesis) 2位](https://www.isee.kyushu-u.ac.jp/3mt.html), 三宅 悠介, Towards an Adaptive Recommender System, 2022年3月.
 - [ARG 第17回Webインテリジェンスとインタラクション研究会 優秀研究賞](https://www.sigwi2.org/prev-awardlist), 三宅 悠介, 峯 恒憲, 仮想的な探索を用いて文脈や時間の経過による番狂わせにも迅速に追従する多腕バンディット手法, 2021年12月.
 - [SMASH21 Summer Symposium 優秀賞](https://sites.google.com/view/sig-macc/smash/smash21-summer-symposium), 三宅 悠介, 峯 恒憲, Synapse: 文脈と時間経過に応じて推薦手法の選択を最適化するメタ推薦システム, 2021年9月.
@@ -179,6 +191,10 @@ title = "自己紹介"
 - Yusuke Miyake, [Optimization for Number of goroutines Using Feedback Control](https://www.gophercon.com/agenda/session/49010), [GopherCon Marriott Marquis San Diego Marina, California](https://www.gophercon.com/), July 2019. [[資料](https://speakerdeck.com/monochromegane/optimization-for-number-of-goroutines-using-feedback-control)] [[スピーカーノート](https://blog.monochromegane.com/blog/2019/07/25/gophercon_2019_kaburaya/)] [[動画](https://youtu.be/O_R7Nwsix1c)]
 
 ## 口頭発表(国内)
+
+### 2023年
+
+1. 三宅 悠介 [Go言語でMac GPUプログラミング](https://speakerdeck.com/monochromegane/goyan-yu-demac-gpupuroguramingu), [Fukuoka.go#19 Reboot](https://fukuokago.connpass.com/event/302717/), 2023年12月.
 
 ### 2022年
 
