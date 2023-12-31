@@ -34,7 +34,7 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_TOKEN }}
+        personal_token: ${{ secrets.ACTIONS_DEPLOY_TOKEN }}
         external_repository: monochromegane/monochromegane.github.com
         publish_branch: master
         publish_dir: ./public
