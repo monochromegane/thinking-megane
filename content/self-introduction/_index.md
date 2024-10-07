@@ -10,23 +10,20 @@ title = "自己紹介"
 - ソフトウェアエンジニア
 - GMOペパボ株式会社 プリンシパルエンジニア
 - ペパボ研究所 研究員
-- 九州大学大学院システム情報科学府博士後期課程（情報知能工学専攻）
+- 九州大学博士（情報科学）
 - [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
 
 # 略歴
 
-大学卒業後、地元福岡のSIer勤務を経て、2012年より株式会社paperboy&co.(現GMOペパボ株式会社)に勤務。サービスの運用開発の傍ら、[ログ活用基盤 Bigfoot](https://speakerdeck.com/monochromegane/pepabo-log-infrastructure-bigfoot)の構築に取り組み、サービスを動的に改善していくための仕組みづくりと機械学習に興味を持つ。2017年より同社の研究職へ従事、情報システムの自律適応等の研究に取り組む。2020年10月からは九州大学大学院システム情報科学府博士後期課程に社会人学生として在学中。
+大学卒業後、地元福岡のSIer勤務を経て、2012年より株式会社paperboy&co.（現GMOペパボ株式会社）に勤務。サービスの運用開発の傍ら、[ログ活用基盤 Bigfoot](https://speakerdeck.com/monochromegane/pepabo-log-infrastructure-bigfoot)の構築に取り組み、サービスを動的に改善していくための仕組みづくりと機械学習に興味を持つ。2017年より同社の研究職へ従事、情報システムの自律適応等の研究に取り組む。2020年10月より九州大学大学院システム情報科学府博士後期課程に社会人学生として進学、2024年9月に同課程を修了。
 
-技術者としては多種のOSSを公開し現在も継続的に開発に取り組む。主な開発言語はGo、Ruby。代表プロダクトとして高速grepツールである[the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher)がある。
-2019年4月現在、GitHubスター数による[Go GitHub developers in Japan 3位](http://git-awards.com/users/search?login=monochromegane)。
-また、コミュニティ活動として地域言語コミュニティFukuoka.goの主催、OSS活動支援としてOSS Gate Fukuokaのサポーター、サポートメンターを務める。
+技術者としては多種のOSSを公開し現在も継続的に開発に取り組む。主な開発言語はGo、Ruby。代表プロダクトとして高速grepツールである[the\_platinum\_searcher](https://github.com/monochromegane/the_platinum_searcher)がある。
+また、コミュニティ活動として地域言語コミュニティ[Fukuoka.go](https://fukuokago.dev/)の主催を務める。
 
 # 現在の所属
 
 - 2021年4月〜現在
   - 情報処理学会 インターネットと運用技術研究会 運営委員
-- 2020年10月〜現在
-  - 九州大学大学院システム情報科学府博士後期課程（情報知能工学専攻）
 - 2012年10月〜現在
   - [GMOペパボ株式会社](http://pepabo.com/) プリンシパルエンジニア
   - [ペパボ研究所](https://rand.pepabo.com/) 研究員
@@ -41,13 +38,15 @@ title = "自己紹介"
 
 # 経歴
 
-- 2022年1月  マルチメディア・分散・協調とモバイル(DICOMO2022)シンポジウム プログラム委員 就任
-- 2021年4月  情報処理学会 インターネットと運用技術研究会 運営委員 就任
+- 2024年9月  九州大学大学院システム情報科学府博士後期課程（情報知能工学専攻）修了
+- 2023年1月  マルチメディア・分散・協調とモバイル（DICOMO2023）シンポジウム プログラム委員 就任
+- 2022年1月  マルチメディア・分散・協調とモバイル（DICOMO2022）シンポジウム プログラム委員 就任
+- 2021年4月  情報処理学会 インターネットと運用技術研究会 運営委員 就任（現任）
 - 2020年10月 九州大学大学院システム情報科学府博士後期課程（情報知能工学専攻）入学
-- 2017年1月  ペパボ研究所 研究員 就任(現任)
-- 2015年7月  GMOペパボ株式会社 アドバンスドシニアエンジニア(現プリンシパルエンジニア) 昇格(現任)
-- 2013年7月  株式会社paperboy&co.(現GMOペパボ株式会社) シニアエンジニア 昇格
-- 2012年10月 株式会社paperboy&co.(現GMOペパボ株式会社) 入社
+- 2017年1月  ペパボ研究所 研究員 就任（現任）
+- 2015年7月  GMOペパボ株式会社 アドバンスドシニアエンジニア（現プリンシパルエンジニア） 昇格（現任）
+- 2013年7月  株式会社paperboy&co.（現GMOペパボ株式会社） シニアエンジニア 昇格
+- 2012年10月 株式会社paperboy&co.（現GMOペパボ株式会社） 入社
 - 2012年9月  エコー電子工業株式会社 退社
 - 2003年4月  エコー電子工業株式会社 入社
 - 2003年3月  長崎大学環境科学部環境政策コース 卒業
@@ -59,11 +58,19 @@ title = "自己紹介"
 
 第一著者のものを掲載。共著他については[ペパボ研究所のサイト](http://rand.pepabo.com/archive/)を参照のこと。
 
+## 博士学位論文
+
+1. 三宅 悠介, 多様かつ継続的に変化する環境に適応する情報システム, 九州大学博士学位論文, 2024. [[発表資料]](https://speakerdeck.com/monochromegane/thesis-defense-presentation)
+
 ## 国際会議論文
+
+### 2024年
+
+1. Yusuke Miyake, Ryuji Watanabe, Tsunenori Mine, [Online Nonstationary and Nonlinear Bandits with Recursive Weighted Gaussian Process](https://ieeexplore.ieee.org/document/10633680), The 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024), pp.11-20, Jul 2024. [[発表資料]](https://speakerdeck.com/monochromegane/online-nonstationary-and-nonlinear-bandits-with-recursive-weighted-gaussian-process)
 
 ### 2023年
 
-1. Yusuke Miyake, Tsunenori Mine, Contextual and Nonstationary Multi-armed Bandits Using the Linear Gaussian State Space Model for the Meta-Recommender System, IEEE SMC 2023, pp.3138-3145, Oct 2023. [[発表資料]](https://speakerdeck.com/monochromegane/contextual-and-nonstationary-multi-armed-bandits-using-the-linear-gaussian-state-space-model-for-the-meta-recommender-system)
+1. Yusuke Miyake, Tsunenori Mine, [Contextual and Nonstationary Multi-armed Bandits Using the Linear Gaussian State Space Model for the Meta-Recommender System](https://ieeexplore.ieee.org/document/10394517), IEEE SMC 2023, pp.3138-3145, Oct 2023. [[発表資料]](https://speakerdeck.com/monochromegane/contextual-and-nonstationary-multi-armed-bandits-using-the-linear-gaussian-state-space-model-for-the-meta-recommender-system)
 
 ## ジャーナル論文
 
@@ -146,7 +153,7 @@ title = "自己紹介"
 # コミュニティ活動・OSS普及
 
 - 三宅 悠介,小田 知央,大谷 祐司, [Fukuoka.go主催](https://fukuokago.dev/), 2014年7月〜現在.
-- 三宅 悠介, [OSS Gate Fukuokaサポーター，サポートメンター](https://oss-gate-fukuoka.connpass.com/), 2019年1月〜現在.
+- 三宅 悠介, [OSS Gate Fukuokaサポーター，サポートメンター](https://oss-gate-fukuoka.connpass.com/), 2019年1月〜3月.
 - 三宅 悠介,小田 知央,大谷 祐司, [Go Conference '19 Summer in Fukuoka主催](https://fukuoka.gocon.jp/ja/), 2019年7月13日.
 - 三宅 悠介, [Rails Girls Fukuokaコーチ,VirtualBox+Ubuntu環境構築手順作成](http://railsgirls.com/fukuoka), 2015年7月24日-25日.
 
@@ -163,6 +170,7 @@ title = "自己紹介"
 
 ## Webメディア
 
+- 三宅 悠介, [ペパボ研究所の論文がIEEEの国際会議「COMPSAC 2024」に採択](https://pepabo.com/news/information/202404231200/), GMOペパボ株式会社, 2024年4月.
 - 栗林 健太郎,三宅 悠介,黒瀧 悠太 [学び続けることで、新しい視野と価値を生み出す。ペパボ社会人学生インタビュー](https://hr.pepabo.com/interview/2021/04/16/5510), [ペパボHRブログ](https://hr.pepabo.com/), 2021年4月.
 - 小田 知央,三宅 悠介,清家 史郎 [勉強会はパーティーだ! ビール片手に楽しくGo言語を学ぶコミュニティ「Fukuoka.go」](https://efc.fukuoka.jp/interview/3704), [ENGINEER INTERVIEW - Engineer Friendly City Fukuoka](https://efc.fukuoka.jp/interview), 2020年8月.
 - 三宅 悠介,小田 知央 [エンジニアの技術向上に取り組むコミュニティ･企業を表彰 エンジニアフレンドリーシティ福岡アワード](https://dayori.city.fukuoka.lg.jp/129892/), [福岡市政だより](https://dayori.city.fukuoka.lg.jp/), 2020年3月.
