@@ -2,9 +2,11 @@ title        = "THINKING MEGANE"
 baseurl      = "https://blog.monochromegane.com"
 languageCode = "ja-jp"
 
+ignoreLogs = ['warning-goldmark-raw-html']
+
 [permalinks]
-  post = "/blog/:year/:month/:day/:filename/"
-  diary = "/diary/:filename/"
+  post = "/blog/:year/:month/:day/:contentbasename/"
+  diary = "/diary/:contentbasename/"
 
 [params]
   Twitter   = "monochromegane"
