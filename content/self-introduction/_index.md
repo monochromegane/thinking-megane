@@ -22,13 +22,13 @@ title = "自己紹介"
 # 現在の所属
 
 - 2026年4月〜現在
-  - [GMOペパボ株式会社](http://pepabo.com/) シニア・プリンシパルエンジニア
+  - [GMOペパボ株式会社](https://pepabo.com/) シニア・プリンシパルエンジニア
 - 2012年10月〜現在
   - [ペパボ研究所](https://rand.pepabo.com/) 研究員
 
 # 連絡先
 
-- GMOペパボ株式会社 ペパボ研究所（Pepabo R&D Institute, GMO Pepabo, Inc. ）： miyakey (at) pepabo.com
+- GMOペパボ株式会社 ペパボ研究所（Pepabo R&D Institute, GMO Pepabo, Inc.: https://rand.pepabo.com/ ）： miyakey (at) pepabo.com
 
 # SNSなど
 
