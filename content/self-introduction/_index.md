@@ -99,6 +99,15 @@ title = "自己紹介"
 
 ## 査読無し論文
 
+### 2026年
+
+1. 三宅 悠介, 栗林 健太郎, [適応的スパムフィルタのための軽量な類似メッセージカウンタ](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/2L1-GS-10t-05), 2026年度 人工知能学会全国大会（第40回）, 2L1-GS-10t-05, pp.1-4, 2026年6月. [[論文]](https://rand.pepabo.com/papers/jsai2026-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/jsai2026-adaptive-spam-filter)
+
+### 2025年
+
+1. 三宅 悠介, 栗林 健太郎, [不確実性下における目的と手段の統合的探索に向けた連続腕バンディットの応用](https://ipsj.ixsq.nii.ac.jp/records/2003108), 研究報告インターネットと運用技術（IOT）, Vol.2025-IOT-70, pp.1-8, July 2025. [[論文]](https://rand.pepabo.com/papers/iot70-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/iot70-gp-rff-mab)
+1. 三宅 悠介, 栗林 健太郎, [(招待講演) なめらかなシステムと運用維持の終わらぬ未来](https://tsys.jp/dicomo/2025/program/program_abst.html#7A-1), マルチメディア，分散，協調とモバイル（DICOMO2025）シンポジウム論文集, 2025, p.1261, Jun 2025. [[論文]](https://rand.pepabo.com/papers/dicomo2025-miyakey.pdf) [[発表資料]](https://speakerdeck.com/monochromegane/dicomo2025-coherently-fittable-system)
+
 ### 2022年
 
 1. 三宅 悠介, 峯 恒憲, [迅速な学習機構を用いて逐次適応性を損なうことなく非線形性を扱う文脈付き多腕バンディット手法](https://ken.ieice.org/ken/paper/20220915aCMk/), 信学技報, vol. 122, no. 186, AI2022-22, pp. 25-30, 2022年9月. [[発表資料]](https://speakerdeck.com/monochromegane/extreme-neural-linear-bandits)
@@ -162,6 +171,10 @@ title = "自己紹介"
 
 # 執筆・発表・受賞
 
+## 学会誌
+
+- 三宅 悠介, [2024年度研究会推薦博士論文速報：IE領域](https://doi.org/10.20729/0002003549), 会誌「情報処理」, Vol.66, No.9, p.e61, 2025年8月.
+
 ## 商業誌
 
 - 三宅 悠介, 実践！ 先進的インフラ運用 ── 検索してもでてこない，ホスティングの現場で培ったノウハウ【第4回】サービス改善につながるログ活用基盤の構築, WEB+DB PRESS Vol.102, pp.148-155, 技術評論社, 2017年12月23日. [ISBN 978-4-7741-9433-2](http://gihyo.jp/magazine/wdpress/archive/2018/vol102)
@@ -173,6 +186,7 @@ title = "自己紹介"
 
 ## Webメディア
 
+- 三宅 悠介, [ペパボ研究所の博士論文が情報処理学会「研究会推薦博士論文速報」に選出されました](https://pepabo.com/news/information/202510290930/), GMOペパボ株式会社, 2025年10月.
 - 三宅 悠介, [ペパボ研究所の論文がIEEEの国際会議「COMPSAC 2024」に採択](https://pepabo.com/news/information/202404231200/), GMOペパボ株式会社, 2024年4月.
 - 栗林 健太郎,三宅 悠介,黒瀧 悠太 [学び続けることで、新しい視野と価値を生み出す。ペパボ社会人学生インタビュー](https://hr.pepabo.com/interview/2021/04/16/5510), [ペパボHRブログ](https://hr.pepabo.com/), 2021年4月.
 - 小田 知央,三宅 悠介,清家 史郎 [勉強会はパーティーだ! ビール片手に楽しくGo言語を学ぶコミュニティ「Fukuoka.go」](https://efc.fukuoka.jp/interview/3704), [ENGINEER INTERVIEW - Engineer Friendly City Fukuoka](https://efc.fukuoka.jp/interview), 2020年8月.
@@ -185,6 +199,7 @@ title = "自己紹介"
 
 ## 受賞
 
+- [2026年度（令和8年度）山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2026.html), 三宅 悠介, 不確実性下における目的と手段の統合的探索に向けた連続腕バンディットの応用, 2026年8月.
 - [SMASH22 Summer Symposium 優秀賞](https://sites.google.com/view/sig-macc/smash/smash22-summer-symposium/awards), 三宅 悠介, 峯 恒憲, 迅速な学習機構を用いて逐次適応性を損なうことなく非線形性を扱う文脈付き多腕バンディット手法, 2022年9月.
 - [SMASH22 Summer Symposium 奨励賞](https://sites.google.com/view/sig-macc/smash/smash22-summer-symposium/awards), 三宅 悠介, 峯 恒憲, 迅速な学習機構を用いて逐次適応性を損なうことなく非線形性を扱う文脈付き多腕バンディット手法, 2022年9月.
 - [システム情報3MT(Minutes Thesis) 2位](https://www.isee.kyushu-u.ac.jp/3mt.html), 三宅 悠介, Towards an Adaptive Recommender System, 2022年3月.
@@ -202,6 +217,22 @@ title = "自己紹介"
 - Yusuke Miyake, [Optimization for Number of goroutines Using Feedback Control](https://www.gophercon.com/agenda/session/49010), [GopherCon Marriott Marquis San Diego Marina, California](https://www.gophercon.com/), July 2019. [[資料](https://speakerdeck.com/monochromegane/optimization-for-number-of-goroutines-using-feedback-control)] [[スピーカーノート](https://blog.monochromegane.com/blog/2019/07/25/gophercon_2019_kaburaya/)] [[動画](https://youtu.be/O_R7Nwsix1c)]
 
 ## 口頭発表(国内)
+
+### 2026年
+
+1. 三宅 悠介 [Go言語とトイモデルで学ぶTransformerの気持ち](https://speakerdeck.com/monochromegane/fukuokago23-transformer), [Fukuoka.go#23](https://fukuokago.connpass.com/event/397937/), 2026年7月.
+1. 三宅 悠介 [ベクトル検索のフィルタを用いた機械学習モデルとの統合](https://speakerdeck.com/monochromegane/python-meetup-fukuoka-06-vector-attr), [[AI/ML特集] Python Meetup Fukuoka #6](https://pepabo.connpass.com/event/383515/), 2026年3月.
+1. 三宅 悠介 [Claude Codeセッション現状確認 2026福岡 - beacon: Claude Codeのセッション状態を可視化するCLIツール](https://speakerdeck.com/monochromegane/fukuoka-aicoding-00-beacon), [AIコーディング現状確認会 2026福岡](https://connpass.com/event/383789/), 2026年2月.
+
+### 2025年
+
+1. 三宅 悠介 [重み付き逐次ガウス過程回帰モデルを用いた非定常かつ非線形な多腕バンディット方策](https://speakerdeck.com/monochromegane/online-nonstationary-and-nonlinear-bandits-with-recursive-weighted-gaussian-process), [第24回情報科学技術フォーラム（FIT2025）トップコンファレンス2-2 インターネットとセキュリティ](https://www.gakkai-web.net/fit/program_web/data/html/event/TCS2-2.html), 2025年9月.
+1. 三宅 悠介 [Go言語での実装を通して学ぶ、LLMファインチューニングの仕組み](https://speakerdeck.com/monochromegane/fukuokago22-llm-peft), [Fukuoka.go#22](https://fukuokago.connpass.com/event/364970/), 2025年8月.
+1. 三宅 悠介 [Go言語での実装を通して学ぶ、高速なベクトル検索を支えるクラスタリング技術](https://speakerdeck.com/monochromegane/fukuokago-kmeans), [Fukuoka.go#21](https://fukuokago.connpass.com/event/344467/), 2025年3月.
+
+### 2024年
+
+1. 三宅 悠介 [Go言語でターミナルフレンドリーなAIコマンド、afaを作った](https://speakerdeck.com/monochromegane/fukuokago20-afa), [Fukuoka.go#20](https://fukuokago.connpass.com/event/330951/), 2024年10月.
 
 ### 2023年
 
