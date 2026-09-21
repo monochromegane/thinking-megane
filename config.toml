@@ -1,6 +1,6 @@
 title        = "THINKING MEGANE"
 baseurl      = "https://blog.monochromegane.com"
-languageCode = "ja-jp"
+locale       = "ja-jp"
 
 ignoreLogs = ['warning-goldmark-raw-html']
 
